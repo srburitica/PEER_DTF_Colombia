@@ -1,0 +1,30 @@
+"","Species","Class","Order","Family","transfC","IndNumber"
+"1","Bos","Mammalia","ARTIODACTYLA","Bovidae","High",1
+"2","Cerdocyon thous","Mammalia","CARNIVORA","Canidae","High",1
+"3","Cuniculus  paca","Mammalia","RODENTIA","Cuniculidae","High",1
+"4","Dasyprocta  punctata","Mammalia","RODENTIA","Dasyproctidae","High",1
+"5","Didelphis  marsupialis","Mammalia","DIDELPHIMORPHIA","Didelphidae","High",1
+"6","Tamandua  mexicana","Mammalia","PILOSA","Myrmecophagidae","High",1
+"7","Bos","Mammalia","ARTIODACTYLA","Bovidae","Low",2
+"8","Cuniculus  paca","Mammalia","RODENTIA","Cuniculidae","Low",1
+"9","Dasyprocta  punctata","Mammalia","RODENTIA","Dasyproctidae","Low",6
+"10","Didelphis  marsupialis","Mammalia","DIDELPHIMORPHIA","Didelphidae","Low",1
+"11","Leopardus pardalis","Mammalia","CARNIVORA","Felidae","Low",2
+"12","Eira  barbara","Mammalia","CARNIVORA","Mustelidae","Low",4
+"13","Tamandua  mexicana","Mammalia","PILOSA","Myrmecophagidae","Low",1
+"14","Sciurus","Mammalia","RODENTIA","Sciuridae","Low",1
+"15","Pecari  tajacu","Mammalia","ARTIODACTYLA","Tayassuidae","Low",2
+"16","Bos","Mammalia","ARTIODACTYLA","Bovidae","Med",6
+"17","Canis  lupus familiaris","Mammalia","CARNIVORA","Canidae","Med",1
+"18","Cuniculus  paca","Mammalia","RODENTIA","Cuniculidae","Med",7
+"19","Dasypus  novemcinctus","Mammalia","CINGULATA","Dasypodidae","Med",1
+"20","Dasyprocta  punctata","Mammalia","RODENTIA","Dasyproctidae","Med",71
+"21","Didelphis","Mammalia","DIDELPHIMORPHIA","Didelphidae","Med",2
+"22","Didelphis  marsupialis","Mammalia","DIDELPHIMORPHIA","Didelphidae","Med",4
+"23","Homo  sapiens","Mammalia","PRIMATES","Hominidae","Med",1
+"24","Conepatus  semistriatus","Mammalia","CARNIVORA","Mephitidae","Med",1
+"25","Eira  barbara","Mammalia","CARNIVORA","Mustelidae","Med",9
+"26","Tamandua  mexicana","Mammalia","PILOSA","Myrmecophagidae","Med",8
+"27","Procyon  cancrivorus","Mammalia","CARNIVORA","Procyonidae","Med",1
+"28","Sciurus","Mammalia","RODENTIA","Sciuridae","Med",4
+"29","Pecari  tajacu","Mammalia","ARTIODACTYLA","Tayassuidae","Med",9

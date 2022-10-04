@@ -1,0 +1,46 @@
+"","Estacionf2","Species","order","family","transfC","IndNumber"
+"1","Estación:CTAIP3","Procyon cancrivorus","Carnivora","Procyonidae","Baja",1
+"2","Estación:CTAIP3","Pecari tajacu","Artiodactyla","Tayassuidae","Baja",2
+"3","Estación:CTAIP3","Dasyprocta punctata","Rodentia","Dasyproctidae","Baja",1
+"4","Estación:CTAIP3","Cuniculus paca","Rodentia","Cuniculidae","Baja",1
+"5","Estación:CTAIP3","Mus o Rattus","Rodentia","Muridae","Baja",1
+"6","Estación:CTAIP3","Odocoileus cariacou","Artiodactyla","Cervidae","Baja",1
+"7","Estación:CTAIP3","Didelphis marsupialis","Didelphimorphia","Didelphidae","Baja",1
+"8","Estación:CTAIP15","Dasyprocta punctata","Rodentia","Dasyproctidae","Alta",1
+"9","Estación:CTAIP15","Leopardus pardalis","Carnivora","Felidae","Alta",2
+"10","Estación:CTAIP16","Pecari tajacu","Artiodactyla","Tayassuidae","Alta",9
+"11","Estación:CTAIP16","Procyon cancrivorus","Carnivora","Procyonidae","Alta",1
+"12","Estación:CTAIP14","Dasyprocta punctata","Rodentia","Dasyproctidae","Alta",8
+"13","Estación:CTAIP14","Eira barbara","Carnivora","Mustelidae","Alta",1
+"14","Estación:CTAIP14","Tamandua mexicana","Pilosa","Myrmecophagidae","Alta",1
+"15","Estación:CTAIP14","Odocoileus cariacou","Artiodactyla","Cervidae","Alta",1
+"16","Estación:CTAIP14","Sylvilagus brasiliensis","Lagomorpha","Leporidae","Alta",1
+"17","Estación:CTAIP13","Eira barbara","Carnivora","Mustelidae","Alta",1
+"18","Estación:CTAIP13","Dasyprocta punctata","Rodentia","Dasyproctidae","Alta",1
+"19","Estación:CTAIP13","Capra aegagrus","Artiodactyla","Bovidae","Alta",4
+"20","Estación:CTAIP2","Leopardus pardalis","Carnivora","Felidae","Baja",1
+"21","Estación:CTAIP2","Odocoileus cariacou","Artiodactyla","Cervidae","Baja",1
+"22","Estación:CTAIP2","Dasypus novemcinctus","Cingulata","Dasypodidae","Baja",1
+"23","Estación:CTAIP2","Pecari tajacu","Artiodactyla","Tayassuidae","Baja",22
+"24","Estación:CTAIP2","Eira barbara","Carnivora","Mustelidae","Baja",1
+"25","Estación:CTAIP2","Tamandua mexicana","Pilosa","Myrmecophagidae","Baja",1
+"26","Estación:CTAIP2","Notosciurus","Rodentia","Sciuridae","Baja",1
+"27","Estación:CTAIP2","Procyon cancrivorus","Carnivora","Procyonidae","Baja",1
+"28","Estación:CTAIP2","Dasyprocta punctata","Rodentia","Dasyproctidae","Baja",2
+"29","Estación:CTAIP4","Equus ferus","Perissodactyla","Equidae","Baja",1
+"30","Estación:CTAIP4","Cerdocyon thous","Carnivora","Canidae","Baja",1
+"31","Estación:CTAIP1","Procyon cancrivorus","Carnivora","Procyonidae","Baja",1
+"32","Estación:CTAIP1","Eira barbara","Carnivora","Mustelidae","Baja",1
+"33","Estación:CTAIP1","Pecari tajacu","Artiodactyla","Tayassuidae","Baja",6
+"34","Estación:CTAIP1","Odocoileus cariacou","Artiodactyla","Cervidae","Baja",1
+"35","Estación:CTAIP1","Dasyprocta punctata","Rodentia","Dasyproctidae","Baja",1
+"36","Estación:CTAIP1","Notosciurus","Rodentia","Sciuridae","Baja",1
+"37","Estación:CTAIP5","Dasyprocta punctata","Rodentia","Dasyproctidae","Baja",1
+"38","Estación:CTAIP5","Cerdocyon thous","Carnivora","Canidae","Baja",1
+"39","Estación:CTAIP5","Cuniculus paca","Rodentia","Cuniculidae","Baja",1
+"40","Estación:CTAIP5","Capra aegagrus","Artiodactyla","Bovidae","Baja",15
+"41","Estación:CTAIP6","Sylvilagus brasiliensis","Lagomorpha","Leporidae","Media",1
+"42","Estación:CTAIP7","Leopardus pardalis","Carnivora","Felidae","Media",1
+"43","Estación:CTAIP10","Odocoileus cariacou","Artiodactyla","Cervidae","Media",1
+"44","Estación:CTAIP10","Leopardus pardalis","Carnivora","Felidae","Media",1
+"45","Estación:CTAIP10","Equus ferus","Perissodactyla","Equidae","Media",1

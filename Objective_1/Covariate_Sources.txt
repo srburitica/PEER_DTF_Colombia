@@ -1,0 +1,19 @@
+1) Coverturas de la tierra de la ESA -ESAcov: \\192.168.11.113\n\6_DatosGlobales\Coberturas_ESA\clip_col
+2) Distancia a asentamientos -AsentData: \\192.168.11.113\n\1_InfoNacional\Capas HEH\Distancias\Dis_asentamientos
+3) Distancia a vías -dViasTren: \\192.168.11.113\n\1_InfoNacional\Capas HEH\Distancias\Dis_vias
+4) Datos climáticos mensuales -Temperatura máxima, mínimma, Precipitacion humedad: \\192.168.11.113\Andromeda\Proyectos_IAvH\FA\N2_ProductosPlanInversion\2-Ideam\a.InfoNacional\2-InfoClimática\13014IdeamCli
+5) Datos de verdor de la ESA -EVI y NDVI: \\192.168.11.113\n\6_DatosGlobales\DatosCUBOESA
+6) Altura del dosel -Canopy Height: \\192.168.11.113\n\6_DatosGlobales\Forest_Integrity\Tree_Height_COL
+7) Año del último disturbio detectado -DistY: \\192.168.11.113\n\6_DatosGlobales\Forest_Integrity\Disturbance_tree_cover_00-16_COL
+8) Indicador de dinámica bosque no bosque -BNB_indc:\\192.168.11.113\n\1_InfoNacional\InsumosBNB\bnbcna9016 y \\192.168.11.113\n\1_InfoNacional\InsumosBNB\bnbcna9016x
+9)Integridad de Bosques: \\192.168.11.113\n\6_DatosGlobales\Forest_Integrity\Forest_integrity_2019\Colombia_SCI
+10) Densidad humana:\\192.168.11.113\n\1_InfoNacional\Capas HEH\DensidadPoblacional
+11) Huella espacial humana: \\192.168.11.113\n\1_InfoNacional\Capas HEH
+12) Fragmentación: \\192.168.11.113\n\6_DatosGlobales\NAU_Connectivity_Fragmentation\mspa1_0_extracts\colombia
+13) áreas habitadas:\\192.168.11.113\n\6_DatosGlobales\Urban_IndustrialAreas
+14) Densidad de Carreteras:\\192.168.11.113\n\1_InfoNacional
+15) Edad de los bosques: \\192.168.11.113\n\2_BosqueSeco\Edades_BST
+16) Transition ESA cob 92-15: \\192.168.11.113\n\6_DatosGlobales\Coberturas_ESA\Transformacion 92-15
+17) Transition from Corine Land Cover-Colombia: \\192.168.11.113\n\1_InfoNacional\1_Coberturas\Combine_cobertura
+18) DEM: \\192.168.11.113\Andromeda\Informacion_Externa\IGAC\DEM30m
+ 

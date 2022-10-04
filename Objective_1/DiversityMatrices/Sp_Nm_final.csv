@@ -1,0 +1,1194 @@
+"","Original","Adjusted","VSpNm","genus","family","life_form","code","txresol","life_form_w","threat_st"
+"1"," Albizia sp","Albizia sp","Albizia","Albizia","Fabaceae","treelet","Albisp","genus","treelet",NA
+"2"," Cocos nucifera","Cocos nucifera","Cocos nucifera","Cocos",NA,NA,"Coconucif","species","palm",NA
+"3","Abarema jupunba","Abarema jupunba","Abarema jupunba","Abarema","Fabaceae",NA,"Abarjupun","species","tree",NA
+"4","Abutilon ibarrense","Abutilon ibarrense","Abutilon ibarrense","Abutilon",NA,NA,"Abutibarr","species",NA,NA
+"5","Acacia farnesiana","Acacia farnesiana","Acacia farnesiana","Acacia",NA,NA,"Acacfarne","species","treelet",NA
+"6","Acacia farnesina","Acacia farnesiana","Acacia farnesiana","Acacia",NA,NA,"Acacfarne","species","treelet",NA
+"7","Acacia farnessiana","Acacia farnesiana","Acacia farnesiana","Acacia",NA,NA,"Acacfarne","species","treelet",NA
+"8","Acacia mangium","Acacia mangium","Acacia mangium","Acacia",NA,NA,"Acacmangi","species",NA,NA
+"9","Acacia pennatula","Acacia pennatula","Acacia pennatula","Acacia",NA,NA,"Acacpenna","species",NA,NA
+"10","Acacia polyphylla","Acacia polyphylla","Acacia polyphylla","Acacia",NA,NA,"Acacpolyp","species","tree",NA
+"11","Acacia sp","Acacia sp","Acacia","Acacia",NA,NA,"Acacsp","genus",NA,NA
+"12","Acaliphia sp","Acalypha sp","Acalypha","Acalypha","Euphorbiaceae","shrub","Acalsp","genus","shrub",NA
+"13","Acaly sp","Acalypha sp","Acalypha","Acalypha","Euphorbiaceae","shrub","Acalsp","genus","shrub",NA
+"14","Acalypha diversifolia","Acalypha diversifolia","Acalypha diversifolia","Acalypha","Euphorbiaceae","shrub","Acaldive","species","shrub",NA
+"15","Acalypha macrostachya","Acalypha macrostachya","Acalypha macrostachya","Acalypha","Euphorbiaceae","tree","Acalmacr","species","tree",NA
+"16","Acalypha sp","Acalypha sp","Acalypha","Acalypha","Euphorbiaceae","shrub","Acalsp","genus","shrub",NA
+"17","Acantella sprucei","Acantella sprucei","Acanthella sprucei","Acanthella",NA,NA,"Acanspruc","species","treelet",NA
+"18","Acanthocereus sp","Acanthocereus sp","Acanthocereus","Acanthocereus","Cactaceae",NA,"Acansp","genus",NA,NA
+"19","Acanthocereus tetragonus","Acanthocereus tetragonus","Acanthocereus tetragonus","Acanthocereus","Cactaceae","cactus","Acantetr","species","cactus",NA
+"20","Acanthocerus sp","Acanthocereus sp","Acanthocereus","Acanthocereus","Cactaceae",NA,"Acansp","genus",NA,NA
+"21","Acantocerus sp","Acanthocereus sp","Acanthocereus","Acanthocereus","Cactaceae",NA,"Acansp","genus",NA,NA
+"22","Achatocarpus nigricans","Achatocarpus nigricans","Achatocarpus nigricans","Achatocarpus","Achatocarpaceae","treelet","Achanigr","species","treelet",NA
+"23","Achatocarpus sp","Achatocarpus sp","Achatocarpus","Achatocarpus","Achatocarpaceae",NA,"Achasp","genus",NA,NA
+"24","Acmella ciliata","Acmella ciliata","Acmella ciliata","Acmella",NA,NA,"Acmecilia","species","forb",NA
+"25","Acrocomia aculeata","Acrocomia aculeata","Acrocomia aculeata","Acrocomia",NA,NA,"Acroacule","species","palm",NA
+"26","Acrocomia aculeta","Acrocomia aculeata","Acrocomia aculeata","Acrocomia",NA,NA,"Acroacule","species","palm",NA
+"27","Acrocomia culeata","Acrocomia aculeata","Acrocomia aculeata","Acrocomia",NA,NA,"Acroacule","species","palm",NA
+"28","Acrocomia sp","Acrocomia sp","Acrocomia","Acrocomia",NA,NA,"Acrosp","genus",NA,NA
+"29","Adatocarpus sp","Achatocarpus sp","Achatocarpus","Achatocarpus","Achatocarpaceae",NA,"Achasp","genus",NA,NA
+"30","Adenolisianthus arboreus","Adenolisianthus arboreus","Adenolisianthus arboreus","Adenolisianthus",NA,NA,"Adenarbor","species","treelet",NA
+"31","Aegephilla sp","Aegiphila sp","Aegiphila","Aegiphila","Lamiaceae","shrub","Aegisp","genus","shrub",NA
+"32","Aegiphila sp","Aegiphila sp","Aegiphila","Aegiphila","Lamiaceae","shrub","Aegisp","genus","shrub",NA
+"33","Agave sp","Agave sp","Agave","Agave",NA,NA,"Agavsp","genus",NA,NA
+"34","Agonanadra brasiliensis","Agonandra brasiliensis","Agonandra brasiliensis","Agonandra","Opiliaceae","tree","Agonbras","species","tree",NA
+"35","Agonand sp","Agonandra sp","Agonandra","Agonandra","Opiliaceae",NA,"Agonsp","genus",NA,NA
+"36","Agonandra brasiliensis","Agonandra brasiliensis","Agonandra brasiliensis","Agonandra","Opiliaceae","tree","Agonbras","species","tree",NA
+"37","Aiphanes aculeata","Aiphanes aculeata","Aiphanes aculeata","Aiphanes","Arecaceae",NA,"Aiphacule","species","palm",NA
+"38","Albizia carbonaria","Albizia carbonaria","Albizia carbonaria","Albizia","Fabaceae","tree","Albicarb","species","tree",NA
+"39","Albizia guachapele","Albizia guachapele","Albizia guachapele","Albizia","Fabaceae",NA,"Albiguach","species",NA,NA
+"40","Albizia guacilapela","Albizia guachapele","Albizia guachapele","Albizia","Fabaceae",NA,"Albiguach","species",NA,NA
+"41","Albizia guadapete","Albizia guachapele","Albizia guachapele","Albizia","Fabaceae",NA,"Albiguach","species",NA,NA
+"42","Albizia niopiodes","Albizia niopoides","Albizia niopoides","Albizia","Fabaceae","tree","Albiniop","species","tree","LC"
+"43","Albizia niopioides","Albizia niopoides","Albizia niopoides","Albizia","Fabaceae","tree","Albiniop","species","tree","LC"
+"44","Albizia niopoides","Albizia niopoides","Albizia niopoides","Albizia","Fabaceae","tree","Albiniop","species","tree","LC"
+"45","Albizia nipoides","Albizia niopoides","Albizia niopoides","Albizia","Fabaceae","tree","Albiniop","species","tree","LC"
+"46","Albizia saman","Albizia samanea","Albizia","Albizia","Fabaceae","treelet","Albisp","genus","treelet",NA
+"47","Albizia saman especies en","Albizia samanea","Albizia","Albizia","Fabaceae","treelet","Albisp","genus","treelet",NA
+"48","Albizia samanea","Albizia samanea","Albizia","Albizia","Fabaceae","treelet","Albisp","genus","treelet",NA
+"49","Albizia sp","Albizia sp","Albizia","Albizia","Fabaceae","treelet","Albisp","genus","treelet",NA
+"50","Albizia subdimidiata","Albizia subdimidiata","Albizia subdimidiata","Albizia","Fabaceae",NA,"Albisubdi","species",NA,NA
+"51","Albizzia guachapele","Albizia guachapele","Albizia guachapele","Albizia","Fabaceae",NA,"Albiguach","species",NA,NA
+"52","Albizzia niopoides","Albizia niopoides","Albizia niopoides","Albizia","Fabaceae","tree","Albiniop","species","tree","LC"
+"53","Albizzia saman","Albizia samanea","Albizia","Albizia","Fabaceae","treelet","Albisp","genus","treelet",NA
+"54","Alchornea discolor","Alchornea discolor","Alchornea discolor","Alchornea",NA,NA,"Alchdisco","species","tree",NA
+"55","Alchornea sp","Alchornea sp","Alchornea","Alchornea",NA,NA,"Alchsp","genus",NA,NA
+"56","Alchornea triplinervia","Alchornea triplinervia","Alchornea triplinervia","Alchornea",NA,NA,"Alchtripl","species","shrub",NA
+"57","Allophyllus amazonicus","Allophylus amazonicus","Allophylus amazonicus","Allophylus","Sapindaceae",NA,"Alloamazo","species","tree",NA
+"58","Alophyllus amazonicus","Allophylus amazonicus","Allophylus amazonicus","Allophylus","Sapindaceae",NA,"Alloamazo","species","tree",NA
+"59","Amaioua cf corymbosa","Amaioua corymbosa","Amaioua corymbosa","Amaioua","Rubiaceae","tree","Amaicory","species","tree",NA
+"60","Amirys pinnata","Amyris pinnata","Amyris pinnata","Amyris","Rutaceae","tree","Amyrpinn","species","tree",NA
+"61","Ampelocera macphersonii","Ampelocera macphersonii","Ampelocera macphersonii","Ampelocera","Ulmaceae","tree","Ampemacp","species","tree",NA
+"62","Amphilophium granulosum","Amphilophium granulosum","Amphilophium granulosum","Amphilophium","Bignoniaceae",NA,"Amphgranu","species","liana",NA
+"63","Amyris pinnata","Amyris pinnata","Amyris pinnata","Amyris","Rutaceae","tree","Amyrpinn","species","tree",NA
+"64","Anacarcium excelsum","Anacardium excelsum","Anacardium excelsum","Anacardium","Anacardiaceae","tree","Anacexce","species","tree",NA
+"65","Anacardium excelsum","Anacardium excelsum","Anacardium excelsum","Anacardium","Anacardiaceae","tree","Anacexce","species","tree",NA
+"66","Anacarium excelsum","Anacardium excelsum","Anacardium excelsum","Anacardium","Anacardiaceae","tree","Anacexce","species","tree",NA
+"67","Anacradium excelsum","Anacardium excelsum","Anacardium excelsum","Anacardium","Anacardiaceae","tree","Anacexce","species","tree",NA
+"68","Anadenanthera pere","Anadenanthera peregrina","Anadenanthera peregrina","Anadenanthera",NA,NA,"Anadpereg","species",NA,NA
+"69","Anadenanthera peregrina","Anadenanthera peregrina","Anadenanthera peregrina","Anadenanthera",NA,NA,"Anadpereg","species",NA,NA
+"70","Anadenathera peregrina","Anadenanthera peregrina","Anadenanthera peregrina","Anadenanthera",NA,NA,"Anadpereg","species",NA,NA
+"71","Andira cf inermis","Andira inermis","Andira inermis","Andira",NA,NA,"Andiinerm","species","tree",NA
+"72","Andira guianensis","Andira guianensis","Andira","Andira",NA,NA,"Andisp","genus",NA,NA
+"73","Andira surinamensis","Andira surinamensis","Andira surinamensis","Andira",NA,NA,"Andisurin","species","tree",NA
+"74","Angarillo sp","Chloroleucon mangense","Chloroleucon mangense","Chloroleucon","Fabaceae","tree","Chlomang","species","tree",NA
+"75","Aniba sp","Aniba sp","Aniba","Aniba",NA,NA,"Anibsp","genus",NA,NA
+"76","Annon sp","Annona sp","Annona","Annona","Annonaceae",NA,"Annosp","genus",NA,NA
+"77","Annona anonaceae amarilla","Annona sp","Annona","Annona","Annonaceae",NA,"Annosp","genus",NA,NA
+"78","Annona edulis","Annona edulis","Annona edulis","Annona","Annonaceae",NA,"Annoeduli","species","tree",NA
+"79","Annona exsucca","Annona exsucca","Annona exsucca","Annona","Annonaceae",NA,"Annoexsuc","species","tree",NA
+"80","Annona glabra","Annona glabra","Annona glabra","Annona","Annonaceae",NA,"Annoglabr","species","tree","LC"
+"81","Annona jahnii","Annona jahnii","Annona jahnii","Annona","Annonaceae","tree","Annojahn","species","tree",NA
+"82","Annona muricata","Annona muricata","Annona muricata","Annona","Annonaceae","tree","Annomuri","species","tree",NA
+"83","Annona reticulata","Annona reticulata","Annona reticulata","Annona","Annonaceae",NA,"Annoretic","species","tree",NA
+"84","Annona sp","Annona sp","Annona","Annona","Annonaceae",NA,"Annosp","genus",NA,NA
+"85","Annonaceae sp","Annonaceae","Annonaceae","Annonaceae",NA,NA,"Annofm","family",NA,NA
+"86","Apeiba sp","Apeiba sp","Apeiba","Apeiba","Malvaceae",NA,"Apeisp","genus",NA,NA
+"87","Apeiba tibourbou","Apeiba tibourbou","Apeiba tibourbou","Apeiba","Malvaceae","tree","Apeitibo","species","tree",NA
+"88","Aphelandra pulcherrima","Aphelandra pulcherrima","Aphelandra pulcherrima","Aphelandra","Acanthaceae",NA,"Aphepulch","species","treelet",NA
+"89","Apuleia leicarpa","Apuleia leiocarpa","Apuleia leiocarpa","Apuleia",NA,NA,"Apulleioc","species","tree","VU"
+"90","Apuleia leiocarpa","Apuleia leiocarpa","Apuleia leiocarpa","Apuleia",NA,NA,"Apulleioc","species","tree","VU"
+"91","Aralia excelsa","Aralia excelsa","Aralia excelsa","Aralia","Araliaceae","treelet","Aralexce","species","treelet",NA
+"92","Ardisia guianensis","Ardisia guianensis","Ardisia guianensis","Ardisia","Primulaceae",NA,"Ardiguian","species","treelet",NA
+"93","Argemone mexicana","Argemone mexicana","Argemone mexicana","Argemone",NA,NA,"Argemexic","species","forb",NA
+"94","Aristoloquia sp","Aristolochia sp","Aristolochia","Aristolochia","Aristolochiaceae","liana","Arissp","genus","liana",NA
+"95","Arrayan escobo","Myrcia sp","Myrcia","Myrcia","Myrtaceae","tree","Myrcsp2","genus","tree",NA
+"96","Aspidospema polyneuron","Aspidosperma polyneuron","Aspidosperma polyneuron","Aspidosperma","Apocynaceae","tree","Aspipoly","species","tree","NT"
+"97","Aspidosperma cf spruceanum","Aspidosperma spruceanum","Aspidosperma spruceanum","Aspidosperma","Apocynaceae",NA,"Aspispruc","species","tree","LC"
+"98","Aspidosperma cuspa","Aspidosperma cuspa","Aspidosperma cuspa","Aspidosperma","Apocynaceae","tree","Aspicusp","species","tree",NA
+"99","Aspidosperma ployneuron","Aspidosperma polyneuron","Aspidosperma polyneuron","Aspidosperma","Apocynaceae","tree","Aspipoly","species","tree","NT"
+"100","Aspidosperma polineurum","Aspidosperma polyneuron","Aspidosperma polyneuron","Aspidosperma","Apocynaceae","tree","Aspipoly","species","tree","NT"
+"101","Aspidosperma polyneurom","Aspidosperma polyneuron","Aspidosperma polyneuron","Aspidosperma","Apocynaceae","tree","Aspipoly","species","tree","NT"
+"102","Aspidosperma polyneuron","Aspidosperma polyneuron","Aspidosperma polyneuron","Aspidosperma","Apocynaceae","tree","Aspipoly","species","tree","NT"
+"103","Aspidosperma spruceanum","Aspidosperma spruceanum","Aspidosperma spruceanum","Aspidosperma","Apocynaceae",NA,"Aspispruc","species","tree","LC"
+"104","Astonium gravedens","Astronium graveolens","Astronium graveolens","Astronium","Anacardiaceae","tree","Astrgrav","species","tree","LC"
+"105","Astoriom gramoles","Astronium graveolens","Astronium graveolens","Astronium","Anacardiaceae","tree","Astrgrav","species","tree","LC"
+"106","Astorium gravedes","Astronium graveolens","Astronium graveolens","Astronium","Anacardiaceae","tree","Astrgrav","species","tree","LC"
+"107","Astrocaryum jauari","Astrocaryum jauari","Astrocaryum jauari","Astrocaryum",NA,NA,"Astrjauar","species","palm",NA
+"108","Astromiun garveolens","Astronium graveolens","Astronium graveolens","Astronium","Anacardiaceae","tree","Astrgrav","species","tree","LC"
+"109","Astromiun graveolens","Astronium graveolens","Astronium graveolens","Astronium","Anacardiaceae","tree","Astrgrav","species","tree","LC"
+"110","Astronium fraxinifolium","Astronium fraxinifolium","Astronium fraxinifolium","Astronium","Anacardiaceae",NA,"Astrfraxi","species","tree","LC"
+"111","Astronium garveolens","Astronium graveolens","Astronium graveolens","Astronium","Anacardiaceae","tree","Astrgrav","species","tree","LC"
+"112","Astronium gnavedes","Astronium graveolens","Astronium graveolens","Astronium","Anacardiaceae","tree","Astrgrav","species","tree","LC"
+"113","Astronium gravedes","Astronium graveolens","Astronium graveolens","Astronium","Anacardiaceae","tree","Astrgrav","species","tree","LC"
+"114","Astronium graveoklens","Astronium graveolens","Astronium graveolens","Astronium","Anacardiaceae","tree","Astrgrav","species","tree","LC"
+"115","Astronium graveolens","Astronium graveolens","Astronium graveolens","Astronium","Anacardiaceae","tree","Astrgrav","species","tree","LC"
+"116","Astronium sp","Astronium sp","Astronium","Astronium","Anacardiaceae",NA,"Astrsp","genus",NA,NA
+"117","Atalea butyracea","Attalea butyracea","Attalea butyracea","Attalea","Arecaceae","palm","Attabuty","species","palm",NA
+"118","Attalea butyracea","Attalea butyracea","Attalea butyracea","Attalea","Arecaceae","palm","Attabuty","species","palm",NA
+"119","Attalea butyracea ","Attalea butyracea","Attalea butyracea","Attalea","Arecaceae","palm","Attabuty","species","palm",NA
+"120","Attalea butyraceae","Attalea butyracea","Attalea butyracea","Attalea","Arecaceae","palm","Attabuty","species","palm",NA
+"121","Attalea maripa","Attalea maripa","Attalea maripa","Attalea","Arecaceae",NA,"Attamarip","species","forb",NA
+"122","Attalea sp","Attalea sp","Attalea","Attalea","Arecaceae",NA,"Attasp","genus",NA,NA
+"123","Attlalea butyracea","Attalea butyracea","Attalea butyracea","Attalea","Arecaceae","palm","Attabuty","species","palm",NA
+"124","Bactris gasipaes","Bactris gasipaes","Bactris gasipaes","Bactris","Arecaceae",NA,"Bactgasip","species","palm",NA
+"125","Bactris gasipaes var chichagui","Bactris gasipaes","Bactris gasipaes","Bactris","Arecaceae",NA,"Bactgasip","species","palm",NA
+"126","Bactris guineensis","Bactris guineensis","Bactris guineensis","Bactris","Arecaceae",NA,"Bactguine","species",NA,NA
+"127","Bactris macana","Bactris macana","Bactris macana","Bactris","Arecaceae",NA,"Bactmacan","species","forb",NA
+"128","Bactris major","Bactris major","Bactris major","Bactris","Arecaceae",NA,"Bactmajor","species","palm",NA
+"129","Bactris minor","Bactris minor","Bactris minor","Bactris","Arecaceae",NA,"Bactminor","species","palm",NA
+"130","Bahuinia ungulata","Bauhinia ungulata","Bauhinia ungulata","Bauhinia","Fabaceae",NA,"Bauhungul","species","tree",NA
+"131","Bambusa guadua","Bambusa guadua","Bambusa guadua","Bambusa",NA,NA,"Bambguadu","species",NA,NA
+"132","Bambusa vulgaris","Bambusa vulgaris","Bambusa vulgaris","Bambusa",NA,NA,"Bambvulga","species","tree",NA
+"133","Bauhinia aculeata","Bauhinia aculeata","Bauhinia aculeata","Bauhinia","Fabaceae",NA,"Bauhacule","species",NA,NA
+"134","Bauhinia angulata","Bauhinia angulata","Bauhinia angulata","Bauhinia","Fabaceae",NA,"Bauhangul","species","tree",NA
+"135","Bauhinia glabra","Bauhinia glabra","Bauhinia glabra","Bauhinia","Fabaceae","liana","Bauhglab","species","liana",NA
+"136","Bauhinia guianensis","Bauhinia guianensis","Bauhinia guianensis","Bauhinia","Fabaceae",NA,"Bauhguian","species",NA,NA
+"137","Bauhinia picta","Bauhinia picta","Bauhinia picta","Bauhinia","Fabaceae",NA,"Bauhpicta","species",NA,NA
+"138","Bauhinia pictan","Bauhinia picta","Bauhinia picta","Bauhinia","Fabaceae",NA,"Bauhpicta","species",NA,NA
+"139","Bauhinia ungulata","Bauhinia ungulata","Bauhinia ungulata","Bauhinia","Fabaceae",NA,"Bauhungul","species","tree",NA
+"140","Bauhinia ungulata ","Bauhinia ungulata","Bauhinia ungulata","Bauhinia","Fabaceae",NA,"Bauhungul","species","tree",NA
+"141","Belencita nemorosa","Belencita nemorosa","Belencita nemorosa","Belencita","Capparaceae","shrub","Belenemo","species","shrub",NA
+"142","Bellucia grossularioides","Bellucia grossularioides","Bellucia grossularioides","Bellucia",NA,NA,"Bellgross","species","tree",NA
+"143","Bignonia corymbosa","Bignonia corymbosa","Bignonia corymbosa","Bignonia","Bignoniaceae",NA,"Bigncorym","species","liana",NA
+"144","Bixa urucurana","Bixa urucurana","Bixa urucurana","Bixa",NA,NA,"Bixaurucu","species","tree",NA
+"145","Bocageopsis multiflora","Bocageopsis multiflora","Bocageopsis multiflora","Bocageopsis",NA,NA,"Bocamulti","species","tree",NA
+"146","Boehmeria sp","Boehmeria sp","Boehmeria","Boehmeria",NA,NA,"Boehsp","genus",NA,NA
+"147","Borwnea rosa demonte","Brownea rosa-de-monte","Brownea rosa-de-monte","Brownea","Fabaceae",NA,"Browrosa","species",NA,NA
+"148","Bourreria cumanensis","Bourreria cumanensis","Bourreria cumanensis","Bourreria","Boraginaceae","tree","Bourcuma","species","tree",NA
+"149","Bourreria sp","Bourreria sp","Bourreria","Bourreria","Boraginaceae",NA,"Boursp","genus",NA,NA
+"150","Brachiaria decumbens","Brachiaria decumbens","Brachiaria decumbens","Brachiaria",NA,NA,"Bracdecum","species","forb",NA
+"151","Bravaisia integerrima","Bravaisia integerrima","Bravaisia integerrima","Bravaisia",NA,NA,"Bravinteg","species",NA,NA
+"152","Bromelia karatas","Bromelia karatas","Bromelia karatas","Bromelia",NA,NA,"Bromkarat","species",NA,NA
+"153","Bromelia pinguin","Bromelia pinguin","Bromelia pinguin","Bromelia",NA,NA,"Brompingu","species",NA,NA
+"154","Bromelia pingun","Bromelia pinguin","Bromelia pinguin","Bromelia",NA,NA,"Brompingu","species",NA,NA
+"155","Bromelia sp","Bromelia sp","Bromelia","Bromelia",NA,NA,"Bromsp","genus",NA,NA
+"156","Brosimum alicastrum","Brosimum alicastrum","Brosimum alicastrum","Brosimum","Moraceae","tree","Brosalic","species","tree",NA
+"157","Brosimum alicastrun","Brosimum alicastrum","Brosimum alicastrum","Brosimum","Moraceae","tree","Brosalic","species","tree",NA
+"158","Brosimum allicastrum","Brosimum alicastrum","Brosimum alicastrum","Brosimum","Moraceae","tree","Brosalic","species","tree",NA
+"159","Brosimum guianense","Brosimum guianense","Brosimum guianense","Brosimum","Moraceae","tree","Brosguia","species","tree",NA
+"160","Brosimum sp","Brosimum sp","Brosimum","Brosimum","Moraceae","tree","Brossp","genus","tree",NA
+"161","Brosimun alicastrum","Brosimum alicastrum","Brosimum alicastrum","Brosimum","Moraceae","tree","Brosalic","species","tree",NA
+"162","Brosumun sp","Brosimum sp","Brosimum","Brosimum","Moraceae","tree","Brossp","genus","tree",NA
+"163","Brownea ariza","Brownea ariza","Brownea ariza","Brownea","Fabaceae","tree","Browariz","species","tree",NA
+"164","Brownea rosa de monte","Brownea rosa-de-monte","Brownea rosa-de-monte","Brownea","Fabaceae",NA,"Browrosa","species",NA,NA
+"165","Brownea sp","Brownea sp","Brownea","Brownea","Fabaceae",NA,"Browsp","genus",NA,NA
+"166","Buchanavia tetraphylla","Buchenavia tetraphylla","Buchenavia tetraphylla","Buchenavia",NA,NA,"Buchtetra","species","tree",NA
+"167","Buchenav sp","Buchenavia sp","Buchenavia","Buchenavia",NA,NA,"Buchsp","genus",NA,NA
+"168","Buchenavia tetraphylla","Buchenavia tetraphylla","Buchenavia tetraphylla","Buchenavia",NA,NA,"Buchtetra","species","tree",NA
+"169","Buchenavia tretraphylla","Buchenavia tetraphylla","Buchenavia tetraphylla","Buchenavia",NA,NA,"Buchtetra","species","tree",NA
+"170","Bulneisa arborea","Bulnesia arborea","Bulnesia arborea","Bulnesia","Zygophyllaceae","tree","Bulnarbo","species","tree",NA
+"171","Bulnesia arborea","Bulnesia arborea","Bulnesia arborea","Bulnesia","Zygophyllaceae","tree","Bulnarbo","species","tree",NA
+"172","Bulnesia carrapo","Bulnesia carrapo","Bulnesia carrapo","Bulnesia","Zygophyllaceae",NA,"Bulncarra","species",NA,NA
+"173","Bunchosia arborea","Bunchosia arborea","Bunchosia","Bunchosia","Malpighiaceae","shrub","Buncsp","genus","shrub",NA
+"174","Bunchosia odorata","Bunchosia odorata","Bunchosia odorata","Bunchosia","Malpighiaceae","shrub","Buncodor","species","shrub",NA
+"175","Bunchosia odoratissima","Bunchosia odoratissima","Bunchosia","Bunchosia","Malpighiaceae","shrub","Buncsp","genus","shrub",NA
+"176","Bunchosia pseudonitida","Bunchosia pseudonitida","Bunchosia pseudonitida","Bunchosia","Malpighiaceae","tree","Buncpseu","species","tree",NA
+"177","Bur sp","Bursera sp","Bursera","Bursera","Burseraceae",NA,"Burssp","genus",NA,NA
+"178","Buresera sp","Bursera sp","Bursera","Bursera","Burseraceae",NA,"Burssp","genus",NA,NA
+"179","Bursera glabra","Bursera glabra","Bursera glabra","Bursera","Burseraceae",NA,"Bursglabr","species",NA,NA
+"180","Bursera graveolens","Bursera graveolens","Bursera graveolens","Bursera","Burseraceae","tree","Bursgrav","species","tree",NA
+"181","Bursera simarouba","Bursera simaruba","Bursera simaruba","Bursera","Burseraceae","tree","Burssima","species","tree","VU"
+"182","Bursera simaruba","Bursera simaruba","Bursera simaruba","Bursera","Burseraceae","tree","Burssima","species","tree","VU"
+"183","Bursera simiruba","Bursera simaruba","Bursera simaruba","Bursera","Burseraceae","tree","Burssima","species","tree","VU"
+"184","Bursera sp","Bursera sp","Bursera","Bursera","Burseraceae",NA,"Burssp","genus",NA,NA
+"185","Bursera tamentosa","Bursera tamentosa","Bursera tomentosa","Bursera","Burseraceae","tree","Burstome","species","tree",NA
+"186","Buulnesia arborea","Bulnesia arborea","Bulnesia arborea","Bulnesia","Zygophyllaceae","tree","Bulnarbo","species","tree",NA
+"187","Buxus citrifolia","Buxus citrifolia","Buxus citrifolia","Buxus",NA,NA,"Buxucitri","species",NA,NA
+"188","Byrsonim sp","Byrsonima sp","Byrsonima","Byrsonima",NA,NA,"Byrssp","genus",NA,NA
+"189","Byrsonima crassifolia","Byrsonima crassifolia","Byrsonima crassifolia","Byrsonima",NA,NA,"Byrscrass","species","tree",NA
+"190","Byrsonima crispa","Byrsonima crispa","Byrsonima crispa","Byrsonima",NA,NA,"Byrscrisp","species","tree",NA
+"191","Byrsonima japurensis","Byrsonima japurensis","Byrsonima japurensis","Byrsonima",NA,NA,"Byrsjapur","species","tree","LC"
+"192","Byrsonima nitidissima","Byrsonima nitidissima","Byrsonima nitidissima","Byrsonima",NA,NA,"Byrsnitid","species",NA,NA
+"193","Byrsonima sp","Byrsonima sp","Byrsonima","Byrsonima",NA,NA,"Byrssp","genus",NA,NA
+"194","Byrsonima spicata","Byrsonima spicata","Byrsonima spicata","Byrsonima",NA,NA,"Byrsspica","species","tree",NA
+"195","Cactaceae sp","Cactaceae","Cactaceae","Cactaceae",NA,NA,"Cactfm","family",NA,NA
+"196","Cactus sp","Cactus sp","Cactus","Cactus",NA,NA,"Cactsp","genus",NA,NA
+"197","Caesalpinia andreana","Caesalpinia andreana","Caesalpinia andreana","Caesalpinia","Fabaceae",NA,"Caesandre","species",NA,NA
+"198","Caesalpinia cassioides","Caesalpinia cassioides","Caesalpinia cassioides","Caesalpinia","Fabaceae","shrub","Caescass","species","shrub",NA
+"199","Caesalpinia coriaria","Caesalpinia coriaria","Caesalpinia coriaria","Caesalpinia","Fabaceae","treelet","Caescori","species","treelet",NA
+"200","Caesalpinia granadillo","Caesalpinia granadillo","Caesalpinia granadillo","Caesalpinia","Fabaceae",NA,"Caesgrana","species",NA,NA
+"201","Caesolpina sp","Caesalpinia sp","Caesalpinia","Caesalpinia","Fabaceae","tree","Caessp","genus","tree",NA
+"202","Caessalpinaceae sp","Caesalpiniaceae","Caesalpiniaceae","Caesalpiniaceae",NA,NA,"Caesfm","family",NA,NA
+"203","Caimito sp","Pouteria sp","Pouteria","Pouteria","Sapotaceae","tree","Poutsp","genus","tree",NA
+"204","Calea cf","Calea sp","Calea","Calea",NA,NA,"Calesp","genus",NA,NA
+"205","Calea sessiliflora","Calea sessiliflora","Calea sessiliflora","Calea",NA,NA,"Calesessi","species",NA,NA
+"206","Calli sp","Calliandra sp","Calliandra","Calliandra","Fabaceae",NA,"Callsp","genus",NA,NA
+"207","Calliandra magdalenae","Calliandra magdalenae","Calliandra magdalenae","Calliandra","Fabaceae","tree","Callmagd","species","tree",NA
+"208","Calliandra pittieri","Calliandra pittieri","Calliandra pittieri","Calliandra","Fabaceae",NA,"Callpitti","species",NA,NA
+"209","Calliandra pittierii","Calliandra pittieri","Calliandra pittieri","Calliandra","Fabaceae",NA,"Callpitti","species",NA,NA
+"210","Calliandra purdiaei","Calliandra purdiaei","Calliandra purdiaei","Calliandra","Fabaceae",NA,"Callpurdi","species",NA,NA
+"211","Calliandra sp","Calliandra sp","Calliandra","Calliandra","Fabaceae",NA,"Callsp","genus",NA,NA
+"212","Calliandra trinervia var carbonaria","Calliandra trinervia","Calliandra trinervia","Calliandra","Fabaceae",NA,"Calltrine","species",NA,NA
+"213","Callycophyllum candidissimum","Calycophyllum candidissimum","Calycophyllum candidissimum","Calycophyllum","Rubiaceae","tree","Calycand","species","tree",NA
+"214","Calophyllum brasiliense","Calophyllum brasiliense","Calophyllum brasiliense","Calophyllum","Calophyllaceae","tree","Calobras","species","tree",NA
+"215","Calotropis sp","Calotropis sp","Calotropis","Calotropis",NA,NA,"Calosp","genus",NA,NA
+"216","Calycophyllum candidissimum","Calycophyllum candidissimum","Calycophyllum candidissimum","Calycophyllum","Rubiaceae","tree","Calycand","species","tree",NA
+"217","Campomanesia aromatica","Campomanesia aromatica","Campomanesia aromatica","Campomanesia",NA,NA,"Camparoma","species","tree","LC"
+"218","Capirona decortincas","Capirona decortincas","Capirona decorticans","Capirona",NA,NA,"Capidecor","species","tree",NA
+"219","Capirona sp","Capirona sp","Capirona","Capirona",NA,NA,"Capisp","genus",NA,NA
+"220","Cappans indica","Capparis indica","Capparis indica","Capparis","Capparaceae",NA,"Cappindic","species",NA,NA
+"221","Cappar sp","Capparis sp","Capparis","Capparis","Capparaceae","tree","Cappsp","genus","tree",NA
+"222","Capparis adoratisima","Capparis adoratisima","Capparis","Capparis","Capparaceae","tree","Cappsp","genus","tree",NA
+"223","Capparis aff amplissima","Capparis amplissima","Capparis amplissima","Capparis","Capparaceae",NA,"Cappampli","species","tree",NA
+"224","Capparis aff. amplissima","Capparis amplissima","Capparis amplissima","Capparis","Capparaceae",NA,"Cappampli","species","tree",NA
+"225","Capparis amplissima","Capparis amplissima","Capparis amplissima","Capparis","Capparaceae",NA,"Cappampli","species","tree",NA
+"226","Capparis baduca","Capparis baduca","Capparis baduca","Capparis","Capparaceae",NA,"Cappbaduc","species",NA,NA
+"227","Capparis flexuosa","Capparis flexuosa","Capparis flexuosa","Capparis","Capparaceae",NA,"Cappflexu","species","treelet",NA
+"228","Capparis frondosa","Capparis frondosa","Capparis frondosa","Capparis","Capparaceae",NA,"Cappfrond","species","tree",NA
+"229","Capparis hastata","Capparis hastata","Capparis hastata","Capparis","Capparaceae",NA,"Capphasta","species","treelet",NA
+"230","Capparis indica","Capparis indica","Capparis indica","Capparis","Capparaceae",NA,"Cappindic","species",NA,NA
+"231","Capparis linearis","Capparis linearis","Capparis linearis","Capparis","Capparaceae",NA,"Capplinea","species",NA,NA
+"232","Capparis odorata","Capparis odorata","Capparis odorata","Capparis","Capparaceae",NA,"Cappodora2","species",NA,NA
+"233","Capparis odoratisima","Capparis odoratissima","Capparis odoratissima","Capparis","Capparaceae",NA,"Cappodora","species",NA,NA
+"234","Capparis odoratissima","Capparis odoratissima","Capparis odoratissima","Capparis","Capparaceae",NA,"Cappodora","species",NA,NA
+"235","Capparis pachaca","Capparis pachaca","Capparis pachaca","Capparis","Capparaceae",NA,"Capppacha","species",NA,NA
+"236","Capparis pochota","Capparis pochota","Capparis","Capparis","Capparaceae","tree","Cappsp","genus","tree",NA
+"237","Capparis sp","Capparis sp","Capparis","Capparis","Capparaceae","tree","Cappsp","genus","tree",NA
+"238","Capparis verrucosa","Capparis verrucosa","Capparis verrucosa","Capparis","Capparaceae",NA,"Cappverru","species",NA,NA
+"239","Caraipa llanorum","Caraipa llanorum","Caraipa llanorum","Caraipa",NA,NA,"Carallano","species","tree",NA
+"240","Carica papaya","Carica papaya","Carica papaya","Carica",NA,NA,"Caripapay","species","tree",NA
+"241","Carludovica palmata","Carludovica palmata","Carludovica palmata","Carludovica",NA,NA,"Carlpalma","species","forb",NA
+"242","Carludovica plamata","Carludovica palmata","Carludovica palmata","Carludovica",NA,NA,"Carlpalma","species","forb",NA
+"243","Cas sp","Indeterminado",NA,NA,NA,"tree","NN","species","tree",NA
+"244","Cascabela thevetia","Cascabela thevetia","Cascabela thevetia","Cascabela",NA,NA,"Casctheve","species",NA,NA
+"245","Casearia aculeata","Casearia aculeata","Casearia aculeata","Casearia","Salicaceae","tree","Caseacul","species","tree",NA
+"246","Casearia arborea","Casearia arborea","Casearia arborea","Casearia","Salicaceae",NA,"Casearbor","species","tree",NA
+"247","Casearia cf guianensis","Casearia guianensis","Casearia guianensis","Casearia","Salicaceae",NA,"Caseguian","species","tree",NA
+"248","Casearia cgrimbosa","Casearia grimbosa","Casearia","Casearia","Salicaceae","tree","Casesp","genus","tree",NA
+"249","Casearia corymbosa","Casearia corymbosa","Casearia corymbosa","Casearia","Salicaceae","tree","Casecory","species","tree",NA
+"250","Casearia javitensis","Casearia javitensis","Casearia javitensis","Casearia","Salicaceae",NA,"Casejavit","species","tree",NA
+"251","Casearia praecox","Casearia praecox","Casearia praecox","Casearia","Salicaceae","tree","Caseprae","species","tree",NA
+"252","Casearia silvestris","Casearia sylvestris","Casearia sylvestris","Casearia","Salicaceae","tree","Casesylv","species","tree",NA
+"253","Casearia sp","Casearia sp","Casearia","Casearia","Salicaceae","tree","Casesp","genus","tree",NA
+"254","Casearia syl","Casearia sylvestris","Casearia sylvestris","Casearia","Salicaceae","tree","Casesylv","species","tree",NA
+"255","Casearia sylvestris","Casearia sylvestris","Casearia sylvestris","Casearia","Salicaceae","tree","Casesylv","species","tree",NA
+"256","Casearia ulmif","Casearia ulmif","Casearia","Casearia","Salicaceae","tree","Casesp","genus","tree",NA
+"257","Caseria corymbosa","Casearia corymbosa","Casearia corymbosa","Casearia","Salicaceae","tree","Casecory","species","tree",NA
+"258","Cassia fistula","Cassia fistula","Cassia fistula","Cassia","Fabaceae",NA,"Cassfistu","species","tree",NA
+"259","Cassia grandis","Cassia grandis","Cassia grandis","Cassia","Fabaceae",NA,"Cassgrand","species","tree",NA
+"260","Cassia moscha","Cassia moscha","Cassia moschata","Cassia","Fabaceae",NA,"Cassmosch","species","tree",NA
+"261","Cassia moschata","Cassia moschata","Cassia moschata","Cassia","Fabaceae",NA,"Cassmosch","species","tree",NA
+"262","Cassia sp","Cassia sp","Cassia","Cassia","Fabaceae","tree","Casssp","genus","tree",NA
+"263","Castela erecta","Castela erecta","Castela erecta","Castela",NA,NA,"Casterect","species",NA,NA
+"264","Causalpinia sp","Caesalpinia sp","Caesalpinia","Caesalpinia","Fabaceae","tree","Caessp","genus","tree",NA
+"265","Cavanillesia chicamochae","Cavanillesia chicamochae","Cavanillesia chicamochae","Cavanillesia","Malvaceae",NA,"Cavachica","species",NA,NA
+"266","Cavanillesia platanifolia","Cavanillesia platanifolia","Cavanillesia platanifolia","Cavanillesia","Malvaceae","tree","Cavaplat","species","tree",NA
+"267","Cecr sp","Cecropia sp","Cecropia","Cecropia","Urticaceae",NA,"Cecrsp","genus",NA,NA
+"268","Cecropia angustifolia","Cecropia angustifolia","Cecropia angustifolia","Cecropia","Urticaceae",NA,"Cecrangus","species",NA,NA
+"269","Cecropia cf angustifolia","Cecropia angustifolia","Cecropia angustifolia","Cecropia","Urticaceae",NA,"Cecrangus","species",NA,NA
+"270","Cecropia cf mutisiana","Cecropia mutisiana","Cecropia mutisiana","Cecropia","Urticaceae",NA,"Cecrmutis","species",NA,NA
+"271","Cecropia cf peltata","Cecropia peltata","Cecropia peltata","Cecropia","Urticaceae","tree","Cecrpelt","species","tree",NA
+"272","Cecropia engleriana","Cecropia engleriana","Cecropia engleriana","Cecropia","Urticaceae",NA,"Cecrengle","species","tree",NA
+"273","Cecropia longipes","Cecropia longipes","Cecropia longipes","Cecropia","Urticaceae",NA,"Cecrlongi","species",NA,NA
+"274","Cecropia peltata","Cecropia peltata","Cecropia peltata","Cecropia","Urticaceae","tree","Cecrpelt","species","tree",NA
+"275","Cecropia sp","Cecropia sp","Cecropia","Cecropia","Urticaceae",NA,"Cecrsp","genus",NA,NA
+"276","Cedrela odorata","Cedrela odorata","Cedrela odorata","Cedrela","Meliaceae","tree","Cedrodor","species","tree","VU"
+"277","Cedrela sp","Cedrela sp","Cedrela","Cedrela","Meliaceae",NA,"Cedrsp","genus",NA,NA
+"278","Ceiba penta","Ceiba pentandra","Ceiba pentandra","Ceiba","Malvaceae","tree","Ceibpent","species","tree",NA
+"279","Ceiba pentandr","Ceiba pentandra","Ceiba pentandra","Ceiba","Malvaceae","tree","Ceibpent","species","tree",NA
+"280","Ceiba pentandra","Ceiba pentandra","Ceiba pentandra","Ceiba","Malvaceae","tree","Ceibpent","species","tree",NA
+"281","Ceiba pentrandra","Ceiba pentandra","Ceiba pentandra","Ceiba","Malvaceae","tree","Ceibpent","species","tree",NA
+"282","Ceiba petandra","Ceiba pentandra","Ceiba pentandra","Ceiba","Malvaceae","tree","Ceibpent","species","tree",NA
+"283","Ceiba sp","Ceiba sp","Ceiba","Ceiba","Malvaceae",NA,"Ceibsp","genus",NA,NA
+"284","Celtis iguanaea","Celtis iguanaea","Celtis iguanaea","Celtis","Cannabaceae","liana","Celtigua","species","liana",NA
+"285","Centrolobium paraense","Centrolobium paraense","Centrolobium paraense","Centrolobium",NA,NA,"Centparae","species","tree","EN"
+"286","Cereus hexagonus","Cereus hexagonus","Cereus hexagonus","Cereus","Cactaceae","cactus","Cerehexa","species","cactus",NA
+"287","Cesalpinia coriaria","Caesalpinia coriaria","Caesalpinia coriaria","Caesalpinia","Fabaceae","treelet","Caescori","species","treelet",NA
+"288","Cesalpinia ebano","Caesalpinia ebano","Caesalpinia ebano","Caesalpinia","Fabaceae","tree","Caeseban","species","tree",NA
+"289","Cespedesia spathulata","Cespedesia spathulata","Cespedesia spathulata","Cespedesia",NA,NA,"Cespspath","species","tree",NA
+"290","Cestrum alternifolium","Cestrum alternifolium","Cestrum alternifolium","Cestrum","Solanaceae",NA,"Cestalter","species",NA,NA
+"291","Cestrum mariquitense","Cestrum mariquitense","Cestrum mariquitense","Cestrum","Solanaceae",NA,"Cestmariq","species","treelet",NA
+"292","Chamaedorea linearis","Chamaedorea linearis","Chamaedorea linearis","Chamaedorea",NA,NA,"Chamlinea","species",NA,NA
+"293","Chichatoy sp","Indeterminado",NA,NA,NA,"tree","NN","species","tree",NA
+"294","Chiococca alba","Chiococca alba","Chiococca alba","Chiococca","Rubiaceae","shrub","Chioalba","species","shrub",NA
+"295","Chloroleucon magense","Chloroleucon mangense","Chloroleucon mangense","Chloroleucon","Fabaceae","tree","Chlomang","species","tree",NA
+"296","Chloroleucon mangense","Chloroleucon mangense","Chloroleucon mangense","Chloroleucon","Fabaceae","tree","Chlomang","species","tree",NA
+"297","Chomelia spinosa","Chomelia spinosa","Chomelia spinosa","Chomelia","Rubiaceae","treelet","Chomspin","species","treelet",NA
+"298","Chromolena laevigata","Chromolena laevigata","Chromolaena laevigata","Chromolaena","Asteraceae",NA,"Chrolaevi","species","treelet",NA
+"299","Chrysophy sp","Chrysophyllum sp","Chrysophyllum","Chrysophyllum","Sapotaceae",NA,"Chrysp","genus",NA,NA
+"300","Chrysophyllum sp","Chrysophyllum sp","Chrysophyllum","Chrysophyllum","Sapotaceae",NA,"Chrysp","genus",NA,NA
+"301","Chychatoy sp","Indeterminado",NA,NA,NA,"tree","NN","species","tree",NA
+"302","Cinnamomum triplinerve","Cinnamomum triplinerve","Cinnamomum triplinerve","Cinnamomum",NA,NA,"Cinntripl","species","tree","LC"
+"303","Cintharexylum kunthianum","Citharexylum kunthianum","Citharexylum kunthianum","Citharexylum","Verbenaceae","treelet","Cithkunt","species","treelet",NA
+"304","Citharexylum kunthianum","Citharexylum kunthianum","Citharexylum kunthianum","Citharexylum","Verbenaceae","treelet","Cithkunt","species","treelet",NA
+"305","Citharexylum kuntranus","Citharexylum kunthianum","Citharexylum kunthianum","Citharexylum","Verbenaceae","treelet","Cithkunt","species","treelet",NA
+"306","Citharexylum sp","Citharexylum sp","Citharexylum","Citharexylum","Verbenaceae",NA,"Cithsp","genus",NA,NA
+"307","Citrus limon","Citrus limon","Citrus limon","Citrus",NA,NA,"Citrlimon","species","tree",NA
+"308","Clatrhotropis brachypetala","Clathrotropis brachypetala","Clathrotropis brachypetala","Clathrotropis","Fabaceae",NA,"Clatbrach","species",NA,NA
+"309","Cleome sp","Cleome sp","Cleome","Cleome",NA,NA,"Cleosp","genus",NA,NA
+"310","Cleome speciosa","Cleome speciosa","Cleome speciosa","Cleome",NA,NA,"Cleospeci","species",NA,NA
+"311","Clidemia capitellata","Clidemia capitellata","Clidemia capitellata","Clidemia",NA,NA,"Clidcapit","species","treelet",NA
+"312","Clitoria dendrina","Clitoria dendrina","Clitoria dendrina","Clitoria","Fabaceae","shrub","Clitdend","species","shrub",NA
+"313","Clitoria hermannii","Clitoria hermannii","Clitoria hermannii","Clitoria","Fabaceae",NA,"Clitherma","species",NA,NA
+"314","Clorophora sp","Chlorophora sp","Chlorophora","Chlorophora",NA,NA,"Chlosp","genus",NA,NA
+"315","Clusia alata","Clusia alata","Clusia alata","Clusia","Clusiaceae",NA,"Clusalata","species",NA,NA
+"316","Clusia alata ","Clusia alata","Clusia alata","Clusia","Clusiaceae",NA,"Clusalata","species",NA,NA
+"317","Clusia cf latipes","Clusia latipes","Clusia latipes","Clusia","Clusiaceae",NA,"Cluslatip","species",NA,NA
+"318","Clusia grandiflora","Clusia grandiflora","Clusia grandiflora","Clusia","Clusiaceae","tree","Clusgran","species","tree",NA
+"319","Clusia latipes","Clusia latipes","Clusia latipes","Clusia","Clusiaceae",NA,"Cluslatip","species",NA,NA
+"320","Clusia minor","Clusia minor","Clusia minor","Clusia","Clusiaceae",NA,"Clusminor","species","tree",NA
+"321","Clusia multiflora","Clusia multiflora","Clusia multiflora","Clusia","Clusiaceae",NA,"Clusmulti","species",NA,NA
+"322","Clusia sp","Clusia sp","Clusia","Clusia","Clusiaceae","tree","Clusumbe","genus","tree",NA
+"323","Cnidoscolus aconitifolius","Cnidoscolus aconitifolius","Cnidoscolus aconitifolius","Cnidoscolus",NA,NA,"Cnidaconi","species",NA,NA
+"324","Cnidoscolus jaenensis","Cnidoscolus jaenensis","Cnidoscolus jaenensis","Cnidoscolus",NA,NA,"Cnidjaene","species",NA,NA
+"325","Cnidoscolus tubulosus","Cnidoscolus tubulosus","Cnidoscolus tubulosus","Cnidoscolus",NA,NA,"Cnidtubul","species",NA,NA
+"326","Cnidoscolus urens","Cnidoscolus urens","Cnidoscolus urens","Cnidoscolus",NA,NA,"Cnidurens","species","treelet",NA
+"327","Coccoloba acuminata","Coccoloba acuminata","Coccoloba acuminata","Coccoloba","Polygonaceae","treelet","Coccacum","species","treelet",NA
+"328","Coccoloba caracasana","Coccoloba caracasana","Coccoloba caracasana","Coccoloba","Polygonaceae","tree","Cocccara","species","tree",NA
+"329","Coccoloba coronata","Coccoloba coronata","Coccoloba coronata","Coccoloba","Polygonaceae",NA,"Cocccoron","species","tree",NA
+"330","Coccoloba dugandiana","Coccoloba dugandiana","Coccoloba dugandiana","Coccoloba","Polygonaceae",NA,"Coccdugan","species",NA,NA
+"331","Coccoloba obovata","Coccoloba obovata","Coccoloba obovata","Coccoloba","Polygonaceae","tree","Coccobov","species","tree",NA
+"332","Coccoloba obtusifolia","Coccoloba obtusifolia","Coccoloba obtusifolia","Coccoloba","Polygonaceae","tree","Coccobtu","species","tree",NA
+"333","Coccoloba padiformis","Coccoloba padiformis","Coccoloba padiformis","Coccoloba","Polygonaceae","tree","Coccpadi","species","tree",NA
+"334","Coccoloba sp","Coccoloba sp","Coccoloba","Coccoloba","Polygonaceae","tree","Coccsp","genus","tree",NA
+"335","Cochlospermum orinocense","Cochlospermum orinocense","Cochlospermum orinocense","Cochlospermum","Bixaceae","tree","Cochorin","species","tree",NA
+"336","Cochlospermum vitfolium","Cochlospermum vitifolium","Cochlospermum vitifolium","Cochlospermum","Bixaceae",NA,"Cochvitif","species","tree",NA
+"337","Cochlospermum vitifolium","Cochlospermum vitifolium","Cochlospermum vitifolium","Cochlospermum","Bixaceae",NA,"Cochvitif","species","tree",NA
+"338","Coclhospermum vitifolium","Cochlospermum vitifolium","Cochlospermum vitifolium","Cochlospermum","Bixaceae",NA,"Cochvitif","species","tree",NA
+"339","Cocus nucifera","Cocos nucifera","Cocos nucifera","Cocos",NA,NA,"Coconucif","species","palm",NA
+"340","Combretacea sp","Combretaceae","Combretaceae","Combretaceae",NA,NA,"Combfm","family",NA,NA
+"341","Combretum fruticosum","Combretum fruticosum","Combretum fruticosum","Combretum","Combretaceae","liana","Combfrut","species","liana",NA
+"342","Commiphora leptophloeos","Commiphora leptophloeos","Commiphora leptophloeos","Commiphora",NA,NA,"Commlepto","species","tree",NA
+"343","Connarus venezuelanus","Connarus venezuelanus","Connarus venezuelanus","Connarus","Connaraceae","tree","Connvene","species","tree",NA
+"344","Copai sp","Copaifera sp","Copaifera","Copaifera",NA,NA,"Copasp","genus",NA,NA
+"345","Copaifera pubiflora","Copaifera pubiflora","Copaifera pubiflora","Copaifera",NA,NA,"Copapubif","species","tree",NA
+"346","Copaifera sp","Copaifera sp","Copaifera","Copaifera",NA,NA,"Copasp","genus",NA,NA
+"347","Copernicia tectorum","Copernicia tectorum","Copernicia tectorum","Copernicia",NA,NA,"Copetecto","species",NA,NA
+"348","Cord sp","Cordia sp","Cordia","Cordia","Boraginaceae","tree","Cordsp","genus","tree",NA
+"349","Cordia alliodora","Cordia alliodora","Cordia alliodora","Cordia","Boraginaceae","tree","Cordalli","species","tree",NA
+"350","Cordia ap","Cordia ap","Cordia","Cordia","Boraginaceae","tree","Cordsp","genus","tree",NA
+"351","Cordia bicolor","Cordia bicolor","Cordia bicolor","Cordia","Boraginaceae","tree","Cordbico","species","tree",NA
+"352","Cordia cf thaisiana","Cordia thaisiana","Cordia thaisiana","Cordia","Boraginaceae",NA,"Cordthais","species",NA,NA
+"353","Cordia colloccoca","Cordia collococa","Cordia collococa","Cordia","Boraginaceae",NA,"Cordcollo","species","tree",NA
+"354","Cordia collococa","Cordia collococa","Cordia collococa","Cordia","Boraginaceae",NA,"Cordcollo","species","tree",NA
+"355","Cordia curassavic","Cordia curassavica","Cordia curassavica","Cordia","Boraginaceae",NA,"Cordcuras","species","treelet",NA
+"356","Cordia curassavica","Cordia curassavica","Cordia curassavica","Cordia","Boraginaceae",NA,"Cordcuras","species","treelet",NA
+"357","Cordia dentata","Cordia dentata","Cordia dentata","Cordia","Boraginaceae",NA,"Corddenta","species",NA,NA
+"358","Cordia discolor","Cordia discolor","Cordia discolor","Cordia","Boraginaceae",NA,"Corddisco","species","treelet",NA
+"359","Cordia gerasantus","Cordia gerascanthus","Cordia gerascanthus","Cordia","Boraginaceae","tree","Cordgera","species","tree",NA
+"360","Cordia gerascanthus","Cordia gerascanthus","Cordia gerascanthus","Cordia","Boraginaceae","tree","Cordgera","species","tree",NA
+"361","Cordia lanceolata","Cordia lanceolata","Cordia lanceolata","Cordia","Boraginaceae",NA,"Cordlance","species",NA,NA
+"362","Cordia macuirensis","Cordia macuirensis","Cordia macuirensis","Cordia","Boraginaceae","tree","Cordmacu","species","tree",NA
+"363","Cordia panamensis","Cordia panamensis","Cordia panamensis","Cordia","Boraginaceae","tree","Cordpana","species","tree",NA
+"364","Cordia sp","Cordia sp","Cordia","Cordia","Boraginaceae","tree","Cordsp","genus","tree",NA
+"365","Cordia tetrandra","Cordia tetrandra","Cordia tetrandra","Cordia","Boraginaceae",NA,"Cordtetra","species","tree",NA
+"366","Cordia thaisiana","Cordia thaisiana","Cordia thaisiana","Cordia","Boraginaceae",NA,"Cordthais","species",NA,NA
+"367","Cordial alliodora","Cordial alliodora","Cordia alliodora","Cordia","Boraginaceae","tree","Cordalli","species","tree",NA
+"368","Cordial sp","Cordia sp","Cordia","Cordia","Boraginaceae","tree","Cordsp","genus","tree",NA
+"369","Coussarea sp","Coussarea sp","Coussarea","Coussarea","Rubiaceae",NA,"Coussp","genus",NA,NA
+"370","Coutarea hexandra","Coutarea hexandra","Coutarea hexandra","Coutarea","Rubiaceae","treelet","Couthexa","species","treelet",NA
+"371","Crateva tap","Crateva tapia","Crateva tapia","Crateva","Capparaceae","treelet","Crattapi","species","treelet",NA
+"372","Crateva tapia","Crateva tapia","Crateva tapia","Crateva","Capparaceae","treelet","Crattapi","species","treelet",NA
+"373","Crescentia cujete","Crescentia cujete","Crescentia cujete","Crescentia",NA,NA,"Crescujet","species","tree",NA
+"374","Cro sp","Croton sp","Croton","Croton","Euphorbiaceae","tree","Crotsp","genus","tree",NA
+"375","Croten sp","Croton sp","Croton","Croton","Euphorbiaceae","tree","Crotsp","genus","tree",NA
+"376","Crotin sp","Croton sp","Croton","Croton","Euphorbiaceae","tree","Crotsp","genus","tree",NA
+"377","Croton aff megalodendron","Croton megalodendron","Croton megalodendron","Croton","Euphorbiaceae","tree","Crotmega","species","tree",NA
+"378","Croton argenteus","Croton argenteus","Croton argenteus","Croton","Euphorbiaceae",NA,"Crotargen","species","shrub",NA
+"379","Croton ferrugineus","Croton ferrugineus","Croton ferrugineus","Croton","Euphorbiaceae",NA,"Crotferru","species","treelet",NA
+"380","Croton gossypiifolius","Croton gossypiifolius","Croton gossypiifolius","Croton","Euphorbiaceae","tree","Crotgoss","species","tree",NA
+"381","Croton hibiscifolius","Croton hibiscifolius","Croton hibiscifolius","Croton","Euphorbiaceae",NA,"Crothibis","species",NA,NA
+"382","Croton lechleri","Croton lechleri","Croton lechleri","Croton","Euphorbiaceae",NA,"Crotlechl","species","tree",NA
+"383","Croton leptostachyus","Croton leptostachyus","Croton leptostachyus","Croton","Euphorbiaceae",NA,"Crotlepto","species",NA,NA
+"384","Croton malambo","Croton malambo","Croton malambo","Croton","Euphorbiaceae",NA,"Crotmalam","species",NA,NA
+"385","Croton niveus","Croton niveus","Croton niveus","Croton","Euphorbiaceae","tree","Crotnive","species","tree",NA
+"386","Croton punctatus","Croton punctatus","Croton punctatus","Croton","Euphorbiaceae","shrub","Crotpunc","species","shrub",NA
+"387","Croton schiedeanus","Croton schiedeanus","Croton schiedeanus","Croton","Euphorbiaceae","treelet","Crotschi","species","treelet",NA
+"388","Croton so","Croton sp","Croton","Croton","Euphorbiaceae","tree","Crotsp","genus","tree",NA
+"389","Croton sp","Croton sp","Croton","Croton","Euphorbiaceae","tree","Crotsp","genus","tree",NA
+"390","Crudia glaberrima","Crudia glaberrima","Crudia glaberrima","Crudia",NA,NA,"Crudglabe","species","tree",NA
+"391","Cuji sp","Prosopis juliflora","Prosopis juliflora","Prosopis","Fabaceae","treelet","Prosjuli","species","treelet",NA
+"392","Cupania americana","Cupania americana","Cupania americana","Cupania","Sapindaceae","tree","Cupaamer","species","tree",NA
+"393","Cupania cinerea","Cupania cinerea","Cupania cinerea","Cupania","Sapindaceae","tree","Cupacine","species","tree",NA
+"394","Cupania sp","Cupania sp","Cupania","Cupania","Sapindaceae","tree","Cupasp","genus","tree",NA
+"395","Curatella amaricana","Curatella americana","Curatella americana","Curatella",NA,NA,"Curaameri","species","tree",NA
+"396","Curatella americana","Curatella americana","Curatella americana","Curatella",NA,NA,"Curaameri","species","tree",NA
+"397","Cyathea sp","Cyathea sp","Cyathea","Cyathea",NA,NA,"Cyatsp","genus",NA,NA
+"398","Cynometra bauhiinifolia","Cynometra bauhiinifolia","Cynometra bauhiniifolia","Cynometra",NA,NA,"Cynobauhi","species","tree",NA
+"399","Cyrtocarpa velutinifolia","Cyrtocarpa velutinifolia","Cyrtocarpa velutinifolia","Cyrtocarpa",NA,NA,"Cyrtvelut","species","tree",NA
+"400","Cytarexylum poeppigii","Citharexylum poeppigii","Citharexylum poeppigii","Citharexylum","Verbenaceae",NA,"Cithpoepp","species","tree",NA
+"401","Cytharexyllum kunthianum","Citharexylum kunthianum","Citharexylum kunthianum","Citharexylum","Verbenaceae","treelet","Cithkunt","species","treelet",NA
+"402","Cytharexylum poeppigii","Citharexylum poeppigii","Citharexylum poeppigii","Citharexylum","Verbenaceae",NA,"Cithpoepp","species","tree",NA
+"403","Cythrarexyllum kunthianum","Citharexylum kunthianum","Citharexylum kunthianum","Citharexylum","Verbenaceae","treelet","Cithkunt","species","treelet",NA
+"404","Dalbergia sp","Dalbergia sp","Dalbergia","Dalbergia",NA,NA,"Dalbsp","genus",NA,NA
+"405","Davilla kun","Davilla kunthii","Davilla kunthii","Davilla",NA,NA,"Davikunth","species","liana","LC"
+"406","Dendropanax cf arboreus","Dendropanax arboreus","Dendropanax arboreus","Dendropanax","Araliaceae","tree","Dendarbo","species","tree",NA
+"407","Dendropanax sp","Dendropanax sp","Dendropanax","Dendropanax","Araliaceae",NA,"Dendsp","genus",NA,NA
+"408","Desmodium purpusii","Desmodium purpusii","Desmodium purpusii","Desmodium",NA,NA,"Desmpurpu","species",NA,NA
+"409","Desmoncus orthacanthos","Desmoncus orthacanthos","Desmoncus orthacanthos","Desmoncus",NA,NA,"Desmortha","species","liana",NA
+"410","Dilleniaceae sp","Dilleniaceae","Dilleniaceae","Dilleniaceae",NA,NA,"Dillfm","family",NA,NA
+"411","Dilodendron elengans","Dilodendron elengans","Dilodendron elegans","Dilodendron","Sapindaceae","tree","Diloeleg","species","tree",NA
+"412","Dioclea guianensis","Dioclea guianensis","Dioclea guianensis","Dioclea","Fabaceae",NA,"Diocguian","species","liana",NA
+"413","Dioclea sericea","Dioclea sericea","Dioclea sericea","Dioclea","Fabaceae",NA,"Diocseric","species",NA,NA
+"414","Dioclea sp","Dioclea sp","Dioclea","Dioclea","Fabaceae","liana","Diocsp","genus","liana",NA
+"415","Diomate sp","Astronium graveolens","Astronium graveolens","Astronium","Anacardiaceae","tree","Astrgrav","species","tree","LC"
+"416","Dioscorea alata","Dioscorea alata","Dioscorea alata","Dioscorea",NA,NA,"Diosalata","species","liana",NA
+"417","Diospyros cerisea","Diospyros cerisea ","Diospyros","Diospyros","Ebenaceae","tree","Diossp","genus","tree",NA
+"418","Diospyros cerisea ","Diospyros cerisea ","Diospyros","Diospyros","Ebenaceae","tree","Diossp","genus","tree",NA
+"419","Diphysa carthagenensis","Diphysa carthagenensis","Diphysa carthagenensis","Diphysa",NA,NA,"Diphcarth","species",NA,NA
+"420","Dipteryx odorata","Dipteryx odorata","Dipteryx odorata","Dipteryx",NA,NA,"Diptodora","species","tree",NA
+"421","Diteryx odorata","Dipteryx odorata","Dipteryx odorata","Dipteryx",NA,NA,"Diptodora","species","tree",NA
+"422","Dodonaea viscosa","Dodonaea viscosa","Dodonaea viscosa","Dodonaea",NA,NA,"Dodovisco","species","tree",NA
+"423","Duguetia cf riberensis","Duguetia riberensis","Duguetia riberensis","Duguetia","Annonaceae",NA,"Duguriber","species",NA,NA
+"424","Duguetia odorata","Duguetia odorata","Duguetia odorata","Duguetia","Annonaceae","tree","Duguodor","species","tree",NA
+"425","Dyphisa carthagenensis","Diphysa carthagenensis","Diphysa carthagenensis","Diphysa",NA,NA,"Diphcarth","species",NA,NA
+"426","Elaeis guineensis","Elaeis guineensis","Elaeis guineensis","Elaeis",NA,NA,"Elaeguine","species","palm",NA
+"427","Elaeis guineensis cultivada","Elaeis guineensis","Elaeis guineensis","Elaeis",NA,NA,"Elaeguine","species","palm",NA
+"428","Elaeis oleifera","Elaeis oleifera","Elaeis oleifera","Elaeis",NA,NA,"Elaeoleif","species","palm",NA
+"429","Entada polystachia","Entada polystachia","Entada polystachya","Entada",NA,NA,"Entapolys","species",NA,NA
+"430","Enter sp","Enterolobium sp","Enterolobium","Enterolobium","Fabaceae","tree","Entesp","genus","tree",NA
+"431","Enterbium sp","Enterolobium sp","Enterolobium","Enterolobium","Fabaceae","tree","Entesp","genus","tree",NA
+"432","Enterdobium sp","Enterolobium sp","Enterolobium","Enterolobium","Fabaceae","tree","Entesp","genus","tree",NA
+"433","Enterolobi sp","Enterolobium sp","Enterolobium","Enterolobium","Fabaceae","tree","Entesp","genus","tree",NA
+"434","Enterolobium barinense","Enterolobium barinense","Enterolobium barinense","Enterolobium","Fabaceae",NA,"Entebarin","species",NA,NA
+"435","Enterolobium cf tim","Enterolobium timbouva","Enterolobium timbouva","Enterolobium","Fabaceae",NA,"Entetimbo","species","tree",NA
+"436","Enterolobium cf timbouva","Enterolobium timbouva","Enterolobium timbouva","Enterolobium","Fabaceae",NA,"Entetimbo","species","tree",NA
+"437","Enterolobium cyclocarpum","Enterolobium cyclocarpum","Enterolobium cyclocarpum","Enterolobium","Fabaceae","tree","Entecycl","species","tree",NA
+"438","Enterolobium schom","Enterolobium schomburgkii","Enterolobium schomburgkii","Enterolobium","Fabaceae","tree","Entescho","species","tree",NA
+"439","Enterolobium schomburgkii","Enterolobium schomburgkii","Enterolobium schomburgkii","Enterolobium","Fabaceae","tree","Entescho","species","tree",NA
+"440","Enterolobium sp","Enterolobium sp","Enterolobium","Enterolobium","Fabaceae","tree","Entesp","genus","tree",NA
+"441","Enterolobium timbouva","Enterolobium timbouva","Enterolobium timbouva","Enterolobium","Fabaceae",NA,"Entetimbo","species","tree",NA
+"442","Eris sp","Erisma sp","Erisma","Erisma",NA,NA,"Erissp","genus",NA,NA
+"443","Erisma cf uncinatum","Erisma uncinatum","Erisma uncinatum","Erisma",NA,NA,"Erisuncin","species","tree",NA
+"444","Erisma sp","Erisma sp","Erisma","Erisma",NA,NA,"Erissp","genus",NA,NA
+"445","Erithrira sp","Erythrina sp","Erythrina","Erythrina","Fabaceae",NA,"Erytsp","genus",NA,NA
+"446","Erythina poeppigiana","Erythrina poeppigiana","Erythrina poeppigiana","Erythrina","Fabaceae","tree","Erytpoep","species","tree",NA
+"447","Erythrina fusca","Erythrina fusca","Erythrina fusca","Erythrina","Fabaceae",NA,"Erytfusca","species","tree",NA
+"448","Erythrina po","Erythrina poeppigiana","Erythrina poeppigiana","Erythrina","Fabaceae","tree","Erytpoep","species","tree",NA
+"449","Erythrina poeppigiana","Erythrina poeppigiana","Erythrina poeppigiana","Erythrina","Fabaceae","tree","Erytpoep","species","tree",NA
+"450","Erythrina rubrinervia","Erythrina rubrinervia","Erythrina rubrinervia","Erythrina","Fabaceae",NA,"Erytrubri","species",NA,NA
+"451","Erythrina sp","Erythrina sp","Erythrina","Erythrina","Fabaceae",NA,"Erytsp","genus",NA,NA
+"452","Erythrina velutina","Erythrina velutina","Erythrina velutina","Erythrina","Fabaceae","tree","Erytvelu","species","tree",NA
+"453","Erythroxylum cf suberosum","Erythroxylum suberosum","Erythroxylum suberosum","Erythroxylum","Erythroxylaceae",NA,"Erytsuber","species","tree",NA
+"454","Erythroxylum citrifolium","Erythroxylum citrifolium","Erythroxylum citrifolium","Erythroxylum","Erythroxylaceae","treelet","Erytcitr","species","treelet",NA
+"455","Erythroxylum haughtii","Erythroxylum haughtii","Erythroxylum haughtii","Erythroxylum","Erythroxylaceae",NA,"Erythaugh","species",NA,NA
+"456","Erythroxylum havanense","Erythroxylum havanensis","Erythroxylum havanense","Erythroxylum","Erythroxylaceae",NA,"Erythavan","species",NA,NA
+"457","Erythroxylum havanensis","Erythroxylum havanensis","Erythroxylum havanense","Erythroxylum","Erythroxylaceae",NA,"Erythavan","species",NA,NA
+"458","Erythroxylum hondense","Erythroxylum hondense","Erythroxylum hondense","Erythroxylum","Erythroxylaceae","shrub","Erythond","species","shrub",NA
+"459","Erythroxylum macrophyllum","Erythroxylum macrophyllum","Erythroxylum macrophyllum","Erythroxylum","Erythroxylaceae","tree","Erytmacr","species","tree",NA
+"460","Erythroxylum williamsii","Erythroxylum williamsii","Erythroxylum williamsii","Erythroxylum","Erythroxylaceae",NA,"Erytwilli","species",NA,NA
+"461","Erytrina fusca","Erythrina fusca","Erythrina fusca","Erythrina","Fabaceae",NA,"Erytfusca","species","tree",NA
+"462","Erytrina poepigiana","Erythrina poeppigiana","Erythrina poeppigiana","Erythrina","Fabaceae","tree","Erytpoep","species","tree",NA
+"463","Erytrina poeppigiana","Erythrina poeppigiana","Erythrina poeppigiana","Erythrina","Fabaceae","tree","Erytpoep","species","tree",NA
+"464","Escheweilera tenuifolia","Eschweilera tenuifolia","Eschweilera tenuifolia","Eschweilera","Lecythidaceae","tree","Eschtenu","species","tree",NA
+"465","Eschweilera sp","Eschweilera sp","Eschweilera","Eschweilera","Lecythidaceae","tree","Eschsp","genus","tree",NA
+"466","Esenbeckia panamensis","Esenbeckia panamensis","Esenbeckia panamensis","Esenbeckia","Rutaceae",NA,"Esenpanam","species",NA,NA
+"467","Esterculiaceae sp","Sterculiaceae","Sterculiaceae","Sterculiaceae",NA,NA,"Sterfm","family",NA,NA
+"468","Eugenia biflora","Eugenia biflora","Eugenia biflora","Eugenia","Myrtaceae","treelet","Eugebifl","species","treelet",NA
+"469","Eugenia monticola","Eugenia monticola","Eugenia monticola","Eugenia","Myrtaceae","tree","Eugemont","species","tree",NA
+"470","Eugenia pr","Eugenia sp","Eugenia","Eugenia","Myrtaceae","tree","Eugesp","genus","tree",NA
+"471","Eugenia procera","Eugenia procera","Eugenia procera","Eugenia","Myrtaceae","tree","Eugeproc","species","tree",NA
+"472","Eugenia schomburgkii","Eugenia schomburgkii","Eugenia schomburgkii","Eugenia","Myrtaceae",NA,"Eugeschom","species","tree",NA
+"473","Eugenia sp","Eugenia sp","Eugenia","Eugenia","Myrtaceae","tree","Eugesp","genus","tree",NA
+"474","Euphor sp","Euphorbia sp","Euphorbia","Euphorbia","Euphorbiaceae",NA,"Euphsp","genus",NA,NA
+"475","Euphorbia conitifolia","Euphorbia cotinifolia","Euphorbia cotinifolia","Euphorbia","Euphorbiaceae","treelet","Euphcoti","species","treelet",NA
+"476","Euphorbia cotini","Euphorbia cotinifolia","Euphorbia cotinifolia","Euphorbia","Euphorbiaceae","treelet","Euphcoti","species","treelet",NA
+"477","Euphorbia cotinifolia","Euphorbia cotinifolia","Euphorbia cotinifolia","Euphorbia","Euphorbiaceae","treelet","Euphcoti","species","treelet",NA
+"478","Euphorbia sp","Euphorbia sp","Euphorbia","Euphorbia","Euphorbiaceae",NA,"Euphsp","genus",NA,NA
+"479","Euterpe precatoira","Euterpe precatoria","Euterpe precatoria","Euterpe",NA,NA,"Eutepreca","species","palm",NA
+"480","Euterpe precatoria","Euterpe precatoria","Euterpe precatoria","Euterpe",NA,NA,"Eutepreca","species","palm",NA
+"481","Euterpe sp","Euterpe sp","Euterpe","Euterpe",NA,NA,"Eutesp","genus",NA,NA
+"482","Fabaceae sp","Fabaceae","Fabaceae","Fabaceae",NA,NA,"Fabafm","family",NA,NA
+"483","Ficis sp","Ficus sp","Ficus","Ficus","Moraceae","tree","Ficusp","genus","tree",NA
+"484","Ficu sp","Ficus sp","Ficus","Ficus","Moraceae","tree","Ficusp","genus","tree",NA
+"485","Ficus cf glabrata","Ficus glabrata","Ficus glabrata","Ficus","Moraceae",NA,"Ficuglabr","species","tree",NA
+"486","Ficus cf insipida","Ficus insipida","Ficus insipida","Ficus","Moraceae",NA,"Ficuinsip","species","tree",NA
+"487","Ficus cf nymphaeifolia","Ficus nymphaeifolia","Ficus nymphaeifolia","Ficus","Moraceae",NA,"Ficunymph","species","tree",NA
+"488","Ficus cf obtusifolia","Ficus obtusifolia","Ficus obtusifolia","Ficus","Moraceae","tree","Ficuobtu","species","tree",NA
+"489","Ficus dendrocida","Ficus dendrocida","Ficus dendrocida","Ficus","Moraceae",NA,"Ficudendr","species",NA,NA
+"490","Ficus glabrata","Ficus glabrata","Ficus glabrata","Ficus","Moraceae",NA,"Ficuglabr","species","tree",NA
+"491","Ficus insipida","Ficus insipida","Ficus insipida","Ficus","Moraceae",NA,"Ficuinsip","species","tree",NA
+"492","Ficus lyrata","Ficus lyrata","Ficus lyrata","Ficus","Moraceae",NA,"Ficulyrat","species","tree",NA
+"493","Ficus maxima","Ficus maxima","Ficus maxima","Ficus","Moraceae",NA,"Ficumaxim","species","tree",NA
+"494","Ficus obtusifolia","Ficus obtusifolia","Ficus obtusifolia","Ficus","Moraceae","tree","Ficuobtu","species","tree",NA
+"495","Ficus pandurata","Ficus pandurata","Ficus pandurata","Ficus","Moraceae",NA,"Ficupandu","species",NA,NA
+"496","Ficus pertusa","Ficus pertusa","Ficus pertusa","Ficus","Moraceae",NA,"Ficupertu","species","tree",NA
+"497","Ficus sp","Ficus sp","Ficus","Ficus","Moraceae","tree","Ficusp","genus","tree",NA
+"498","Frangula goudotiana","Frangula goudotiana","Frangula goudotiana","Frangula",NA,NA,"Frangoudo","species",NA,NA
+"499","Fridericia mollissima","Fridericia mollissima","Fridericia mollissima","Fridericia","Bignoniaceae","liana","Fridmoll","species","liana",NA
+"500","Fu sp","Furcraea sp","Furcraea","Furcraea",NA,NA,"Furcsp","genus",NA,NA
+"501","Furc sp","Furcraea sp","Furcraea","Furcraea",NA,NA,"Furcsp","genus",NA,NA
+"502","Furcraea cabuya","Furcraea cabuya","Furcraea cabuya","Furcraea",NA,NA,"Furccabuy","species",NA,NA
+"503","Gaiadendron punctatum","Gaiadendron punctatum","Gaiadendron punctatum","Gaiadendron",NA,NA,"Gaiapunct","species","tree",NA
+"504","Gairicidia sepium","Gliricidia sepium","Gliricidia sepium","Gliricidia","Fabaceae","tree","Glirsepi","species","tree",NA
+"505","Garcia nutans","Garcia nutans","Garcia nutans","Garcia",NA,NA,"Garcnutan","species",NA,NA
+"506","Garcinia madruno","Garcinia madruno","Garcinia madruno","Garcinia","Clusiaceae","tree","Garcmadr","species","tree",NA
+"507","Gauzuma ulmifolia var tomentella","Gauzuma ulmifolia","Guazuma ulmifolia","Guazuma","Malvaceae","tree","Guazulmi","species","tree",NA
+"508","Geisanthus sp","Indeterminado",NA,NA,NA,"tree","NN","species","tree",NA
+"509","Genipa amaricana","Genipa americana","Genipa americana","Genipa","Rubiaceae","tree","Geniamer","species","tree","LC"
+"510","Genipa americana","Genipa americana","Genipa americana","Genipa","Rubiaceae","tree","Geniamer","species","tree","LC"
+"511","Girocarpus americana","Girocarpus americana","Gyrocarpus americanus","Gyrocarpus","Hernandiaceae","tree","Gyroamer","species","tree",NA
+"512","Glairicidia sepium","Gliricidia sepium","Gliricidia sepium","Gliricidia","Fabaceae","tree","Glirsepi","species","tree",NA
+"513","Glaricidia sepium","Gliricidia sepium","Gliricidia sepium","Gliricidia","Fabaceae","tree","Glirsepi","species","tree",NA
+"514","Gliciricia sepium","Gliricidia sepium","Gliricidia sepium","Gliricidia","Fabaceae","tree","Glirsepi","species","tree",NA
+"515","Gliricidia sepium","Gliricidia sepium","Gliricidia sepium","Gliricidia","Fabaceae","tree","Glirsepi","species","tree",NA
+"516","Gmelina arborea","Gmelina arborea","Gmelina arborea","Gmelina",NA,NA,"Gmelarbor","species",NA,NA
+"517","Godmania aescacifolia","Godmania aesculifolia","Godmania aesculifolia","Godmania","Bignoniaceae","tree","Godmaesc","species","tree",NA
+"518","Godmania aescucifolia","Godmania aesculifolia","Godmania aesculifolia","Godmania","Bignoniaceae","tree","Godmaesc","species","tree",NA
+"519","Godmania aesculifolia","Godmania aesculifolia","Godmania aesculifolia","Godmania","Bignoniaceae","tree","Godmaesc","species","tree",NA
+"520","Gonzalagunia cornifolia","Gonzalagunia cornifolia","Gonzalagunia cornifolia","Gonzalagunia",NA,NA,"Gonzcorni","species","treelet",NA
+"521","Gossipium barbadense","Gossipium barbadense","Gossypium barbadense","Gossypium",NA,NA,"Gossbarba","species","treelet",NA
+"522","Goupia glabra","Goupia glabra","Goupia glabra","Goupia",NA,NA,"Goupglabr","species","tree",NA
+"523","Graminea sp","Graminea","Graminea","Graminea",NA,NA,"Gramsp","genus",NA,NA
+"524","Gramineas sp","Graminea","Graminea","Graminea",NA,NA,"Gramsp","genus",NA,NA
+"525","Guadua angustifoli","Guadua sp","Guadua","Guadua",NA,NA,"Guadsp","genus",NA,NA
+"526","Guadua angustifolia","Guadua sp","Guadua","Guadua",NA,NA,"Guadsp","genus",NA,NA
+"527","Guadua sp","Guadua sp","Guadua","Guadua",NA,NA,"Guadsp","genus",NA,NA
+"528","Guapira costaric","Guapira costaricana","Guapira costaricana","Guapira","Nyctaginaceae","tree","Guapcost","species","tree",NA
+"529","Guapira costaricana","Guapira costaricana","Guapira costaricana","Guapira","Nyctaginaceae","tree","Guapcost","species","tree",NA
+"530","Guapira nigricans","Guapira nigricans","Guapira","Guapira","Nyctaginaceae","tree","Guapsp","genus","tree",NA
+"531","Guapira pacurero","Guapira pacurero","Guapira pacurero","Guapira","Nyctaginaceae",NA,"Guappacur","species",NA,NA
+"532","Guapira uberrima","Guapira uberrima","Guapira uberrima","Guapira","Nyctaginaceae","tree","Guapuber","species","tree",NA
+"533","Guarea guidonea","Guarea guidonia","Guarea guidonia","Guarea","Meliaceae","tree","Guarguid","species","tree",NA
+"534","Guarea guidonia","Guarea guidonia","Guarea guidonia","Guarea","Meliaceae","tree","Guarguid","species","tree",NA
+"535","Guarea guidonia ","Guarea guidonia","Guarea guidonia","Guarea","Meliaceae","tree","Guarguid","species","tree",NA
+"536","Guarea sp","Guarea sp","Guarea","Guarea","Meliaceae","tree","Guarsp","genus","tree",NA
+"537","Guarea trichiloides","Guarea trichiloides","Guarea trichilioides","Guarea","Meliaceae",NA,"Guartrich","species","tree",NA
+"538","Guarera sp","Guarea sp","Guarea","Guarea","Meliaceae","tree","Guarsp","genus","tree",NA
+"539","Guasimo sp","Guazuma ulmifolia","Guazuma ulmifolia","Guazuma","Malvaceae","tree","Guazulmi","species","tree",NA
+"540","Guatt sp","Guatteria sp","Guatteria","Guatteria","Annonaceae",NA,"Guatsp","genus",NA,NA
+"541","Guatteria cf metensis","Guatteria metensis","Guatteria metensis","Guatteria","Annonaceae","tree","Guatmete","species","tree",NA
+"542","Guatteria maypurensis","Guatteria maypurensis","Guatteria maypurensis","Guatteria","Annonaceae",NA,"Guatmaypu","species","tree",NA
+"543","Guatteria recurvisepala","Guatteria recurvisepala","Guatteria recurvisepala","Guatteria","Annonaceae",NA,"Guatrecur","species","tree",NA
+"544","Guatteria rubrinervis","Guatteria rubrinervis","Guatteria rubrinervis","Guatteria","Annonaceae",NA,"Guatrubri","species","tree",NA
+"545","Guaz sp","Guazuma sp","Guazuma","Guazuma","Malvaceae",NA,"Guazsp","genus",NA,NA
+"546","Guazma ulmifolia","Guazuma ulmifolia","Guazuma ulmifolia","Guazuma","Malvaceae","tree","Guazulmi","species","tree",NA
+"547","Guazuma sp","Guazuma sp","Guazuma","Guazuma","Malvaceae",NA,"Guazsp","genus",NA,NA
+"548","Guazuma ulmifolia","Guazuma ulmifolia","Guazuma ulmifolia","Guazuma","Malvaceae","tree","Guazulmi","species","tree",NA
+"549","Guazuma umifolia","Guazuma ulmifolia","Guazuma ulmifolia","Guazuma","Malvaceae","tree","Guazulmi","species","tree",NA
+"550","Guazuna ulmyolia","Guazuma ulmifolia","Guazuma ulmifolia","Guazuma","Malvaceae","tree","Guazulmi","species","tree",NA
+"551","Guettarda sp","Guettarda sp","Guettarda","Guettarda","Rubiaceae",NA,"Guetsp","genus",NA,NA
+"552","Gurania pacurero","Gurania pacurero","Gurania","Gurania",NA,NA,"Gurasp","genus",NA,NA
+"553","Gussera fementosa","Indeterminado",NA,NA,NA,"tree","NN","species","tree",NA
+"554","Gustavia hex","Gustavia hexapitala","Gustavia hexapetala","Gustavia","Lecythidaceae","tree","Gusthexa","species","tree",NA
+"555","Gustavia hexapitala","Gustavia hexapitala","Gustavia hexapetala","Gustavia","Lecythidaceae","tree","Gusthexa","species","tree",NA
+"556","Gustavia superba","Gustavia superba","Gustavia superba","Gustavia","Lecythidaceae","tree","Gustsupe","species","tree",NA
+"557","Gynerium sagitatum","Gynerium sagittatum","Gynerium sagittatum","Gynerium",NA,NA,"Gynesagit","species","treelet",NA
+"558","Gynerium sagittatum","Gynerium sagittatum","Gynerium sagittatum","Gynerium",NA,NA,"Gynesagit","species","treelet",NA
+"559","Gyrocarpus americana","Gyrocarpus americanus","Gyrocarpus americanus","Gyrocarpus","Hernandiaceae","tree","Gyroamer","species","tree",NA
+"560","Gyrocarpus americanus","Gyrocarpus americanus","Gyrocarpus americanus","Gyrocarpus","Hernandiaceae","tree","Gyroamer","species","tree",NA
+"561","Haematoxylon brasiletto","Haematoxylum brasiletto","Haematoxylum brasiletto","Haematoxylum","Fabaceae","treelet","Haembras","species","treelet",NA
+"562","Haematoxylum brasiletto","Haematoxylum brasiletto","Haematoxylum brasiletto","Haematoxylum","Fabaceae","treelet","Haembras","species","treelet",NA
+"563","Hamelia patens","Hamelia patens","Hamelia patens","Hamelia",NA,NA,"Hamepaten","species","tree",NA
+"564","Handroant sp","Handroanthus sp","Handroanthus","Handroanthus","Bignoniaceae",NA,"Handsp","genus",NA,NA
+"565","Handroanthus billbergii","Handroanthus billbergii","Handroanthus billbergii","Handroanthus","Bignoniaceae","tree","Handbill","species","tree",NA
+"566","Handroanthus cf chrysanthus","Handroanthus chrysanthus","Handroanthus chrysanthus","Handroanthus","Bignoniaceae","tree","Handchry","species","tree",NA
+"567","Handroanthus chrysanhus","Handroanthus chrysanthus","Handroanthus chrysanthus","Handroanthus","Bignoniaceae","tree","Handchry","species","tree",NA
+"568","Handroanthus chrysanthus","Handroanthus chrysanthus","Handroanthus chrysanthus","Handroanthus","Bignoniaceae","tree","Handchry","species","tree",NA
+"569","Handroanthus coralibe","Handroanthus coralibe","Handroanthus coralibe","Handroanthus","Bignoniaceae",NA,"Handcoral","species",NA,NA
+"570","Handroanthus crhysanthus","Handroanthus chrysanthus","Handroanthus chrysanthus","Handroanthus","Bignoniaceae","tree","Handchry","species","tree",NA
+"571","Handroanthus impetiginosus","Handroanthus impetiginosus","Handroanthus impetiginosus","Handroanthus","Bignoniaceae",NA,"Handimpet","species","tree","NT"
+"572","Handroanthus ochraceus","Handroanthus ochraceus","Handroanthus ochraceus","Handroanthus","Bignoniaceae","tree","Handochr","species","tree",NA
+"573","Handroanthus roseus","Handroanthus roseus","Handroanthus","Handroanthus","Bignoniaceae",NA,"Handsp","genus",NA,NA
+"574","Handroanthus sp","Handroanthus sp","Handroanthus","Handroanthus","Bignoniaceae",NA,"Handsp","genus",NA,NA
+"575","Handroantus cristanta","Handroanthus chrysanthus","Handroanthus chrysanthus","Handroanthus","Bignoniaceae","tree","Handchry","species","tree",NA
+"576","Handroathus billbergii","Handroanthus billbergii","Handroanthus billbergii","Handroanthus","Bignoniaceae","tree","Handbill","species","tree",NA
+"577","Hanmdroanthus billbergii","Handroanthus billbergii","Handroanthus billbergii","Handroanthus","Bignoniaceae","tree","Handbill","species","tree",NA
+"578","Heliconia lasiospatha","Heliconia lasiospatha","Heliconia latispatha","Heliconia",NA,NA,"Helilatis","species",NA,NA
+"579","Heliconia latispatha","Heliconia lasiospatha","Heliconia latispatha","Heliconia",NA,NA,"Helilatis","species",NA,NA
+"580","Heliconia latisphata","Heliconia lasiospatha","Heliconia latispatha","Heliconia",NA,NA,"Helilatis","species",NA,NA
+"581","Heliconia platystachys","Heliconia platystachys","Heliconia platystachys","Heliconia",NA,NA,"Heliplaty","species",NA,NA
+"582","Helicteres baruensis","Helicteres baruensis","Helicteres baruensis","Helicteres",NA,NA,"Helibarue","species","treelet",NA
+"583","Helicteres sp","Helicteres sp","Helicteres","Helicteres",NA,NA,"Helisp","genus",NA,NA
+"584","Heliocarpus popayanensis","Heliocarpus popayanensis","Heliocarpus popayanensis","Heliocarpus",NA,NA,"Helipopay","species","tree",NA
+"585","Hieronyma alchorneoides","Hieronyma alchorneoides","Hieronyma alchorneoides","Hieronyma",NA,NA,"Hieralcho","species","tree",NA
+"586","Himantathus articulatus","Himatanthus articulatus","Himatanthus articulatus","Himatanthus","Apocynaceae","tree","Himaarti","species","tree",NA
+"587","Himatanthus articulathus","Himatanthus articulatus","Himatanthus articulatus","Himatanthus","Apocynaceae","tree","Himaarti","species","tree",NA
+"588","Himatanthus articulatus","Himatanthus articulatus","Himatanthus articulatus","Himatanthus","Apocynaceae","tree","Himaarti","species","tree",NA
+"589","Hippocratea volubilis","Hippocratea volubilis","Hippocratea volubilis","Hippocratea","Celastraceae","liana","Hippvolu","species","liana",NA
+"590","Hirtella americana","Hirtella americana","Hirtella americana","Hirtella","Chrysobalanaceae","tree","Hirtamer","species","tree",NA
+"591","Hirtella elongata","Hirtella elongata","Hirtella elongata","Hirtella","Chrysobalanaceae",NA,"Hirtelong","species","tree",NA
+"592","Homalium guianense","Homalium guianense","Homalium guianense","Homalium",NA,NA,"Homaguian","species","tree",NA
+"593","hora crepitans","Hora crepitans","Hora","Hora",NA,NA,"Horasp","genus",NA,NA
+"594","Hora crepitans","Hora crepitans","Hora","Hora",NA,NA,"Horasp","genus",NA,NA
+"595","Hstonium graucolens","Indeterminado",NA,NA,NA,"tree","NN","species","tree",NA
+"596","Hura crepitans","Hura crepitans","Hura crepitans","Hura","Euphorbiaceae","tree","Huracrep","species","tree",NA
+"597","Hybanthus prunifolius","Hybanthus prunifolius","Hybanthus prunifolius","Hybanthus",NA,NA,"Hybapruni","species","tree",NA
+"598","Hydrochorea corymbosa","Hydrochorea corymbosa","Hydrochorea corymbosa","Hydrochorea",NA,NA,"Hydrcorym","species","tree",NA
+"599","Hydrocorea corymbosa","Hydrochorea corymbosa","Hydrochorea corymbosa","Hydrochorea",NA,NA,"Hydrcorym","species","tree",NA
+"600","Hyeronima alchorneoides","Hyeronima alchorneoides","Hyeronima alchorneoides","Hyeronima",NA,NA,"Hyeralcho","species","tree",NA
+"601","Hyeronima sp","Hyeronima sp","Hyeronima","Hyeronima",NA,NA,"Hyersp","genus",NA,NA
+"602","Hylocereus cf megalanthus","Hylocereus megalanthus","Hylocereus megalanthus","Hylocereus",NA,NA,"Hylomegal","species",NA,NA
+"603","Hylocereus monacanthus","Hylocereus monacanthus","Hylocereus monacanthus","Hylocereus",NA,NA,"Hylomonac","species",NA,NA
+"604","Hylocereus sp","Hylocereus sp","Hylocereus","Hylocereus",NA,NA,"Hylosp","genus",NA,NA
+"605","Hymenaea corbaril","Hymenaea courbaril","Hymenaea courbaril","Hymenaea","Fabaceae","tree","Hymecour","species","tree","LC"
+"606","Hymenaea cou","Hymenaea courbaril","Hymenaea courbaril","Hymenaea","Fabaceae","tree","Hymecour","species","tree","LC"
+"607","Hymenaea courbaril","Hymenaea courbaril","Hymenaea courbaril","Hymenaea","Fabaceae","tree","Hymecour","species","tree","LC"
+"608","Hymenolobium petraeum","Hymenolobium petraeum","Hymenolobium petraeum","Hymenolobium",NA,NA,"Hymepetra","species",NA,NA
+"609","Hyparrhenia rufa","Hyparrhenia rufa","Hyparrhenia rufa","Hyparrhenia",NA,NA,"Hyparufa","species","forb",NA
+"610","Identificaciin sp","Indeterminado",NA,NA,NA,"tree","NN","species","tree",NA
+"611","Indet sp","Indeterminado",NA,NA,NA,"tree","NN","species","tree",NA
+"612","Inga alba","Inga alba","Inga alba","Inga","Fabaceae",NA,"Ingaalba","species","tree",NA
+"613","Inga alba ","Inga alba","Inga alba","Inga","Fabaceae",NA,"Ingaalba","species","tree",NA
+"614","Inga cf cylindrica","Inga cylindrica","Inga cylindrica","Inga","Fabaceae",NA,"Ingacylin","species","tree",NA
+"615","Inga cf edulis","Inga edulis","Inga edulis","Inga","Fabaceae",NA,"Ingaeduli","species","tree",NA
+"616","Inga cf marginata","Inga marginata","Inga marginata","Inga","Fabaceae","tree","Ingamarg","species","tree",NA
+"617","Inga densiflora","Inga densiflora","Inga densiflora","Inga","Fabaceae",NA,"Ingadensi","species",NA,NA
+"618","Inga edulis","Inga edulis","Inga edulis","Inga","Fabaceae",NA,"Ingaeduli","species","tree",NA
+"619","Inga fastuosa","Inga fastuosa","Inga fastuosa","Inga","Fabaceae","tree","Ingafast","species","tree",NA
+"620","Inga interrupta","Inga interrupta","Inga interrupta","Inga","Fabaceae",NA,"Ingainter","species",NA,NA
+"621","Inga marginata","Inga marginata","Inga marginata","Inga","Fabaceae","tree","Ingamarg","species","tree",NA
+"622","Inga sp","Inga sp","Inga","Inga","Fabaceae","tree","Ingasp","genus","tree",NA
+"623","Inga spectabilis","Inga spectabilis","Inga spectabilis","Inga","Fabaceae",NA,"Ingaspect","species",NA,NA
+"624","Inga vera","Inga vera","Inga vera","Inga","Fabaceae","tree","Ingavera","species","tree",NA
+"625","Ipomoea pres caprae","Ipomoea sp","Ipomoea","Ipomoea","Convolvulaceae","liana","Ipomsp","genus","liana",NA
+"626","Iriplavis americana","Indeterminado",NA,NA,NA,"tree","NN","species","tree",NA
+"627","Jacaranda copaia","Jacaranda copaia","Jacaranda copaia","Jacaranda","Bignoniaceae",NA,"Jacacopai","species","tree",NA
+"628","Jacaranda obtusifolia","Jacaranda obtusifolia","Jacaranda obtusifolia","Jacaranda","Bignoniaceae","tree","Jacaobtu","species","tree",NA
+"629","Jacaranda sp","Jacaranda sp","Jacaranda","Jacaranda","Bignoniaceae",NA,"Jacasp","genus",NA,NA
+"630","Jacaratia digitata","Jacaratia digitata","Jacaratia digitata","Jacaratia",NA,NA,"Jacadigit","species","tree",NA
+"631","Jacquinia arsistata","Jacquinia arsistata","Jacquinia aristata","Jacquinia","Primulaceae",NA,"Jacqarist","species",NA,NA
+"632","Jatropha gossypifolia","Jatropha gossypiifolia","Jatropha gossypiifolia","Jatropha","Euphorbiaceae","shrub","Jatrgoss","species","shrub",NA
+"633","Jatropha gossypiifolia","Jatropha gossypiifolia","Jatropha gossypiifolia","Jatropha","Euphorbiaceae","shrub","Jatrgoss","species","shrub",NA
+"634","Justicia sp","Justicia sp","Justicia","Justicia",NA,NA,"Justsp","genus",NA,NA
+"635","Lacistema agregatum","Lacistema agregatum","Lacistema aggregatum","Lacistema","Lacistemataceae","tree","Laciaggr","species","tree",NA
+"636","Lafoensia punicifolia","Lafoensia punicifolia","Lafoensia punicifolia","Lafoensia",NA,NA,"Lafopunic","species",NA,NA
+"637","Lantana camara","Lantana camara","Lantana camara","Lantana","Verbenaceae","forb","Lantcama","species","forb",NA
+"638","Lauraceae sp","Lauraceae","Lauraceae","Lauraceae",NA,NA,"Laurfm","family",NA,NA
+"639","Lecythis minor","Lecythis minor","Lecythis minor","Lecythis","Lecythidaceae","tree","Lecymino","species","tree","LC"
+"640","Leguminosa sp","Fabaceae","Fabaceae","Fabaceae",NA,NA,"Fabafm","family",NA,NA
+"641","Leucaena glauca","Leucaena glauca","Leucaena glauca","Leucaena","Fabaceae",NA,"Leucglauc","species",NA,NA
+"642","Leucaena leucocephala","Leucaena leucocephala","Leucaena leucocephala","Leucaena","Fabaceae","tree","Leucleuc","species","tree",NA
+"643","Leucaena leucocephalla","Leucaena leucocephala","Leucaena leucocephala","Leucaena","Fabaceae","tree","Leucleuc","species","tree",NA
+"644","Leucaena leucochepalla","Leucaena leucocephala","Leucaena leucocephala","Leucaena","Fabaceae","tree","Leucleuc","species","tree",NA
+"645","Leucaena sp","Leucaena sp","Leucaena","Leucaena","Fabaceae",NA,"Leucsp","genus",NA,NA
+"646","Li sp","Indeterminado",NA,NA,NA,"tree","NN","species","tree",NA
+"647","Libidibia coriaria","Libidibia coriaria","Libidibia coriaria","Libidibia",NA,NA,"Libicoria","species",NA,NA
+"648","Libidibia ebano","Libidibia ebano","Libidibia ebano","Libidibia",NA,NA,"Libiebano","species",NA,NA
+"649","Lica sp","Licania sp","Licania","Licania","Chrysobalanaceae","tree","Licasp","genus","tree",NA
+"650","Licania alba","Licania alba","Licania alba","Licania","Chrysobalanaceae",NA,"Licaalba","species","tree",NA
+"651","Licania ape","Licania apetala","Licania apetala","Licania","Chrysobalanaceae","tree","Licaapet","species","tree",NA
+"652","Licania apetala","Licania apetala","Licania apetala","Licania","Chrysobalanaceae","tree","Licaapet","species","tree",NA
+"653","Licania hypoleuca","Licania hypoleuca","Licania hypoleuca","Licania","Chrysobalanaceae",NA,"Licahypol","species",NA,NA
+"654","Licania kunthiana","Licania kunthiana","Licania kunthiana","Licania","Chrysobalanaceae",NA,"Licakunth","species","tree",NA
+"655","Lindackeria paludosa","Lindackeria paludosa","Lindackeria paludosa","Lindackeria","Achariaceae","tree","Lindpalu","species","tree",NA
+"656","Lippia origanoide","Lippia origanoides","Lippia origanoides","Lippia","Verbenaceae","tree","Lipporig","species","tree",NA
+"657","Lippia origanoides","Lippia origanoides","Lippia origanoides","Lippia","Verbenaceae","tree","Lipporig","species","tree",NA
+"658","Litiaceae sp","Liliaceae","Liliaceae","Liliaceae",NA,NA,"Lilifm","family",NA,NA
+"659","Lonchocarpus acapulcensis","Lonchocarpus acapulcensis","Lonchocarpus","Lonchocarpus","Fabaceae",NA,"Loncsp","genus",NA,NA
+"660","Lonchocarpus punctatus","Lonchocarpus punctatus","Lonchocarpus punctatus","Lonchocarpus","Fabaceae",NA,"Loncpunct","species","tree",NA
+"661","Lonchocarpus sancta-marthae","Lonchocarpus sanctae-marthae","Lonchocarpus sanctae-marthae","Lonchocarpus","Fabaceae","tree","Loncsanc","species","tree",NA
+"662","Lonchocarpus sanctae marthae","Lonchocarpus sanctae-marthae","Lonchocarpus sanctae-marthae","Lonchocarpus","Fabaceae","tree","Loncsanc","species","tree",NA
+"663","Lonchocarpus sanctae narthae","Lonchocarpus sanctae-marthae","Lonchocarpus sanctae-marthae","Lonchocarpus","Fabaceae","tree","Loncsanc","species","tree",NA
+"664","Lonchocarpus santae marthae","Lonchocarpus sanctae-marthae","Lonchocarpus sanctae-marthae","Lonchocarpus","Fabaceae","tree","Loncsanc","species","tree",NA
+"665","Lonchocarpus sp","Lonchocarpus sp","Lonchocarpus","Lonchocarpus","Fabaceae",NA,"Loncsp","genus",NA,NA
+"666","Luehea candida","Luehea candida","Luehea candida","Luehea","Malvaceae",NA,"Luehcandi","species",NA,NA
+"667","Luehea seemannii","Luehea seemannii","Luehea seemannii","Luehea","Malvaceae","tree","Luehseem","species","tree",NA
+"668","Luehea sesmannii","Luehea seemannii","Luehea seemannii","Luehea","Malvaceae","tree","Luehseem","species","tree",NA
+"669","Luehea speciosa","Luehea speciosa","Luehea speciosa","Luehea","Malvaceae",NA,"Luehspeci","species","tree",NA
+"670","Lueheopsis sp","Lueheopsis sp","Lueheopsis","Lueheopsis",NA,NA,"Luehsp","genus",NA,NA
+"671","Lycium tweidianum","Lycium tweidianum","Lycium tweedianum","Lycium",NA,NA,"Lycitweed","species",NA,NA
+"672","Mabea montana","Mabea montana","Mabea montana","Mabea","Euphorbiaceae",NA,"Mabemonta","species","tree",NA
+"673","Mabea sp","Mabea sp","Mabea","Mabea","Euphorbiaceae",NA,"Mabesp","genus",NA,NA
+"674","Mabea trianae","Mabea trianae","Mabea trianae","Mabea","Euphorbiaceae","tree","Mabetria","species","tree",NA
+"675","Macaherium sp","Machaerium sp","Machaerium","Machaerium","Fabaceae","liana","Machsp","genus","liana",NA
+"676","Machaenium capote","Machaerium capote","Machaerium capote","Machaerium","Fabaceae","tree","Machcapo","species","tree",NA
+"677","Machaerium arboreum","Machaerium arboreum","Machaerium arboreum","Machaerium","Fabaceae","tree","Macharbo","species","tree",NA
+"678","Machaerium biovolatum","Machaerium biovulatum","Machaerium biovulatum","Machaerium","Fabaceae","tree","Machbiov","species","tree",NA
+"679","Machaerium biovulatum","Machaerium biovulatum","Machaerium biovulatum","Machaerium","Fabaceae","tree","Machbiov","species","tree",NA
+"680","Machaerium capote","Machaerium capote","Machaerium capote","Machaerium","Fabaceae","tree","Machcapo","species","tree",NA
+"681","Machaerium macrophillum","Machaerium microphyllum","Machaerium microphyllum","Machaerium","Fabaceae","liana","Machmicr","species","liana",NA
+"682","Machaerium macrophyllum","Machaerium microphyllum","Machaerium microphyllum","Machaerium","Fabaceae","liana","Machmicr","species","liana",NA
+"683","Machaerium rohrii","Machaerium rohrii","Machaerium","Machaerium","Fabaceae","liana","Machsp","genus","liana",NA
+"684","Machaerium sp","Machaerium sp","Machaerium","Machaerium","Fabaceae","liana","Machsp","genus","liana",NA
+"685","Machaerum capote","Machaerium capote","Machaerium capote","Machaerium","Fabaceae","tree","Machcapo","species","tree",NA
+"686","Machaesium capote","Machaerium capote","Machaerium capote","Machaerium","Fabaceae","tree","Machcapo","species","tree",NA
+"687","Maclura sp","Maclura sp","Maclura","Maclura","Moraceae",NA,"Maclsp","genus",NA,NA
+"688","Maclura ticntoria","Maclura tinctoria","Maclura tinctoria","Maclura","Moraceae","tree","Macltinc","species","tree",NA
+"689","Maclura tinctorea","Maclura tinctoria","Maclura tinctoria","Maclura","Moraceae","tree","Macltinc","species","tree",NA
+"690","Maclura tinctoria","Maclura tinctoria","Maclura tinctoria","Maclura","Moraceae","tree","Macltinc","species","tree",NA
+"691","Maclura tintorea","Maclura tinctoria","Maclura tinctoria","Maclura","Moraceae","tree","Macltinc","species","tree",NA
+"692","Macrolobium multijugum","Macrolobium multijugum","Macrolobium multijugum","Macrolobium",NA,NA,"Macrmulti","species","tree",NA
+"693","Madiaerium capote","Madiaerium capote","Machaerium capote","Machaerium","Fabaceae","tree","Machcapo","species","tree",NA
+"694","Malphigia cf glabra","Malpighia glabra","Malpighia glabra","Malpighia","Malpighiaceae","tree","Malpglab","species","tree",NA
+"695","Malphigiaceae sp","Malpighiaceae","Malpighiaceae","Malpighiaceae",NA,NA,"Malpfm","family",NA,NA
+"696","Malphygiaceae sp","Malpighiaceae","Malpighiaceae","Malpighiaceae",NA,NA,"Malpfm","family",NA,NA
+"697","Malpighia glabra","Malpighia glabra","Malpighia glabra","Malpighia","Malpighiaceae","tree","Malpglab","species","tree",NA
+"698","Malpighia punicifolia","Malpighia punicifolia","Malpighia punicifolia","Malpighia","Malpighiaceae",NA,"Malppunic","species","tree",NA
+"699","Malpighia sp","Malpighia sp","Malpighia","Malpighia","Malpighiaceae",NA,"Malpsp","genus",NA,NA
+"700","Malvaceae amarilla","Malvaceae","Malvaceae","Malvaceae",NA,NA,"Malvfm","family",NA,NA
+"701","Mandevilla lacifolia","Mandevilla lacifolia","Mandevilla lancifolia","Mandevilla","Apocynaceae",NA,"Mandlanci","species","treelet",NA
+"702","Mangifera indica","Mangifera indica","Mangifera indica","Mangifera","Anacardiaceae","tree","Mangindi","species","tree",NA
+"703","Manguifera indica","Mangifera indica","Mangifera indica","Mangifera","Anacardiaceae","tree","Mangindi","species","tree",NA
+"704","Manihot carthagenensis","Manihot carthagenensis","Manihot carthagenensis","Manihot","Euphorbiaceae",NA,"Manicarth","species","tree","LC"
+"705","Manihot esculenta","Manihot esculenta","Manihot esculenta","Manihot","Euphorbiaceae",NA,"Maniescul","species","treelet",NA
+"706","Manihot tristis","Manihot tristis","Manihot tristis","Manihot","Euphorbiaceae",NA,"Manitrist","species","treelet",NA
+"707","Maprounea guianensis","Maprounea guianensis","Maprounea guianensis","Maprounea","Euphorbiaceae","tree","Maprguia","species","tree",NA
+"708","Maquira coriacea","Maquira coriacea","Maquira coriacea","Maquira",NA,NA,"Maqucoria","species","tree",NA
+"709","Margaritaria nobilis","Margaritaria nobilis","Margaritaria nobilis","Margaritaria","Phyllanthaceae","treelet","Margnobi","species","treelet","LC"
+"710","Matarraton sp","Gliricidia sepium","Gliricidia sepium","Gliricidia","Fabaceae","tree","Glirsepi","species","tree",NA
+"711","Matayba arboresc","Matayba arborescens","Matayba arborescens","Matayba","Sapindaceae",NA,"Mataarbor","species","tree",NA
+"712","Matayba arborescens","Matayba arborescens","Matayba arborescens","Matayba","Sapindaceae",NA,"Mataarbor","species","tree",NA
+"713","Matayba guianensis","Matayba guianensis","Matayba guianensis","Matayba","Sapindaceae",NA,"Mataguian","species","tree",NA
+"714","Maurea sp","Maurea sp","Maurea","Maurea",NA,NA,"Maursp","genus",NA,NA
+"715","Megathyrsus maximus","Megathyrsus maximus","Megathyrsus maximus","Megathyrsus",NA,NA,"Megamaxim","species","treelet",NA
+"716","Melicoccus bijugatus","Melicoccus bijugatus","Melicoccus bijugatus","Melicoccus","Sapindaceae","tree","Melibiju","species","tree",NA
+"717","Melicoccus oliviformis","Melicoccus oliviformis","Melicoccus oliviformis","Melicoccus","Sapindaceae","tree","Melioliv","species","tree",NA
+"718","Melicoccus sp","Melicoccus sp","Melicoccus","Melicoccus","Sapindaceae",NA,"Melisp","genus",NA,NA
+"719","Melicocus bijugatus","Melicoccus bijugatus","Melicoccus bijugatus","Melicoccus","Sapindaceae","tree","Melibiju","species","tree",NA
+"720","Melocactus curvispinus","Melocactus curvispinus","Melocactus curvispinus","Melocactus",NA,NA,"Melocurvi","species",NA,NA
+"721","Melocactus mazelianus","Melocactus mazelianus","Melocactus mazelianus","Melocactus",NA,NA,"Melomazel","species",NA,NA
+"722","Melocaptus sp","Melocactus sp","Melocactus","Melocactus",NA,NA,"Melosp","genus",NA,NA
+"723","Mentzelia scabra","Mentzelia scabra","Mentzelia scabra","Mentzelia",NA,NA,"Mentscabr","species",NA,NA
+"724","Miconia albicans","Miconia albicans","Miconia albicans","Miconia","Melastomataceae",NA,"Micoalbic","species","tree",NA
+"725","Miconia holosericea","Miconia holosericea","Miconia holosericea","Miconia","Melastomataceae",NA,"Micoholos","species","tree",NA
+"726","Miconia minutiflora","Miconia minutiflora","Miconia minutiflora","Miconia","Melastomataceae",NA,"Micominut","species","tree",NA
+"727","Miconia multispicata","Miconia multispicata","Miconia multispicata","Miconia","Melastomataceae","tree","Micomult","species","tree",NA
+"728","Miconia sp","Miconia sp","Miconia","Miconia","Melastomataceae","shrub","Micosp","genus","shrub",NA
+"729","Miconia ternatifolia","Miconia ternatifolia","Miconia ternatifolia","Miconia","Melastomataceae",NA,"Micoterna","species","tree",NA
+"730","Mikania sp","Mikania sp","Mikania","Mikania",NA,NA,"Mikasp","genus",NA,NA
+"731","Mimosa albida","Mimosa albida","Mimosa albida","Mimosa",NA,NA,"Mimoalbid","species",NA,NA
+"732","Mimosa colombiana","Mimosa colombiana","Mimosa colombiana","Mimosa",NA,NA,"Mimocolom","species",NA,NA
+"733","Mimosa sp","Mimosa sp","Mimosa","Mimosa",NA,NA,"Mimosp","genus",NA,NA
+"734","Mimosa trianae","Mimosa trianae","Mimosa trianae","Mimosa",NA,NA,"Mimotrian","species",NA,NA
+"735","Moho sp","Cordia sp","Cordia","Cordia","Boraginaceae","tree","Cordsp","genus","tree",NA
+"736","Monstera adansonii","Monstera adansonii","Monstera adansonii","Monstera",NA,NA,"Monsadans","species","liana",NA
+"737","Monvillea sp","Monvillea sp","Monvillea","Monvillea",NA,NA,"Monvsp","genus",NA,NA
+"738","Moraceae sp","Moraceae","Moraceae","Moraceae",NA,NA,"Morafm","family",NA,NA
+"739","Morisonia americana","Morisonia americana","Morisonia americana","Morisonia","Capparaceae","tree","Moriamer","species","tree",NA
+"740","Mouriri sp","Mouriri sp","Mouriri","Mouriri",NA,NA,"Moursp","genus",NA,NA
+"741","Muntigia calabura","Muntingia calabura","Muntingia calabura","Muntingia",NA,NA,"Muntcalab","species","tree",NA
+"742","Muntingia calabura","Muntingia calabura","Muntingia calabura","Muntingia",NA,NA,"Muntcalab","species","tree",NA
+"743","Muntingia sp","Muntingia sp","Muntingia","Muntingia",NA,NA,"Muntsp","genus",NA,NA
+"744","Musa paradisiaca","Musa paradisiaca","Musa paradisiaca","Musa",NA,NA,"Musaparad","species","forb",NA
+"745","Mutingia sp","Muntingia sp","Muntingia","Muntingia",NA,NA,"Muntsp","genus",NA,NA
+"746","Myrcia cf paivae","Myrcia paivae","Myrcia paivae","Myrcia","Myrtaceae",NA,"Myrcpaiva","species","tree",NA
+"747","Myrcia fallax","Myrcia fallax","Myrcia fallax","Myrcia","Myrtaceae","tree","Myrcfall","species","tree",NA
+"748","Myrcia ovalifolia","Myrcia ovalifolia","Myrcia ovalifolia","Myrcia","Myrtaceae",NA,"Myrcovali","species","tree",NA
+"749","Myrcia popayanensis","Myrcia popayanensis","Myrcia popayanensis","Myrcia","Myrtaceae",NA,"Myrcpopay","species",NA,NA
+"750","Myrcia sp","Myrcia sp","Myrcia","Myrcia","Myrtaceae","tree","Myrcsp2","genus","tree",NA
+"751","Myrcia splendens","Myrcia splendens","Myrcia splendens","Myrcia","Myrtaceae","treelet","Myrcsple","species","treelet",NA
+"752","Myrcianthes leucoxyla","Myrcianthes leucoxyla","Myrcianthes leucoxyla","Myrcianthes",NA,NA,"Myrcleuco","species",NA,NA
+"753","Myrcianthes sp","Myrcianthes sp","Myrcianthes","Myrcianthes",NA,NA,"Myrcsp","genus",NA,NA
+"754","Myriocarpa longipes","Myriocarpa longipes","Myriocarpa longipes","Myriocarpa","Urticaceae",NA,"Myrilongi","species","tree",NA
+"755","Myriocarpa sp","Myriocarpa sp","Myriocarpa","Myriocarpa","Urticaceae",NA,"Myrisp","genus",NA,NA
+"756","Myrospermum frutescens","Myrospermum frutescens","Myrospermum frutescens","Myrospermum","Fabaceae","tree","Myrofrut","species","tree",NA
+"757","Myrospermum fruticosum","Myrospermum frutescens","Myrospermum frutescens","Myrospermum","Fabaceae","tree","Myrofrut","species","tree",NA
+"758","Myroxylon balsamum","Myroxylon balsamum","Myroxylon balsamum","Myroxylon",NA,NA,"Myrobalsa","species","tree",NA
+"759","Myroxylum frutescens","Myroxylum frutescens","Myroxylum","Myroxylum",NA,NA,"Myrosp","genus",NA,NA
+"760","Myrsiana sp","Myrsine sp","Myrsine","Myrsine","Primulaceae","treelet","Myrssp","genus","treelet",NA
+"761","Myrsianthes sp","Myrcianthes sp","Myrcianthes","Myrcianthes",NA,NA,"Myrcsp","genus",NA,NA
+"762","Myrsinaceae sp","Myrsinaceae","Myrsinaceae","Myrsinaceae",NA,NA,"Myrsfm","family",NA,NA
+"763","Myrsine guianensis","Myrsine guianensis","Myrsine guianensis","Myrsine","Primulaceae","tree","Myrsguia","species","tree",NA
+"764","Myrsine sp","Myrsine sp","Myrsine","Myrsine","Primulaceae","treelet","Myrssp","genus","treelet",NA
+"765","Myrtaceae frutos rojos","Myrtaceae","Myrtaceae","Myrtaceae",NA,NA,"Myrtfm","family",NA,NA
+"766","Myrtaceae sp","Myrtaceae","Myrtaceae","Myrtaceae",NA,NA,"Myrtfm","family",NA,NA
+"767","Nadroanthus billbergii","Nadroanthus billbergii","Handroanthus billbergii","Handroanthus","Bignoniaceae","tree","Handbill","species","tree",NA
+"768","Nectandra cuspidata","Nectandra cuspidata","Nectandra cuspidata","Nectandra","Lauraceae","tree","Nectcusp","species","tree",NA
+"769","Nectandra membranacea","Nectandra membranacea","Nectandra membranacea","Nectandra","Lauraceae",NA,"Nectmembr","species","tree",NA
+"770","Nectandra pichurim","Nectandra pichurim","Nectandra pichurim","Nectandra","Lauraceae",NA,"Nectpichu","species",NA,NA
+"771","Nectandra purpurea","Nectandra purpurea","Nectandra purpurea","Nectandra","Lauraceae",NA,"Nectpurpu","species","tree",NA
+"772","Nectandra sp","Nectandra sp","Nectandra","Nectandra","Lauraceae","tree","Nectsp","genus","tree",NA
+"773","Nectandra turbacensis","Nectandra turbacensis","Nectandra turbacensis","Nectandra","Lauraceae",NA,"Nectturba","species","tree",NA
+"774","Neea amplifolia","Neea amplifolia","Neea amplifolia","Neea","Nyctaginaceae",NA,"Neeaampli","species",NA,NA
+"775","Neea nigricans","Neea nigricans","Neea nigricans","Neea","Nyctaginaceae",NA,"Neeanigri","species",NA,NA
+"776","Neea sp","Neea sp","Neea","Neea","Nyctaginaceae","tree","Neeasp","genus","tree",NA
+"777","Nicotiana tabacum","Nicotiana tabacum","Nicotiana tabacum","Nicotiana",NA,NA,"Nicotabac","species","shrub",NA
+"778","Nigtagnaceae sp","Nyctaginaceae","Nyctaginaceae","Nyctaginaceae",NA,NA,"Nyctfm","family",NA,NA
+"779","Ocetea cernua","Ocetea cernua","Ocotea cernua","Ocotea","Lauraceae",NA,"Ocotcernu","species","tree",NA
+"780","Ochiona pyr","Ochroma pyramidale","Ochroma pyramidale","Ochroma","Malvaceae","tree","Ochrpyra","species","tree",NA
+"781","Ochoroma sp","Ochroma sp","Ochroma","Ochroma","Malvaceae",NA,"Ochrsp","genus",NA,NA
+"782","Ochrama lagpus","Ochroma lagopus","Ochroma lagopus","Ochroma","Malvaceae",NA,"Ochrlagop","species","tree",NA
+"783","Ochroma lagopus","Ochroma lagopus","Ochroma lagopus","Ochroma","Malvaceae",NA,"Ochrlagop","species","tree",NA
+"784","Ochroma pyramidal","Ochroma pyramidale","Ochroma pyramidale","Ochroma","Malvaceae","tree","Ochrpyra","species","tree",NA
+"785","Ochroma pyramidale","Ochroma pyramidale","Ochroma pyramidale","Ochroma","Malvaceae","tree","Ochrpyra","species","tree",NA
+"786","Ochroma pyramidalis","Ochroma pyramidale","Ochroma pyramidale","Ochroma","Malvaceae","tree","Ochrpyra","species","tree",NA
+"787","Ochroma sp","Ochroma sp","Ochroma","Ochroma","Malvaceae",NA,"Ochrsp","genus",NA,NA
+"788","Ochronia pfuami","Indeterminado",NA,NA,NA,"tree","NN","species","tree",NA
+"789","Ocotea bofo","Ocotea bofo","Ocotea bofo","Ocotea","Lauraceae","tree","Ocotbofo","species","tree",NA
+"790","Ocotea cernua","Ocotea cernua","Ocotea cernua","Ocotea","Lauraceae",NA,"Ocotcernu","species","tree",NA
+"791","Ocotea cf cernua","Ocotea cernua","Ocotea cernua","Ocotea","Lauraceae",NA,"Ocotcernu","species","tree",NA
+"792","Ocotea guianensis uvalata","Ocotea guianensis","Ocotea guianensis","Ocotea","Lauraceae",NA,"Ocotguian","species","tree",NA
+"793","Ocotea lo","Ocotea longifolia","Ocotea longifolia","Ocotea","Lauraceae",NA,"Ocotlongi","species","tree",NA
+"794","Ocotea longifolia","Ocotea longifolia","Ocotea longifolia","Ocotea","Lauraceae",NA,"Ocotlongi","species","tree",NA
+"795","Ocotea sp","Ocotea sp","Ocotea","Ocotea","Lauraceae",NA,"Ocotsp","genus",NA,NA
+"796","Ocotea veraguensis","Ocotea veraguensis","Ocotea veraguensis","Ocotea","Lauraceae","tree","Ocotvera","species","tree",NA
+"797","Odontadenia cf grandiflora","Odontadenia grandiflora","Odontadenia grandiflora","Odontadenia",NA,NA,"Odongrand","species","liana",NA
+"798","Oenocarpus minor","Oenocarpus minor","Oenocarpus minor","Oenocarpus",NA,NA,"Oenominor","species","forb",NA
+"799","Opuntia caracasana","Opuntia caracassana","Opuntia caracassana","Opuntia","Cactaceae",NA,"Opuncarac","species",NA,NA
+"800","Opuntia caracassana","Opuntia caracassana","Opuntia caracassana","Opuntia","Cactaceae",NA,"Opuncarac","species",NA,NA
+"801","Opuntia dilenii","Opuntia dillenii","Opuntia dillenii","Opuntia","Cactaceae",NA,"Opundille","species","treelet",NA
+"802","Opuntia dillenii","Opuntia dillenii","Opuntia dillenii","Opuntia","Cactaceae",NA,"Opundille","species","treelet",NA
+"803","Opuntia pittieri","Opuntia pittieri","Opuntia pittieri","Opuntia","Cactaceae",NA,"Opunpitti","species",NA,NA
+"804","Opuntia sp","Opuntia sp","Opuntia","Opuntia","Cactaceae","cactus","Opunsp","genus","cactus",NA
+"805","Oreopanax acerifolius","Oreopanax acerifolius","Oreopanax acerifolius","Oreopanax",NA,NA,"Oreoaceri","species",NA,NA
+"806","Oreopanax cf cecropifolius","Oreopanax cecropifolius","Oreopanax cecropifolius","Oreopanax",NA,NA,"Oreocecro","species",NA,NA
+"807","Oreopanax sp","Oreopanax sp","Oreopanax","Oreopanax",NA,NA,"Oreosp","genus",NA,NA
+"808","Ormosia macrocalyx","Ormosia macrocalyx","Ormosia macrocalyx","Ormosia",NA,NA,"Ormomacro","species","tree",NA
+"809","Ouratea sp","Ouratea sp","Ouratea","Ouratea","Ochnaceae","tree","Ourasp","genus","tree",NA
+"810","Pachira cf orinocensis","Pachira orinocensis","Pachira orinocensis","Pachira","Malvaceae",NA,"Pachorino","species",NA,NA
+"811","Pachira quinata","Pachira quinata","Pachira quinata","Pachira","Malvaceae","tree","Pachquin","species","tree",NA
+"812","Pachira sp","Pachira sp","Pachira","Pachira","Malvaceae",NA,"Pachsp","genus",NA,NA
+"813","Palicourea sp","Palicourea sp","Palicourea","Palicourea","Rubiaceae","shrub","Palisp","genus","shrub",NA
+"814","Palma foto","Arecaceae","Arecaceae","Arecaceae",NA,NA,"Arecfm","family",NA,NA
+"815","Palma sp","Arecaceae","Arecaceae","Arecaceae",NA,NA,"Arecfm","family",NA,NA
+"816","Panicum maximum","Panicum maximum","Panicum maximum","Panicum",NA,NA,"Panimaxim","species","treelet",NA
+"817","Paradosia colombiana","Paradosia colombiana","Pradosia colombiana","Pradosia","Sapotaceae","tree","Pradcolo","species","tree",NA
+"818","Parinari cf excelsa","Parinari excelsa","Parinari excelsa","Parinari",NA,NA,"Pariexcel","species","tree",NA
+"819","Parinari excelsa","Parinari excelsa","Parinari excelsa","Parinari",NA,NA,"Pariexcel","species","tree",NA
+"820","Parinari pachyphylla","Parinari pachyphylla","Parinari pachyphylla","Parinari",NA,NA,"Paripachy","species",NA,NA
+"821","Parkia pendula","Parkia pendula","Parkia pendula","Parkia",NA,NA,"Parkpendu","species","tree",NA
+"822","Parkinsonia aculeata","Parkinsonia aculeata","Parkinsonia aculeata","Parkinsonia",NA,NA,"Parkacule","species","tree",NA
+"823","Parkinsonia sp","Parkinsonia sp","Parkinsonia","Parkinsonia",NA,NA,"Parksp","genus",NA,NA
+"824","Paspalum virgatum","Paspalum virgatum","Paspalum virgatum","Paspalum",NA,NA,"Paspvirga","species","forb",NA
+"825","Passiflora edulis","Passiflora edulis","Passiflora edulis","Passiflora",NA,NA,"Passeduli","species","liana","LC"
+"826","Passiflora sphaerocarpa","Passiflora sphaerocarpa","Passiflora sphaerocarpa","Passiflora",NA,NA,"Passsphae","species",NA,NA
+"827","Pastos sp","Graminea","Graminea","Graminea",NA,NA,"Gramsp","genus",NA,NA
+"828","Paullinia sp","Paullinia sp","Paullinia","Paullinia","Sapindaceae","liana","Paulsp","genus","liana",NA
+"829","Pavonia sepium","Pavonia sepium","Pavonia sepium","Pavonia",NA,NA,"Pavosepiu","species","treelet",NA
+"830","Payande sp","Pithecellobium sp","Pithecellobium","Pithecellobium","Fabaceae","treelet","Pithsp","genus","treelet",NA
+"831","Peltogyne cf floribunda","Peltogyne floribunda","Peltogyne floribunda","Peltogyne","Fabaceae",NA,"Peltflori","species","tree",NA
+"832","Peltogyne floribunda","Peltogyne floribunda","Peltogyne floribunda","Peltogyne","Fabaceae",NA,"Peltflori","species","tree",NA
+"833","Peltogyne purpurea","Peltogyne purpurea","Peltogyne purpurea","Peltogyne","Fabaceae","tree","Peltpurp","species","tree",NA
+"834","Peperomia sp","Peperomia sp","Peperomia","Peperomia",NA,NA,"Pepesp","genus",NA,NA
+"835","Pera arborea","Pera arborea","Pera arborea","Pera","Euphorbiaceae",NA,"Peraarbor","species","tree",NA
+"836","Pereskia guamacho","Pereskia guamacho","Pereskia guamacho","Pereskia","Cactaceae","treelet","Pereguam","species","treelet",NA
+"837","Persea caerulea","Persea caerulea","Persea caerulea","Persea",NA,NA,"Perscaeru","species",NA,NA
+"838","Persea cf caerulea","Persea caerulea","Persea caerulea","Persea",NA,NA,"Perscaeru","species",NA,NA
+"839","Petogyne cf floribunda","Petogyne floribunda","Peltogyne floribunda","Peltogyne","Fabaceae",NA,"Peltflori","species","tree",NA
+"840","Petogyne cf floribunda ","Petogyne floribunda","Peltogyne floribunda","Peltogyne","Fabaceae",NA,"Peltflori","species","tree",NA
+"841","Petre sp","Petrea sp","Petrea","Petrea","Verbenaceae","tree","Petrsp","genus","tree",NA
+"842","Petrea pubescens","Petrea pubescens","Petrea pubescens","Petrea","Verbenaceae","tree","Petrpube","species","tree",NA
+"843","Phitecellobium dulcei","Pithecellobium dulce","Pithecellobium dulce","Pithecellobium","Fabaceae","tree","Pithdulc","species","tree",NA
+"844","Phitecellobium sp","Pithecellobium sp","Pithecellobium","Pithecellobium","Fabaceae","treelet","Pithsp","genus","treelet",NA
+"845","Phyll sp","Indeterminado",NA,NA,NA,"tree","NN","species","tree",NA
+"846","Phyllanthus acuminatus","Phyllanthus acuminatus","Phyllanthus acuminatus","Phyllanthus","Phyllanthaceae",NA,"Phylacumi","species","tree",NA
+"847","Phyllanthus elsiae","Phyllanthus elsiae","Phyllanthus elsiae","Phyllanthus","Phyllanthaceae",NA,"Phylelsia","species","treelet",NA
+"848","Phyllanthus salviifolius","Phyllanthus salviifolius","Phyllanthus salviifolius","Phyllanthus","Phyllanthaceae",NA,"Phylsalvi","species",NA,NA
+"849","Phyllanthus sp","Phyllanthus sp","Phyllanthus","Phyllanthus","Phyllanthaceae",NA,"Phylsp","genus",NA,NA
+"850","Phyllostylon brasiliense","Phyllostylon brasiliense","Phyllostylon brasiliense","Phyllostylon","Ulmaceae",NA,"Phylbrasi","species","tree",NA
+"851","Phyllostylon rhamnoides","Phyllostylon rhamnoides","Phyllostylon rhamnoides","Phyllostylon","Ulmaceae","tree","Phylrham","species","tree","NT"
+"852","Phyllostylon rhmanoides","Phyllostylon rhamnoides","Phyllostylon rhamnoides","Phyllostylon","Ulmaceae","tree","Phylrham","species","tree","NT"
+"853","Phytecellobium sp","Pithecellobium sp","Pithecellobium","Pithecellobium","Fabaceae","treelet","Pithsp","genus","treelet",NA
+"854","Phythecelobium dulce","Pithecellobium dulce","Pithecellobium dulce","Pithecellobium","Fabaceae","tree","Pithdulc","species","tree",NA
+"855","Pilocereus sp","Pilocereus sp","Pilocereus","Pilocereus",NA,NA,"Pilosp","genus",NA,NA
+"856","Pilosocereus colombianus","Pilosocereus colombianus","Pilosocereus colombianus","Pilosocereus","Cactaceae",NA,"Pilocolom","species",NA,NA
+"857","Pinguyo sp","Indeterminado",NA,NA,NA,"tree","NN","species","tree",NA
+"858","Pinzonia sp","Pinzonia sp","Pinzonia","Pinzonia",NA,NA,"Pinzsp","genus",NA,NA
+"859","Piper aduncum","Piper aduncum","Piper aduncum","Piper","Piperaceae",NA,"Pipeadunc","species","tree",NA
+"860","Piper hispidum","Piper hispidum","Piper hispidum","Piper","Piperaceae",NA,"Pipehispi","species","treelet",NA
+"861","Piper marginatum","Piper marginatum","Piper marginatum","Piper","Piperaceae",NA,"Pipemargi","species","treelet",NA
+"862","Piper sp","Piper sp","Piper","Piper","Piperaceae","treelet","Pipesp","genus","treelet",NA
+"863","Piptadenia comunis","Piptadenia communis","Piptadenia communis","Piptadenia","Fabaceae",NA,"Piptcommu","species","tree","LC"
+"864","Piptadenia comunnis","Piptadenia communis","Piptadenia communis","Piptadenia","Fabaceae",NA,"Piptcommu","species","tree","LC"
+"865","Piptadenia flava","Piptadenia flava","Piptadenia flava","Piptadenia","Fabaceae","treelet","Piptflav","species","treelet",NA
+"866","Piptadenia gonoacantha","Piptadenia gonoacantha","Piptadenia gonoacantha","Piptadenia","Fabaceae",NA,"Piptgonoa","species","tree","LC"
+"867","Piptadenia peregrina","Piptadenia peregrina","Piptadenia peregrina","Piptadenia","Fabaceae",NA,"Piptpereg","species","tree",NA
+"868","Piptadenia sp","Piptadenia sp","Piptadenia","Piptadenia","Fabaceae","tree","Piptsp","genus","tree",NA
+"869","Piptocoma discolor","Piptocoma discolor","Piptocoma discolor","Piptocoma","Asteraceae","tree","Piptdisc","species","tree",NA
+"870","Piranhea trifoliata","Piranhea trifoliata","Piranhea trifoliata","Piranhea",NA,NA,"Piratrifo","species","tree",NA
+"871","Pisonia aculleata","Pisonia aculleata","Pisonia aculeata","Pisonia","Nyctaginaceae","liana","Pisoacul","species","liana",NA
+"872","Pisonia pacurero","Pisonia pacurero","Pisonia pacurero","Pisonia","Nyctaginaceae",NA,"Pisopacur","species",NA,NA
+"873","Pitadenia flava","Pitadenia flava","Piptadenia flava","Piptadenia","Fabaceae","treelet","Piptflav","species","treelet",NA
+"874","Pitadenia gonoacantha","Pitadenia gonoacantha","Piptadenia gonoacantha","Piptadenia","Fabaceae",NA,"Piptgonoa","species","tree","LC"
+"875","Pitcairnia karatas","Pitcairnia karatas","Pitcairnia","Pitcairnia",NA,NA,"Pitcsp","genus",NA,NA
+"876","Pitcairnia pruinosa","Pitcairnia pruinosa","Pitcairnia pruinosa","Pitcairnia",NA,NA,"Pitcpruin","species",NA,NA
+"877","Pitcairnia sp","Pitcairnia sp","Pitcairnia","Pitcairnia",NA,NA,"Pitcsp","genus",NA,NA
+"878","Pith sp","Pithecellobium sp","Pithecellobium","Pithecellobium","Fabaceae","treelet","Pithsp","genus","treelet",NA
+"879","Pithecellobium dulce","Pithecellobium dulce","Pithecellobium dulce","Pithecellobium","Fabaceae","tree","Pithdulc","species","tree",NA
+"880","Pithecellobium dulcei","Pithecellobium dulce","Pithecellobium dulce","Pithecellobium","Fabaceae","tree","Pithdulc","species","tree",NA
+"881","Pithecellobium forfex","Pithecellobium forfex","Pithecellobium forfex","Pithecellobium","Fabaceae",NA,"Pithforfe","species",NA,NA
+"882","Pithecellobium lanceolatum","Pithecellobium lanceolatum","Pithecellobium lanceolatum","Pithecellobium","Fabaceae","tree","Pithlanc","species","tree",NA
+"883","Pithecellobium roseum","Pithecellobium roseum","Pithecellobium roseum","Pithecellobium","Fabaceae","tree","Pithrose","species","tree",NA
+"884","Pithecellobium sp","Pithecellobium sp","Pithecellobium","Pithecellobium","Fabaceae","treelet","Pithsp","genus","treelet",NA
+"885","Pithecellpbium dulcei","Pithecellobium dulce","Pithecellobium dulce","Pithecellobium","Fabaceae","tree","Pithdulc","species","tree",NA
+"886","Pithecelobium sp","Pithecellobium sp","Pithecellobium","Pithecellobium","Fabaceae","treelet","Pithsp","genus","treelet",NA
+"887","Pithelephas sp","Phytelephas sp","Phytelephas","Phytelephas",NA,NA,"Phytsp","genus",NA,NA
+"888","Plat sp","Indeterminado",NA,NA,NA,"tree","NN","species","tree",NA
+"889","Platycarpum orinocense","Platycarpum orinocense","Platycarpum orinocense","Platycarpum",NA,NA,"Platorino","species",NA,NA
+"890","Platymiscium pinnatum","Platymiscium pinnatum","Platymiscium pinnatum","Platymiscium","Fabaceae","tree","Platpinn","species","tree",NA
+"891","Platymiscium sp","Platymiscium sp","Platymiscium","Platymiscium","Fabaceae",NA,"Platsp","genus",NA,NA
+"892","Platypodium elegans","Platypodium elegans","Platypodium elegans","Platypodium",NA,NA,"Platelega","species","tree",NA
+"893","Pleudobanbaxs sp","Pseudobombax sp","Pseudobombax","Pseudobombax","Malvaceae",NA,"Pseusp","genus",NA,NA
+"894","Plumeria alba","Plumeria alba","Plumeria alba","Plumeria","Apocynaceae",NA,"Plumalba","species",NA,NA
+"895","Plumeria pudica","Plumeria pudica","Plumeria pudica","Plumeria","Apocynaceae","tree","Plumpudi","species","tree",NA
+"896","Pogonopus speciosus","Pogonopus speciosus","Pogonopus speciosus","Pogonopus",NA,NA,"Pogospeci","species",NA,NA
+"897","Pollalesta discolor","Pollalesta discolor","Pollalesta discolor","Pollalesta",NA,NA,"Polldisco","species",NA,NA
+"898","Polygonaceae sp","Polygonaceae","Polygonaceae","Polygonaceae",NA,NA,"Polyfm","family",NA,NA
+"899","Poueteria sp","Pouteria sp","Pouteria","Pouteria","Sapotaceae","tree","Poutsp","genus","tree",NA
+"900","Pouetria sp","Pouteria sp","Pouteria","Pouteria","Sapotaceae","tree","Poutsp","genus","tree",NA
+"901","Poulsenia armata","Poulsenia armata","Poulsenia armata","Poulsenia",NA,NA,"Poularmat","species","tree",NA
+"902","Pouteria aff","Pouteria sp","Pouteria","Pouteria","Sapotaceae","tree","Poutsp","genus","tree",NA
+"903","Pouteria sp","Pouteria sp","Pouteria","Pouteria","Sapotaceae","tree","Poutsp","genus","tree",NA
+"904","Pradosia colombiana","Pradosia colombiana","Pradosia colombiana","Pradosia","Sapotaceae","tree","Pradcolo","species","tree",NA
+"905","Prevdobobax septnatum","Indeterminado",NA,NA,NA,"tree","NN","species","tree",NA
+"906","Pro sp","Indeterminado",NA,NA,NA,"tree","NN","species","tree",NA
+"907","Prosopis juliflora","Prosopis juliflora","Prosopis juliflora","Prosopis","Fabaceae","treelet","Prosjuli","species","treelet",NA
+"908","Prosopis julifora","Prosopis juliflora","Prosopis juliflora","Prosopis","Fabaceae","treelet","Prosjuli","species","treelet",NA
+"909","Prosopis sp","Prosopis sp","Prosopis","Prosopis","Fabaceae",NA,"Prossp","genus",NA,NA
+"910","Proteaceae sp","Proteaceae","Proteaceae","Proteaceae",NA,NA,"Protfm","family",NA,NA
+"911","Protium cf llanorum","Protium llanorum","Protium llanorum","Protium","Burseraceae",NA,"Protllano","species","tree",NA
+"912","Protium guianense","Protium guianense","Protium guianense","Protium","Burseraceae","tree","Protguia","species","tree",NA
+"913","Protium heptaphyllum","Protium heptaphyllum","Protium heptaphyllum","Protium","Burseraceae","tree","Prothept","species","tree",NA
+"914","Protium sp","Protium sp","Protium","Protium","Burseraceae",NA,"Protsp","genus",NA,NA
+"915","Protium subserratum","Protium subserratum","Protium subserratum","Protium","Burseraceae",NA,"Protsubse","species","tree",NA
+"916","Protium tenuifolium","Protium tenuifolium","Protium tenuifolium","Protium","Burseraceae","tree","Prottenu","species","tree",NA
+"917","Pse sp","Pseudobombax sp","Pseudobombax","Pseudobombax","Malvaceae",NA,"Pseusp","genus",NA,NA
+"918","Pseudobambax sp","Pseudobombax sp","Pseudobombax","Pseudobombax","Malvaceae",NA,"Pseusp","genus",NA,NA
+"919","Pseudobmabax sp","Pseudobombax sp","Pseudobombax","Pseudobombax","Malvaceae",NA,"Pseusp","genus",NA,NA
+"920","Pseudobombas sp","Pseudobombax sp","Pseudobombax","Pseudobombax","Malvaceae",NA,"Pseusp","genus",NA,NA
+"921","Pseudobombax croizatii","Pseudobombax croizatii","Pseudobombax croizatii","Pseudobombax","Malvaceae",NA,"Pseucroiz","species",NA,NA
+"922","Pseudobombax maxima","Pseudobombax maxima","Pseudobombax maximum","Pseudobombax","Malvaceae",NA,"Pseumaxim","species","tree",NA
+"923","Pseudobombax septenatum","Pseudobombax septenatum","Pseudobombax septenatum","Pseudobombax","Malvaceae","tree","Pseusept","species","tree",NA
+"924","Pseudobombax sp","Pseudobombax sp","Pseudobombax","Pseudobombax","Malvaceae",NA,"Pseusp","genus",NA,NA
+"925","Pseudolmedia sp","Pseudolmedia sp","Pseudolmedia","Pseudolmedia","Moraceae","tree","Pseusp2","genus","tree",NA
+"926","Pseudosamanea guachapele","Pseudosamanea guachapele","Pseudosamanea guachapele","Pseudosamanea","Fabaceae","tree","Pseuguac","species","tree",NA
+"927","Pseudosamanea sp","Pseudosamanea sp","Pseudosamanea","Pseudosamanea","Fabaceae",NA,"Pseusp3","genus",NA,NA
+"928","Psidiium lanceolatum","Psidium lanceolatum","Psidium lanceolatum","Psidium","Myrtaceae",NA,"Psidlance","species","treelet","LC"
+"929","Psidiium sartorianum","Psidium sartorianum","Psidium sartorianum","Psidium","Myrtaceae",NA,"Psidsarto","species","tree","LC"
+"930","Psidium guajava","Psidium guajava","Psidium guajava","Psidium","Myrtaceae",NA,"Psidguaja","species","tree",NA
+"931","Psidium guineense","Psidium guineense","Psidium guineense","Psidium","Myrtaceae","treelet","Psidguin","species","treelet",NA
+"932","Psidium sartorianum","Psidium sartorianum","Psidium sartorianum","Psidium","Myrtaceae",NA,"Psidsarto","species","tree","LC"
+"933","Psidium sp","Psidium sp","Psidium","Psidium","Myrtaceae",NA,"Psidsp","genus",NA,NA
+"934","Psychotria carthagenensis","Psychotria carthagenensis","Psychotria carthagenensis","Psychotria","Rubiaceae",NA,"Psyccarth","species","tree",NA
+"935","Psychotria micrantha","Psychotria micrantha","Psychotria micrantha","Psychotria","Rubiaceae","shrub","Psycmicr","species","shrub",NA
+"936","Pterocarpus acapulcensis","Pterocarpus acapulcensis","Pterocarpus acapulcensis","Pterocarpus","Fabaceae",NA,"Pteracapu","species",NA,NA
+"937","Pterocarpus cf officinalis","Pterocarpus officinalis","Pterocarpus officinalis","Pterocarpus","Fabaceae","tree","Pteroffi","species","tree",NA
+"938","Pterocarpus officinalis","Pterocarpus officinalis","Pterocarpus officinalis","Pterocarpus","Fabaceae","tree","Pteroffi","species","tree",NA
+"939","Pterocarpus rhorii","Pterocarpus rohrii","Pterocarpus rohrii","Pterocarpus","Fabaceae","tree","Pterrohr","species","tree",NA
+"940","Pterocarpus rohrii","Pterocarpus rohrii","Pterocarpus rohrii","Pterocarpus","Fabaceae","tree","Pterrohr","species","tree",NA
+"941","Pterocarpus sp","Pterocarpus sp","Pterocarpus","Pterocarpus","Fabaceae","tree","Ptersp","genus","tree",NA
+"942","Puya sp","Puya sp","Puya","Puya",NA,NA,"Puyasp","genus",NA,NA
+"943","Qualea cf dinizii","Qualea dinizii","Qualea dinizii","Qualea",NA,NA,"Qualdiniz","species","tree",NA
+"944","Qualea dinizi","Qualea dinizii","Qualea dinizii","Qualea",NA,NA,"Qualdiniz","species","tree",NA
+"945","Qualea dinizii","Qualea dinizii","Qualea dinizii","Qualea",NA,NA,"Qualdiniz","species","tree",NA
+"946","Quasia amara","Quasia amara","Quassia amara","Quassia",NA,NA,"Quasamara","species","tree",NA
+"947","Randia aculeata","Randia aculeata","Randia aculeata","Randia","Rubiaceae","tree","Randacul","species","tree",NA
+"948","Randia cf aculeata","Randia aculeata","Randia aculeata","Randia","Rubiaceae","tree","Randacul","species","tree",NA
+"949","Randia formosa","Randia formosa","Randia formosa","Randia","Rubiaceae",NA,"Randformo","species",NA,NA
+"950","Randia obcordata","Randia obcordata","Randia obcordata","Randia","Rubiaceae","treelet","Randobco","species","treelet",NA
+"951","Randia obcrodata","Randia obcordata","Randia obcordata","Randia","Rubiaceae","treelet","Randobco","species","treelet",NA
+"952","Randia sp","Randia sp","Randia","Randia","Rubiaceae",NA,"Randsp","genus",NA,NA
+"953","Raullinia sp","Rollinia sp","Rollinia","Rollinia","Annonaceae",NA,"Rollsp","genus",NA,NA
+"954","Rhamnus goudotiana","Rhamnus goudotiana","Rhamnus goudotiana","Rhamnus",NA,NA,"Rhamgoudo","species",NA,NA
+"955","Rhanaceae sp","Rhamnaceae","Rhamnaceae","Rhamnaceae",NA,NA,"Rhamfm","family",NA,NA
+"956","Rhipidocladum racemiflorum","Rhipidocladum racemiflorum","Rhipidocladum racemiflorum","Rhipidocladum",NA,NA,"Rhipracem","species","tree",NA
+"957","Ricinus communis","Ricinus communis","Ricinus communis","Ricinus",NA,NA,"Ricicommu","species","tree",NA
+"958","Rinorea pubiflora","Rinorea pubiflora","Rinorea pubiflora","Rinorea","Violaceae","shrub","Rinopubi","species","shrub",NA
+"959","Rollinia membranacea","Rollinia membranacea","Rollinia membranacea","Rollinia","Annonaceae",NA,"Rollmembr","species",NA,NA
+"960","Rollinia sp","Rollinia sp","Rollinia","Rollinia","Annonaceae",NA,"Rollsp","genus",NA,NA
+"961","Roupala montana","Roupala montana","Roupala montana","Roupala",NA,NA,"Roupmonta","species","tree",NA
+"962","Roupala sp","Roupala sp","Roupala","Roupala",NA,NA,"Roupsp","genus",NA,NA
+"963","Roystonea oleracea","Roystonea oleracea","Roystonea oleracea","Roystonea",NA,NA,"Roysolera","species",NA,NA
+"964","Ruagea glabra","Ruagea glabra","Ruagea glabra","Ruagea",NA,NA,"Ruagglabr","species",NA,NA
+"965","Rubiaceae sp","Rubiaceae","Rubiaceae","Rubiaceae",NA,NA,"Rubifm","family",NA,NA
+"966","Rudgea crassiloba","Rudgea crassiloba","Rudgea crassiloba","Rudgea","Rubiaceae","tree","Rudgcras","species","tree",NA
+"967","Ruprechtia cruegeri","Ruprechtia cruegeri","Ruprechtia cruegeri","Ruprechtia","Polygonaceae",NA,"Ruprcrueg","species",NA,NA
+"968","Ruprechtia ramiflora","Ruprechtia ramiflora","Ruprechtia ramiflora","Ruprechtia","Polygonaceae","tree","Ruprrami","species","tree",NA
+"969","Sabal mauritiiformis","Sabal mauritiiformis","Sabal mauritiiformis","Sabal",NA,NA,"Sabamauri","species",NA,NA
+"970","Sabal maurtiiformis","Sabal mauritiiformis","Sabal mauritiiformis","Sabal",NA,NA,"Sabamauri","species",NA,NA
+"971","Salix humboldtiana","Salix humboldtiana","Salix humboldtiana","Salix",NA,NA,"Salihumbo","species","tree","LC"
+"972","Samanea saman","Samanea saman","Samanea saman","Samanea",NA,NA,"Samasaman","species","tree",NA
+"973","Samim sp","Indeterminado",NA,NA,NA,"tree","NN","species","tree",NA
+"974","Sapindaceae sp","Sapindaceae","Sapindaceae","Sapindaceae",NA,NA,"Sapifm","family",NA,NA
+"975","Sapindun saponaria","Sapindus saponaria","Sapindus saponaria","Sapindus","Sapindaceae","tree","Sapisapo","species","tree",NA
+"976","Sapindus saponar","Sapindus saponaria","Sapindus saponaria","Sapindus","Sapindaceae","tree","Sapisapo","species","tree",NA
+"977","Sapindus saponaria","Sapindus saponaria","Sapindus saponaria","Sapindus","Sapindaceae","tree","Sapisapo","species","tree",NA
+"978","Sapindus sp","Sapindus sp","Sapindus","Sapindus","Sapindaceae",NA,"Sapisp2","genus",NA,NA
+"979","Sapiu sp","Sapium sp","Sapium","Sapium","Euphorbiaceae",NA,"Sapisp","genus",NA,NA
+"980","Sapium cf glandulosum","Sapium glandulosum","Sapium glandulosum","Sapium","Euphorbiaceae","tree","Sapiglan","species","tree",NA
+"981","Sapium gla","Sapium glandulosum","Sapium glandulosum","Sapium","Euphorbiaceae","tree","Sapiglan","species","tree",NA
+"982","Sapium glandulosum","Sapium glandulosum","Sapium glandulosum","Sapium","Euphorbiaceae","tree","Sapiglan","species","tree",NA
+"983","Sapium glandulosusm","Sapium glandulosum","Sapium glandulosum","Sapium","Euphorbiaceae","tree","Sapiglan","species","tree",NA
+"984","Sapium jenmanii","Sapium jenmanii","Sapium jenmanii","Sapium","Euphorbiaceae",NA,"Sapijenma","species","tree",NA
+"985","Sapium sp","Sapium sp","Sapium","Sapium","Euphorbiaceae",NA,"Sapisp","genus",NA,NA
+"986","Sapotaceae sp","Sapotaceae","Sapotaceae","Sapotaceae",NA,NA,"Sapofm","family",NA,NA
+"987","Sapranthus isae","Sapranthus isae","Sapranthus isae","Sapranthus",NA,NA,"Saprisae","species",NA,NA
+"988","Schefflera bejucosa","Schefflera bejucosa","Schefflera bejucosa","Schefflera","Araliaceae",NA,"Schebejuc","species",NA,NA
+"989","Schefflera morototoini","Schefflera morototoni","Schefflera morototoni","Schefflera","Araliaceae","tree","Schemoro","species","tree",NA
+"990","Schefflera morototoni","Schefflera morototoni","Schefflera morototoni","Schefflera","Araliaceae","tree","Schemoro","species","tree",NA
+"991","Schefflera morototonii","Schefflera morototoni","Schefflera morototoni","Schefflera","Araliaceae","tree","Schemoro","species","tree",NA
+"992","Schefflera sp","Schefflera sp","Schefflera","Schefflera","Araliaceae",NA,"Schesp","genus",NA,NA
+"993","Scheflera sp","Schefflera sp","Schefflera","Schefflera","Araliaceae",NA,"Schesp","genus",NA,NA
+"994","Schizolobium parahyba","Schizolobium parahyba","Schizolobium parahyba","Schizolobium",NA,NA,"Schiparah","species","tree",NA
+"995","Schizolobium sp","Schizolobium sp","Schizolobium","Schizolobium",NA,NA,"Schisp","genus",NA,NA
+"996","Schyzolo sp","Schizolobium sp","Schizolobium","Schizolobium",NA,NA,"Schisp","genus",NA,NA
+"997","Schyzolobium sp","Schizolobium sp","Schizolobium","Schizolobium",NA,NA,"Schisp","genus",NA,NA
+"998","Seguiera americana","Seguieria americana","Seguieria americana","Seguieria","Petiveriaceae","liana","Seguamer","species","liana","LC"
+"999","Seguieria americana","Seguieria americana","Seguieria americana","Seguieria","Petiveriaceae","liana","Seguamer","species","liana","LC"
+"1000","Sena fruticosa","Senna fruticosa","Senna fruticosa","Senna","Fabaceae",NA,"Sennfruti","species","tree",NA
+"1001","Senecio sp","Senecio sp","Senecio","Senecio",NA,NA,"Senesp","genus",NA,NA
+"1002","Senegalia multipinnata","Senegalia multipinnata","Senegalia multipinnata","Senegalia","Fabaceae",NA,"Senemulti","species","liana",NA
+"1003","Senegalia riparia","Senegalia riparia","Senegalia riparia","Senegalia","Fabaceae",NA,"Seneripar","species","liana",NA
+"1004","Senna atomaria","Senna atomaria","Senna atomaria","Senna","Fabaceae","tree","Sennatom","species","tree",NA
+"1005","Senna bacillaris","Senna bacillaris","Senna bacillaris","Senna","Fabaceae","shrub","Sennbaci","species","shrub",NA
+"1006","Senna bicapsularis","Senna bicapsularis","Senna bicapsularis","Senna","Fabaceae",NA,"Sennbicap","species",NA,NA
+"1007","Senna multijuga","Senna multijuga","Senna multijuga","Senna","Fabaceae",NA,"Sennmulti","species","tree",NA
+"1008","Senna obtusifolia","Senna obtusifolia","Senna obtusifolia","Senna","Fabaceae",NA,"Sennobtus","species","shrub",NA
+"1009","Senna sp","Senna sp","Senna","Senna","Fabaceae","tree","Sennsp","genus","tree",NA
+"1010","Senna spectabilis","Senna spectabilis","Senna spectabilis","Senna","Fabaceae","tree","Sennspec","species","tree",NA
+"1011","Senna sylvestris","Senna sylvestris","Senna sylvestris","Senna","Fabaceae",NA,"Sennsylve","species","tree",NA
+"1012","Sida jamaicensis","Sida jamaicensis","Sida jamaicensis","Sida",NA,NA,"Sidajamai","species",NA,NA
+"1013","Sida rhombifolia","Sida rhombifolia","Sida rhombifolia","Sida",NA,NA,"Sidarhomb","species","forb",NA
+"1014","Sima sp","Sima sp","Sima","Sima",NA,NA,"Simasp","genus",NA,NA
+"1015","Simarouba amara","Simarouba amara","Simarouba amara","Simarouba",NA,NA,"Simaamara","species","tree",NA
+"1016","Simarouba amra","Simarouba amara","Simarouba amara","Simarouba",NA,NA,"Simaamara","species","tree",NA
+"1017","Simaruba mora","Simarouba amara","Simarouba amara","Simarouba",NA,NA,"Simaamara","species","tree",NA
+"1018","Simira cesariana","Simira cesariana","Simira cesariana","Simira","Rubiaceae",NA,"Simicesar","species",NA,NA
+"1019","Simira cordifolia","Simira cordifolia","Simira cordifolia","Simira","Rubiaceae","tree","Simicord","species","tree",NA
+"1020","Siparuna sp","Siparuna sp","Siparuna","Siparuna","Siparunaceae",NA,"Sipasp","genus",NA,NA
+"1021","Sloanea terniflora","Sloanea terniflora","Sloanea terniflora","Sloanea",NA,NA,"Sloaterni","species","tree",NA
+"1022","Smilax sp","Smilax sp","Smilax","Smilax","Smilacaceae","liana","Smilsp","genus","liana",NA
+"1023","Socratea exo","Socratea exorrhiza","Socratea exorrhiza","Socratea",NA,NA,"Socrexorr","species","palm",NA
+"1024","Socratea exorrhiza","Socratea exorrhiza","Socratea exorrhiza","Socratea",NA,NA,"Socrexorr","species","palm",NA
+"1025","Solanaceae indeterminada","Solanaceae","Solanaceae","Solanaceae",NA,NA,"Solafm","family",NA,NA
+"1026","Solanum cf laevigatum","Solanum laevigatum","Solanum laevigatum","Solanum","Solanaceae",NA,"Solalaevi","species",NA,NA
+"1027","Solanum crotonifolium","Solanum crotonifolium","Solanum crotonifolium","Solanum","Solanaceae",NA,"Solacroto","species",NA,NA
+"1028","Solanum sp","Solanum sp","Solanum","Solanum","Solanaceae","shrub","Solasp","genus","shrub",NA
+"1029","Solanum sp cujaco","Solanum sp","Solanum","Solanum","Solanaceae","shrub","Solasp","genus","shrub",NA
+"1030","Sorocea sp","Sorocea sp","Sorocea","Sorocea","Moraceae","tree","Sorosp","genus","tree",NA
+"1031","Sorocea sprucei","Sorocea sprucei","Sorocea sprucei","Sorocea","Moraceae","tree","Sorospru","species","tree",NA
+"1032","Spathelia giraldana","Spathelia giraldoana","Spathelia giraldoana","Spathelia","Rutaceae",NA,"Spatgiral","species",NA,NA
+"1033","Spathelia giraldiana","Spathelia giraldoana","Spathelia giraldoana","Spathelia","Rutaceae",NA,"Spatgiral","species",NA,NA
+"1034","Spectabilis sp","Spectabilis sp","Spectabilis","Spectabilis",NA,NA,"Specsp","genus",NA,NA
+"1035","Spetaatu sp","Indeterminado",NA,NA,NA,"tree","NN","species","tree",NA
+"1036","Spodias mombi","Spondias mombin","Spondias mombin","Spondias","Anacardiaceae","tree","Sponmomb","species","tree",NA
+"1037","Spondias mombi","Spondias mombin","Spondias mombin","Spondias","Anacardiaceae","tree","Sponmomb","species","tree",NA
+"1038","Spondias mombim","Spondias mombin","Spondias mombin","Spondias","Anacardiaceae","tree","Sponmomb","species","tree",NA
+"1039","Spondias mombin","Spondias mombin","Spondias mombin","Spondias","Anacardiaceae","tree","Sponmomb","species","tree",NA
+"1040","Spondias monbin","Spondias mombin","Spondias mombin","Spondias","Anacardiaceae","tree","Sponmomb","species","tree",NA
+"1041","Stenocereus griseus","Stenocereus griseus","Stenocereus griseus","Stenocereus","Cactaceae","cactus","Stengris","species","cactus",NA
+"1042","Stenocereus humilis","Stenocereus humilis","Stenocereus humilis","Stenocereus","Cactaceae","cactus","Stenhumi","species","cactus",NA
+"1043","Stenocereus sp","Stenocereus sp","Stenocereus","Stenocereus","Cactaceae",NA,"Stensp","genus",NA,NA
+"1044","Sterculia apetala","Sterculia apetala","Sterculia apetala","Sterculia",NA,NA,"Sterapeta","species","tree",NA
+"1045","Sterculia colombiana","Sterculia colombiana","Sterculia colombiana","Sterculia",NA,NA,"Stercolom","species",NA,NA
+"1046","Sterculiaceae sp","Sterculiaceae","Sterculiaceae","Sterculiaceae",NA,NA,"Sterfm","family",NA,NA
+"1047","Stryphnodendron sp","Stryphnodendron sp","Stryphnodendron","Stryphnodendron",NA,NA,"Strysp","genus",NA,NA
+"1048","Swartzia arbore","Swartzia arborescens","Swartzia arborescens","Swartzia","Fabaceae",NA,"Swararbor","species","tree",NA
+"1049","Swartzia arborescens","Swartzia arborescens","Swartzia arborescens","Swartzia","Fabaceae",NA,"Swararbor","species","tree",NA
+"1050","Swartzia dipetala","Swartzia dipetala","Swartzia dipetala","Swartzia","Fabaceae",NA,"Swardipet","species","tree",NA
+"1051","Swartzia sp","Swartzia sp","Swartzia","Swartzia","Fabaceae","treelet","Swarsp","genus","treelet",NA
+"1052","Sweitenia macrophylla","Swietenia macrophylla","Swietenia macrophylla","Swietenia",NA,NA,"Swiemacro","species","tree","VU"
+"1053","Swietenia macrophylla","Swietenia macrophylla","Swietenia macrophylla","Swietenia",NA,NA,"Swiemacro","species","tree","VU"
+"1054","Swinglea glutinosa","Swinglea glutinosa","Swinglea glutinosa","Swinglea",NA,NA,"Swingluti","species",NA,NA
+"1055","Syagrus orinocensis","Syagrus orinocensis","Syagrus orinocensis","Syagrus","Arecaceae",NA,"Syagorino","species",NA,NA
+"1056","Syagrus orinosensis","Syagrus orinocensis","Syagrus orinocensis","Syagrus","Arecaceae",NA,"Syagorino","species",NA,NA
+"1057","Syagrus sancona","Syagrus sancona","Syagrus sancona","Syagrus","Arecaceae","palm","Syagsanc","species","palm",NA
+"1058","Syzygium jambos","Syzygium jambos","Syzygium jambos","Syzygium",NA,NA,"Syzyjambo","species","tree",NA
+"1059","Tabebu sp","Tabebuia sp","Tabebuia","Tabebuia","Bignoniaceae",NA,"Tabesp","genus",NA,NA
+"1060","Tabebuaia crisantha","Tabebuia chrysantha","Tabebuia chrysantha","Tabebuia","Bignoniaceae",NA,"Tabechrys","species",NA,NA
+"1061","Tabebuia cf alba","Tabebuia alba","Tabebuia alba","Tabebuia","Bignoniaceae",NA,"Tabealba","species","tree","LC"
+"1062","Tabebuia cf ingignis","Tabebuia insignis","Tabebuia insignis","Tabebuia","Bignoniaceae",NA,"Tabeinsig","species","tree",NA
+"1063","Tabebuia cf insignis","Tabebuia insignis","Tabebuia insignis","Tabebuia","Bignoniaceae",NA,"Tabeinsig","species","tree",NA
+"1064","Tabebuia chysantha","Tabebuia chrysantha","Tabebuia chrysantha","Tabebuia","Bignoniaceae",NA,"Tabechrys","species",NA,NA
+"1065","Tabebuia crisantha","Tabebuia chrysantha","Tabebuia chrysantha","Tabebuia","Bignoniaceae",NA,"Tabechrys","species",NA,NA
+"1066","Tabebuia guayacan","Tabebuia sp","Tabebuia","Tabebuia","Bignoniaceae",NA,"Tabesp","genus",NA,NA
+"1067","Tabebuia insignis","Tabebuia insignis","Tabebuia insignis","Tabebuia","Bignoniaceae",NA,"Tabeinsig","species","tree",NA
+"1068","Tabebuia ochracea","Tabebuia ochracea","Tabebuia ochracea","Tabebuia","Bignoniaceae",NA,"Tabeochra","species","tree",NA
+"1069","Tabebuia ocrhacea","Tabebuia ochracea","Tabebuia ochracea","Tabebuia","Bignoniaceae",NA,"Tabeochra","species","tree",NA
+"1070","Tabebuia orinocensis","Tabebuia orinocensis","Tabebuia orinocensis","Tabebuia","Bignoniaceae",NA,"Tabeorino","species",NA,NA
+"1071","Tabebuia rosea","Tabebuia rosea","Tabebuia rosea","Tabebuia","Bignoniaceae","tree","Taberose","species","tree",NA
+"1072","Tabebuia serratifolia","Tabebuia serratifolia","Tabebuia serratifolia","Tabebuia","Bignoniaceae",NA,"Tabeserra","species","tree",NA
+"1073","Tabebuia sp","Tabebuia sp","Tabebuia","Tabebuia","Bignoniaceae",NA,"Tabesp","genus",NA,NA
+"1074","Tabernaemontana amygdalifolia","Tabernaemontana amygdalifolia","Tabernaemontana amygdalifolia","Tabernaemontana","Apocynaceae","tree","Tabeamyg","species","tree",NA
+"1075","Tabernaemontana cymosa","Tabernaemontana cymosa","Tabernaemontana cymosa","Tabernaemontana","Apocynaceae",NA,"Tabecymos","species","tree",NA
+"1076","Tabernaemontana grandiflora","Tabernaemontana grandiflora","Tabernaemontana grandiflora","Tabernaemontana","Apocynaceae","tree","Tabegran","species","tree",NA
+"1077","Tachigali guianensis","Tachigali guianensis","Tachigali guianensis","Tachigali","Fabaceae","tree","Tachguia","species","tree",NA
+"1078","Tachigali sp","Tachigali sp","Tachigali","Tachigali","Fabaceae",NA,"Tachsp","genus",NA,NA
+"1079","Tachygali sp","Tachigali sp","Tachigali","Tachigali","Fabaceae",NA,"Tachsp","genus",NA,NA
+"1080","Talisia oliviformis","Talisia oliviformis","Talisia oliviformis","Talisia",NA,NA,"Taliolivi","species",NA,NA
+"1081","Tapirira gu","Tapirira guianensis","Tapirira guianensis","Tapirira","Anacardiaceae","tree","Tapiguia","species","tree",NA
+"1082","Tapirira gui","Tapirira guianensis","Tapirira guianensis","Tapirira","Anacardiaceae","tree","Tapiguia","species","tree",NA
+"1083","Tapirira guiane","Tapirira guianensis","Tapirira guianensis","Tapirira","Anacardiaceae","tree","Tapiguia","species","tree",NA
+"1084","Tapirira guianenesis","Tapirira guianensis","Tapirira guianensis","Tapirira","Anacardiaceae","tree","Tapiguia","species","tree",NA
+"1085","Tapirira guianense","Tapirira guianensis","Tapirira guianensis","Tapirira","Anacardiaceae","tree","Tapiguia","species","tree",NA
+"1086","Tapirira guianensis","Tapirira guianensis","Tapirira guianensis","Tapirira","Anacardiaceae","tree","Tapiguia","species","tree",NA
+"1087","Tapirira guianenssis","Tapirira guianensis","Tapirira guianensis","Tapirira","Anacardiaceae","tree","Tapiguia","species","tree",NA
+"1088","Tapirira sp","Tapirira sp","Tapirira","Tapirira","Anacardiaceae",NA,"Tapisp","genus",NA,NA
+"1089","Tecoma sp","Tecoma sp","Tecoma","Tecoma",NA,NA,"Tecosp","genus",NA,NA
+"1090","Tecoma stans","Tecoma stans","Tecoma stans","Tecoma",NA,NA,"Tecostans","species","treelet",NA
+"1091","Tectona grandis","Tectona grandis","Tectona grandis","Tectona",NA,NA,"Tectgrand","species",NA,NA
+"1092","Tephrosia carthagenensis","Tephrosia carthagenensis","Tephrosia","Tephrosia",NA,NA,"Tephsp","genus",NA,NA
+"1093","Terminalia amazonia","Terminalia amazonia","Terminalia amazonia","Terminalia","Combretaceae","tree","Termamaz","species","tree",NA
+"1094","Terminalia oblonga","Terminalia oblonga","Terminalia oblonga","Terminalia","Combretaceae","tree","Termoblo","species","tree",NA
+"1095","Tessaria integrifolia","Tessaria integrifolia","Tessaria integrifolia","Tessaria",NA,NA,"Tessinteg","species","tree",NA
+"1096","Tetragastri sp","Tetragastris sp","Tetragastris","Tetragastris","Burseraceae",NA,"Tetrsp","genus",NA,NA
+"1097","Tetragastris panamensis","Tetragastris panamensis","Tetragastris panamensis","Tetragastris","Burseraceae","tree","Tetrpana","species","tree",NA
+"1098","Theobroma cacao","Theobroma cacao","Theobroma cacao","Theobroma",NA,NA,"Theocacao","species","tree",NA
+"1099","Thevetia ahouai","Thevetia ahouai","Thevetia ahouai","Thevetia",NA,NA,"Thevahoua","species",NA,NA
+"1100","Thevetia peruviana","Thevetia peruviana","Thevetia peruviana","Thevetia",NA,NA,"Thevperuv","species","tree",NA
+"1101","Thevetia sp","Thevetia sp","Thevetia","Thevetia",NA,NA,"Thevsp","genus",NA,NA
+"1102","Tiliaceae sp","Tiliaceae","Tiliaceae","Tiliaceae",NA,NA,"Tilifm","family",NA,NA
+"1103","Tillandsia flexuosa","Tillandsia flexuosa","Tillandsia flexuosa","Tillandsia",NA,NA,"Tillflexu","species",NA,NA
+"1104","Tillandsia sp","Tillandsia sp","Tillandsia","Tillandsia",NA,NA,"Tillsp","genus",NA,NA
+"1105","Tr sp","Indeterminado",NA,NA,NA,"tree","NN","species","tree",NA
+"1106","Trattinnickia aspera","Trattinnickia aspera","Trattinnickia aspera","Trattinnickia","Burseraceae",NA,"Tratasper","species",NA,NA
+"1107","Trattinnickia rhoifolia","Trattinnickia rhoifolia","Trattinnickia rhoifolia","Trattinnickia","Burseraceae",NA,"Tratrhoif","species","tree",NA
+"1108","Trattinnickia sp","Trattinnickia sp","Trattinnickia","Trattinnickia","Burseraceae",NA,"Tratsp","genus",NA,NA
+"1109","Trema micrantha","Trema micrantha","Trema micrantha","Trema",NA,NA,"Tremmicra","species","tree",NA
+"1110","Trichanthera gigantea","Trichanthera gigantea","Trichanthera gigantea","Trichanthera",NA,NA,"Tricgigan","species","tree",NA
+"1111","Trichilia acuminata","Trichilia acuminata","Trichilia acuminata","Trichilia","Meliaceae","tree","Tricacum","species","tree",NA
+"1112","Trichilia afin pallida","Trichilia afin pallida","Trichilia","Trichilia","Meliaceae",NA,"Tricsp","genus",NA,NA
+"1113","Trichilia pallida","Trichilia pallida","Trichilia pallida","Trichilia","Meliaceae","tree","Tricpall","species","tree",NA
+"1114","Trichilia sp","Trichilia sp","Trichilia","Trichilia","Meliaceae",NA,"Tricsp","genus",NA,NA
+"1115","Trichillia palida","Trichilia pallida","Trichilia pallida","Trichilia","Meliaceae","tree","Tricpall","species","tree",NA
+"1116","Trichillia sp","Trichilia sp","Trichilia","Trichilia","Meliaceae",NA,"Tricsp","genus",NA,NA
+"1117","Tripalis americana","Triplaris americana","Triplaris americana","Triplaris","Polygonaceae","tree","Tripamer","species","tree",NA
+"1118","Triparisamericana sp","Triplaris americana","Triplaris americana","Triplaris","Polygonaceae","tree","Tripamer","species","tree",NA
+"1119","Triplanis america","Triplaris americana","Triplaris americana","Triplaris","Polygonaceae","tree","Tripamer","species","tree",NA
+"1120","Triplaris acuminata","Triplaris acuminata","Triplaris","Triplaris","Polygonaceae","tree","Tripsp","genus","tree",NA
+"1121","Triplaris american","Triplaris americana","Triplaris americana","Triplaris","Polygonaceae","tree","Tripamer","species","tree",NA
+"1122","Triplaris americana","Triplaris americana","Triplaris americana","Triplaris","Polygonaceae","tree","Tripamer","species","tree",NA
+"1123","Triplaris sp","Triplaris sp","Triplaris","Triplaris","Polygonaceae","tree","Tripsp","genus","tree",NA
+"1124","Trophis racemosa","Trophis racemosa","Trophis racemosa","Trophis","Moraceae","tree","Troprace","species","tree",NA
+"1125","Typha dominguensis","Typha dominguensis","Typha dominguensis","Typha",NA,NA,"Typhdomin","species","forb",NA
+"1126","Urea bacc","Urera baccifera","Urera baccifera","Urera","Urticaceae","shrub","Urerbacc","species","shrub",NA
+"1127","Urera baccifera","Urera baccifera","Urera baccifera","Urera","Urticaceae","shrub","Urerbacc","species","shrub",NA
+"1128","Urera caracasana","Urera caracasana","Urera caracasana","Urera","Urticaceae","tree","Urercara","species","tree",NA
+"1129","Urera sp","Urera sp","Urera","Urera","Urticaceae",NA,"Urersp","genus",NA,NA
+"1130","Uribea tamarindoides","Uribea tamarindoides","Uribea tamarindoides","Uribea",NA,NA,"Uribtamar","species",NA,NA
+"1131","Urtica urens","Urtica urens","Urtica urens","Urtica",NA,NA,"Urtiurens","species","forb",NA
+"1132","Urticaceae indetermianda","Urticaceae","Urticaceae","Urticaceae",NA,NA,"Urtifm","family",NA,NA
+"1133","Vanilla cf planifolia","Vanilla planifolia","Vanilla planifolia","Vanilla",NA,NA,"Vaniplani","species","forb",NA
+"1134","Vasconcellea cauliflora","Vasconcellea cauliflora","Vasconcellea cauliflora","Vasconcellea","Caricaceae",NA,"Vasccauli","species",NA,NA
+"1135","Vellozia tubiflora","Vellozia tubiflora","Vellozia tubiflora","Vellozia",NA,NA,"Velltubif","species","treelet",NA
+"1136","Verbena litoralis","Verbena litoralis","Verbena litoralis","Verbena",NA,NA,"Verblitor","species",NA,NA
+"1137","Vernonanthura brasiliana","Vernonanthura brasiliana","Vernonanthura brasiliana","Vernonanthura","Asteraceae",NA,"Vernbrasi","species","treelet",NA
+"1138","Vernonia patens","Vernonia patens","Vernonia patens","Vernonia",NA,NA,"Vernpaten","species","treelet",NA
+"1139","Vigna sp","Vigna sp","Vigna","Vigna","Fabaceae",NA,"Vignsp","genus",NA,NA
+"1140","Virola sebifera","Virola sebifera","Virola sebifera","Virola",NA,NA,"Virosebif","species","tree",NA
+"1141","Vismia baccifera","Vismia baccifera","Vismia baccifera","Vismia","Hypericaceae",NA,"Vismbacci","species",NA,NA
+"1142","Vismia lauriformis","Vismia lauriformis","Vismia lauriformis","Vismia","Hypericaceae",NA,"Vismlauri","species",NA,NA
+"1143","Vismia macrophylla","Vismia macrophylla","Vismia macrophylla","Vismia","Hypericaceae","tree","Vismmacr","species","tree",NA
+"1144","Vismia sp","Vismia sp","Vismia","Vismia","Hypericaceae",NA,"Vismsp","genus",NA,NA
+"1145","Vitex capitata","Vitex capitata","Vitex capitata","Vitex","Lamiaceae",NA,"Vitecapit","species","tree",NA
+"1146","Vitex compressa","Vitex compressa","Vitex compressa","Vitex","Lamiaceae","tree","Vitecomp","species","tree",NA
+"1147","Vitex cymosa","Vitex cymosa","Vitex cymosa","Vitex","Lamiaceae",NA,"Vitecymos","species","tree",NA
+"1148","Vitex orinocensi","Vitex orinocensis","Vitex orinocensis","Vitex","Lamiaceae","tree","Viteorin","species","tree",NA
+"1149","Vitex orinocensis","Vitex orinocensis","Vitex orinocensis","Vitex","Lamiaceae","tree","Viteorin","species","tree",NA
+"1150","Vitex sp","Vitex sp","Vitex","Vitex","Lamiaceae","treelet","Vitesp","genus","treelet",NA
+"1151","Vochisia lehmannii","Vochysia lehmannii","Vochysia lehmannii","Vochysia","Vochysiaceae","tree","Vochlehm","species","tree",NA
+"1152","Vochysia crassifolia","Vochysia crassifolia","Vochysia crassifolia","Vochysia","Vochysiaceae",NA,"Vochcrass","species","tree",NA
+"1153","Vochysia lehmanni","Vochysia lehmannii","Vochysia lehmannii","Vochysia","Vochysiaceae","tree","Vochlehm","species","tree",NA
+"1154","Vochysia lehmannii","Vochysia lehmannii","Vochysia lehmannii","Vochysia","Vochysiaceae","tree","Vochlehm","species","tree",NA
+"1155","Vochysia sp","Vochysia sp","Vochysia","Vochysia","Vochysiaceae",NA,"Vochsp","genus",NA,NA
+"1156","Vochysia venezuelana","Vochysia venezuelana","Vochysia venezuelana","Vochysia","Vochysiaceae",NA,"Vochvenez","species",NA,NA
+"1157","Wittmackanthus stanleyanus","Wittmackanthus stanleyanus","Wittmackanthus stanleyanus","Wittmackanthus",NA,NA,"Wittstanl","species",NA,NA
+"1158","Xyilopia aromatica","Xylopia aromatica","Xylopia aromatica","Xylopia","Annonaceae","tree","Xyloarom","species","tree","LC"
+"1159","Xylopia aromatica","Xylopia aromatica","Xylopia aromatica","Xylopia","Annonaceae","tree","Xyloarom","species","tree","LC"
+"1160","Xylopia emarginata","Xylopia emarginata","Xylopia emarginata","Xylopia","Annonaceae",NA,"Xyloemarg","species","tree",NA
+"1161","Xylopia sp","Xylopia sp","Xylopia","Xylopia","Annonaceae",NA,"Xylosp","genus",NA,NA
+"1162","Xylosma spiculiferum","Xylosma spiculiferum","Xylosma spiculiferum","Xylosma","Salicaceae",NA,"Xylospicu","species",NA,NA
+"1163","Zanthoxulum riofolia","Zanthoxylum rhoifolium","Zanthoxylum rhoifolium","Zanthoxylum","Rutaceae","tree","Zantrhoi","species","tree",NA
+"1164","Zanthoxyllum fagara","Zanthoxylum fagara","Zanthoxylum fagara","Zanthoxylum","Rutaceae","treelet","Zantfaga","species","treelet",NA
+"1165","Zanthoxyllum rhoifolium","Zanthoxylum rhoifolium","Zanthoxylum rhoifolium","Zanthoxylum","Rutaceae","tree","Zantrhoi","species","tree",NA
+"1166","Zanthoxyllum schreberi","Zanthoxylum schreberi","Zanthoxylum schreberi","Zanthoxylum","Rutaceae","tree","Zantschr","species","tree",NA
+"1167","Zanthoxylum berrucoso","Zanthoxylum verrucosum","Zanthoxylum verrucosum","Zanthoxylum","Rutaceae","tree","Zantverr","species","tree",NA
+"1168","Zanthoxylum berrucosun","Zanthoxylum verrucosum","Zanthoxylum verrucosum","Zanthoxylum","Rutaceae","tree","Zantverr","species","tree",NA
+"1169","Zanthoxylum caribaeum","Zanthoxylum caribaeum","Zanthoxylum caribaeum","Zanthoxylum","Rutaceae",NA,"Zantcarib","species","tree",NA
+"1170","Zanthoxylum cf gentryi","Zanthoxylum gentryi","Zanthoxylum gentryi","Zanthoxylum","Rutaceae",NA,"Zantgentr","species",NA,NA
+"1171","Zanthoxylum cf rigidum","Zanthoxylum rigidum","Zanthoxylum rigidum","Zanthoxylum","Rutaceae","tree","Zantrigi","species","tree",NA
+"1172","Zanthoxylum fagara","Zanthoxylum fagara","Zanthoxylum fagara","Zanthoxylum","Rutaceae","treelet","Zantfaga","species","treelet",NA
+"1173","Zanthoxylum fagava","Zanthoxylum fagara","Zanthoxylum fagara","Zanthoxylum","Rutaceae","treelet","Zantfaga","species","treelet",NA
+"1174","Zanthoxylum monofilum","Zanthoxylum monophyllum","Zanthoxylum monophyllum","Zanthoxylum","Rutaceae",NA,"Zantmonop","species",NA,NA
+"1175","Zanthoxylum monofolea","Zanthoxylum monofolea","Zanthoxylum","Zanthoxylum","Rutaceae","tree","Zantsp","genus","tree",NA
+"1176","Zanthoxylum monophyllum","Zanthoxylum monophyllum","Zanthoxylum monophyllum","Zanthoxylum","Rutaceae",NA,"Zantmonop","species",NA,NA
+"1177","Zanthoxylum rhoifoli","Zanthoxylum rhoifolium","Zanthoxylum rhoifolium","Zanthoxylum","Rutaceae","tree","Zantrhoi","species","tree",NA
+"1178","Zanthoxylum rhoifolium","Zanthoxylum rhoifolium","Zanthoxylum rhoifolium","Zanthoxylum","Rutaceae","tree","Zantrhoi","species","tree",NA
+"1179","Zanthoxylum rigidum","Zanthoxylum rigidum","Zanthoxylum rigidum","Zanthoxylum","Rutaceae","tree","Zantrigi","species","tree",NA
+"1180","Zanthoxylum rohifolium","Zanthoxylum rhoifolium","Zanthoxylum rhoifolium","Zanthoxylum","Rutaceae","tree","Zantrhoi","species","tree",NA
+"1181","Zanthoxylum roifolium","Zanthoxylum rhoifolium","Zanthoxylum rhoifolium","Zanthoxylum","Rutaceae","tree","Zantrhoi","species","tree",NA
+"1182","Zanthoxylum schreberi","Zanthoxylum schreberi","Zanthoxylum schreberi","Zanthoxylum","Rutaceae","tree","Zantschr","species","tree",NA
+"1183","Zanthoxylum sp","Zanthoxylum sp","Zanthoxylum","Zanthoxylum","Rutaceae","tree","Zantsp","genus","tree",NA
+"1184","Zanthoxylum terota","Zanthoxylum terota","Zanthoxylum pterota","Zanthoxylum","Rutaceae",NA,"Zantptero","species",NA,NA
+"1185","Zanthoxylum verrucosum","Zanthoxylum verrucosum","Zanthoxylum verrucosum","Zanthoxylum","Rutaceae","tree","Zantverr","species","tree",NA
+"1186","Zanthoxylump sp","Zanthoxylum sp","Zanthoxylum","Zanthoxylum","Rutaceae","tree","Zantsp","genus","tree",NA
+"1187","Zanthoxylun fagara","Zanthoxylum fagara","Zanthoxylum fagara","Zanthoxylum","Rutaceae","treelet","Zantfaga","species","treelet",NA
+"1188","Zapoteca formosa","Zapoteca formosa","Zapoteca formosa","Zapoteca",NA,NA,"Zapoformo","species","treelet",NA
+"1189","Zea mays","Zea mays","Zea mays","Zea",NA,NA,"Zeamays","species","forb",NA
+"1190","Ziziphus mauritiana","Ziziphus mauritiana","Ziziphus mauritiana","Ziziphus","Rhamnaceae",NA,"Zizimauri","species","tree",NA
+"1191","Ziziphus mauritianus","Ziziphus mauritiana","Ziziphus mauritiana","Ziziphus","Rhamnaceae",NA,"Zizimauri","species","tree",NA
+"1192","Zizuphus sp","Ziziphus sp","Ziziphus","Ziziphus","Rhamnaceae",NA,"Zizisp","genus",NA,NA
+"1193","Zygia sp","Zygia sp","Zygia","Zygia","Fabaceae","tree","Zygisp","genus","tree",NA

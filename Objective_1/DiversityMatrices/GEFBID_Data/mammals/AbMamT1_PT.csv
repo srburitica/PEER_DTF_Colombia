@@ -1,0 +1,25 @@
+"","Estacionf2","Species","Order","Family","transfC","IndNumber"
+"1","Station: CTAT1","Leopardus pardalis","CARNIVORA","Felidae","Baja",1
+"2","Station: CTAT1","Odocoileus cariacou","ARTIODACTYLA","Cervidae","Baja",6
+"3","Station: CTAT1","Dasyprocta  punctata","RODENTIA","Dasyproctidae","Baja",9
+"4","Station: CTAT1","Pecari  tajacu","ARTIODACTYLA","Tayassuidae","Baja",1
+"5","Station: CTAT3","Procyon  cancrivorus","CARNIVORA","Procyonidae","Alta",2
+"6","Station: CTAT4","Pecari  tajacu","ARTIODACTYLA","Tayassuidae","Media",3
+"7","Station: CTAT4","Dasyprocta  punctata","RODENTIA","Dasyproctidae","Media",1
+"8","Station: CTAT4","Cuniculus  paca","RODENTIA","Cuniculidae","Media",1
+"9","Station: CTAT4","Odocoileus cariacou","ARTIODACTYLA","Cervidae","Media",1
+"10","Station: CTAT5","Pecari  tajacu","ARTIODACTYLA","Tayassuidae","Media",2
+"11","Station: CTAT5","Conepatus  semistriatus","CARNIVORA","Mephitidae","Media",1
+"12","Station: CTAT5","Dasyprocta  punctata","RODENTIA","Dasyproctidae","Media",5
+"13","Station: CTAT5","Eira  barbara","CARNIVORA","Mustelidae","Media",2
+"14","Station: CTAT5","Cuniculus  paca","RODENTIA","Cuniculidae","Media",9
+"15","Station: CTAT5","Leopardus pardalis","CARNIVORA","Felidae","Media",1
+"16","Station: CTAT6","Eira  barbara","CARNIVORA","Mustelidae","Media",1
+"17","Station: CTAT6","Leopardus pardalis","CARNIVORA","Felidae","Media",1
+"18","Station: CTAT6","Tamandua  mexicana","PILOSA","Myrmecophagidae","Media",1
+"19","Station: CTAT6","Odocoileus cariacou","ARTIODACTYLA","Cervidae","Media",2
+"20","Station: CTAT7","Didelphis  marsupialis","DIDELPHIMORPHIA","Didelphidae","Alta",1
+"21","Station: CTAT7","Cerdocyon  thous","CARNIVORA","Canidae","Alta",2
+"22","Station: CTAT7","Cuniculus  paca","RODENTIA","Cuniculidae","Alta",1
+"23","Station: CTAT8","Felis silvestris catus","CARNIVORA","Felidae","Alta",4
+"24","Station: CTAT9","Procyon  cancrivorus","CARNIVORA","Procyonidae","Baja",1

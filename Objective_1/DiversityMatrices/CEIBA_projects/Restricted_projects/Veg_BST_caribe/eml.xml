@@ -1,0 +1,523 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId="http://i2d.humboldt.org.co/ceiba/resource.do?id=rrbb_regioncaribe_plantae_2015/v5" system="http://gbif.org" scope="system"
+         xml:lang="spa">
+
+<dataset>
+  <alternateIdentifier>http://i2d.humboldt.org.co/ceiba/resource.do?r=rrbb_regioncaribe_plantae_2015</alternateIdentifier>
+  <title xml:lang="spa">Registros de plantas de Bosque Seco Tropical derivados de información primaria: Región Caribe</title>
+<creator>
+    <individualName>
+        <givenName>Hermes</givenName>
+      <surName>Cuadros Villalobos</surName>
+    </individualName>
+    <organizationName>Universidad del Atlántico</organizationName>
+    <positionName>Investigador principal</positionName>
+    <address>
+        <city>Barranquilla</city>
+        <administrativeArea>Atlántico</administrativeArea>
+        <country>CO</country>
+    </address>
+    <electronicMailAddress>hcuadros2@gmail.com</electronicMailAddress>
+</creator>
+<metadataProvider>
+    <individualName>
+        <givenName>Adriana Marcela</givenName>
+      <surName>Quintana Vargas</surName>
+    </individualName>
+    <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+    <positionName>Contratista</positionName>
+    <address>
+        <deliveryPoint>Calle 28A No. 15-09</deliveryPoint>
+        <city>Bogotá, D.C.</city>
+        <administrativeArea>Bogotá, D.C.</administrativeArea>
+        <country>CO</country>
+    </address>
+    <phone>320 2767 Ext. 1237</phone>
+    <electronicMailAddress>adrintana@hotmail.com</electronicMailAddress>
+    <onlineUrl>http://www.humboldt.org.co/</onlineUrl>
+</metadataProvider>
+    <associatedParty>
+    <individualName>
+      <surName>Infraestructura Institucional de Datos</surName>
+    </individualName>
+    <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+    <positionName>Investigador</positionName>
+    <address>
+        <deliveryPoint>Calle 28A No. 15-09</deliveryPoint>
+        <city>Bogotá, D.C.</city>
+        <administrativeArea>Bogotá, D.C.</administrativeArea>
+        <country>CO</country>
+    </address>
+    <phone>320 2767 Ext. 1237</phone>
+    <electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress>
+    <onlineUrl>http://www.humboldt.org.co/</onlineUrl>
+    <role>custodianSteward</role>
+    </associatedParty>
+<pubDate>
+      	2017-05-16
+</pubDate>
+<language>spa</language>
+<abstract>
+  <para>I2D-BIO_2013_IN019. 
+
+La base de datos presenta una compilación de registros biológicos de especies vegetales para este ecosistema en los departamentos de Atlántico, Bolívar, César, La Guajira, Magdalena y Sucre. Fue construida con base en las expediciones de verificación de coberturas realizadas durante el año 2013 en el marco del proyecto de verificación del mapa de coberturas de bosque seco tropical para Colombia a escala 1:100.000. En total se reportan 1664 individuos respectivos a 241 especies, 170 géneros y 61 familias botánicas. Las familias botánicas con mayor número de especies son Fabaceae (50), Capparaceae (12) y Rubiaceae (12).</para>
+</abstract>
+      <keywordSet>
+            <keyword>bosque seco tropical</keyword>
+            <keyword>especímenes botánicos</keyword>
+            <keyword>muestras botánicas</keyword>
+            <keyword>información primaria</keyword>
+            <keyword>Plantae</keyword>
+            <keyword>Atlántico</keyword>
+            <keyword>Bolívar</keyword>
+            <keyword>César</keyword>
+            <keyword>La Guajira</keyword>
+            <keyword>Magdalena</keyword>
+            <keyword>Sucre</keyword>
+        <keywordThesaurus>N/A</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Occurrence</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Specimen</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+  <additionalInfo>
+    <para>Se incorporó dentro de la Infraestructura Institucional de Datos del Instituto Humboldt un recurso derivado de información secundaria asociado al presente recurso e informes de actividades referentes a los productos del contrato.</para>
+  </additionalInfo>
+  <intellectualRights>
+    <para>Libre a nivel interno</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">http://i2d.humboldt.org.co/ceiba/resource.do?r=rrbb_regioncaribe_plantae_2015</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Bosque seco tropical en los departamentos de Atlántico, Bolívar, César, La Guajira, Magdalena y Sucre.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-75.5</westBoundingCoordinate>
+          <eastBoundingCoordinate>-71.2</eastBoundingCoordinate>
+          <northBoundingCoordinate>12.24</northBoundingCoordinate>
+          <southBoundingCoordinate>9.39</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>2013-09-26</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2013-11-21</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Se siguió el sistema de clasificación de APG III (2009) para las Angiospermas. En total se reportan 1664 individuos respectivos a 241 especies, 170 géneros y 61 familias botánicas. Las familias botánicas documentadas con el número de especies y número de individuos respectivamente registradas en el recurso son: Fabaceae (50, 437), Capparaceae (12, 91), Rubiaceae (12, 46), Malvaceae (11, 126), Arecaceae (10, 32), Bignoniaceae (8, 75), Euphorbiaceae (8, 84), Apocynaceae (7, 54), Moraceae (7, 32), Boraginaceae (6, 65), Poaceae (6, 12), Polygonaceae (6, 31), Anacardiaceae (5, 117), Cactaceae (5, 80), Myrtaceae (5, 7), Nyctaginaceae (5, 10), Sapindaceae (5, 23), Lamiaceae (4, 10), Malpighiaceae (4, 15), Meliaceae (4, 7), Salicaceae (4, 18), Annonaceae (3, 4), Burseraceae (3, 85), Ulmaceae (3, 4), Acanthaceae (2, 6), Chrysobalanaceae (2, 2), Erythroxylaceae (2, 5), Lecythidaceae (2, 7), Phyllanthaceae (2, 2), Piperaceae (2, 3), Rhamnaceae (2, 8), Rutaceae (2, 2), Simaroubaceae (2, 2), Solanaceae (2, 2), Urticaceae (2, 27), Achatocarpaceae (1, 1), Araliaceae (1, 2), Bixaceae (1, 8), Bromeliaceae (1, 6), Cannabaceae (1, 1), Celastraceae (1, 2), Combretaceae (1, 4), Convolvulaceae (1, 2), Cucurbitaceae (1, 1), Cyclanthaceae (1, 3), Dilleniaceae (1, 5), Heliconiaceae (1, 5), Hernandiaceae (1, 18), Lacistemataceae (1, 1), Lauraceae (1, 5), Loasaceae (1, 1), Lythraceae (1, 2), Muntingiaceae (1, 4), Musaceae (1, 2), Phytolaccaceae (1, 4), Primulaceae (1, 1), Sapotaceae (1, 11), Typhaceae (1, 1), Violaceae (1, 2), Zygophyllaceae (1, 40), Cleomaceae (1,1).</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Fabaceae</taxonRankValue>
+                  <commonName>Fabaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Capparaceae</taxonRankValue>
+                  <commonName>Capparaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Rubiaceae</taxonRankValue>
+                  <commonName>Rubiaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Malvaceae</taxonRankValue>
+                  <commonName>Malvaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Arecaceae</taxonRankValue>
+                  <commonName>Arecaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Bignoniaceae</taxonRankValue>
+                  <commonName>Bignoniaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Euphorbiaceae</taxonRankValue>
+                  <commonName>Euphorbiaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Apocynaceae</taxonRankValue>
+                  <commonName>Apocynaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Moraceae</taxonRankValue>
+                  <commonName>Moraceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Boraginaceae</taxonRankValue>
+                  <commonName>Boraginaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Poaceae</taxonRankValue>
+                  <commonName>Poaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Polygonaceae</taxonRankValue>
+                  <commonName>Polygonaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Anacardiaceae</taxonRankValue>
+                  <commonName>Anacardiaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Cactaceae</taxonRankValue>
+                  <commonName>Cactaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Myrtaceae</taxonRankValue>
+                  <commonName>Myrtaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Nyctaginaceae</taxonRankValue>
+                  <commonName>Nyctaginaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Sapindaceae</taxonRankValue>
+                  <commonName>Sapindaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Lamiaceae</taxonRankValue>
+                  <commonName>Lamiaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Malpighiaceae</taxonRankValue>
+                  <commonName>Malpighiaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Meliaceae</taxonRankValue>
+                  <commonName>Meliaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Salicaceae</taxonRankValue>
+                  <commonName>Salicaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Annonaceae</taxonRankValue>
+                  <commonName>Annonaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Burseraceae</taxonRankValue>
+                  <commonName>Burseraceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Ulmaceae</taxonRankValue>
+                  <commonName>Ulmaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Acanthaceae</taxonRankValue>
+                  <commonName>Acanthaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Chrysobalanaceae</taxonRankValue>
+                  <commonName>Chrysobalanaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Erythroxylaceae</taxonRankValue>
+                  <commonName>Erythroxylaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Lecythidaceae</taxonRankValue>
+                  <commonName>Lecythidaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Phyllanthaceae</taxonRankValue>
+                  <commonName>Phyllanthaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Piperaceae</taxonRankValue>
+                  <commonName>Piperaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Rhamnaceae</taxonRankValue>
+                  <commonName>Rhamnaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Rutaceae</taxonRankValue>
+                  <commonName>Rutaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Simaroubaceae</taxonRankValue>
+                  <commonName>Simaroubaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Solanaceae</taxonRankValue>
+                  <commonName>Solanaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Urticaceae</taxonRankValue>
+                  <commonName>Urticaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Achatocarpaceae</taxonRankValue>
+                  <commonName>Achatocarpaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Araliaceae</taxonRankValue>
+                  <commonName>Araliaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Bixaceae</taxonRankValue>
+                  <commonName>Bixaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Bromeliaceae</taxonRankValue>
+                  <commonName>Bromeliaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Cannabaceae</taxonRankValue>
+                  <commonName>Cannabaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Celastraceae</taxonRankValue>
+                  <commonName>Celastraceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Combretaceae</taxonRankValue>
+                  <commonName>Combretaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Convolvulaceae</taxonRankValue>
+                  <commonName>Convolvulaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Cucurbitaceae</taxonRankValue>
+                  <commonName>Cucurbitaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Cyclanthaceae</taxonRankValue>
+                  <commonName>Cyclanthaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Dilleniaceae</taxonRankValue>
+                  <commonName>Dilleniaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Heliconiaceae</taxonRankValue>
+                  <commonName>Heliconiaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Hernandiaceae</taxonRankValue>
+                  <commonName>Hernandiaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Lacistemataceae</taxonRankValue>
+                  <commonName>Lacistemataceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Lauraceae</taxonRankValue>
+                  <commonName>Lauraceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Loasaceae</taxonRankValue>
+                  <commonName>Loasaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Lythraceae</taxonRankValue>
+                  <commonName>Lythraceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Muntingiaceae</taxonRankValue>
+                  <commonName>Muntingiaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Musaceae</taxonRankValue>
+                  <commonName>Musaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Phytolaccaceae</taxonRankValue>
+                  <commonName>Phytolaccaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Primulaceae</taxonRankValue>
+                  <commonName>Primulaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Sapotaceae</taxonRankValue>
+                  <commonName>Sapotaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Typhaceae</taxonRankValue>
+                  <commonName>Typhaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Violaceae</taxonRankValue>
+                  <commonName>Violaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Zygophyllaceae</taxonRankValue>
+                  <commonName>Zygophyllaceas</commonName>
+              </taxonomicClassification>
+              <taxonomicClassification>
+                  <taxonRankName>family</taxonRankName>
+                <taxonRankValue>Cleomaceae</taxonRankValue>
+                  <commonName>Cleomaceas</commonName>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <purpose>
+    <para>Compilar una base de datos de las expediciones de verificación de cobertura realizadas en los departamentos de Atlántico, Bolívar, César, La Guajira, Magdalena y Sucre, en el marco del proyecto de verificación del mapa de coberturas de bosque seco tropical para Colombia a escala 1:100.000, con el fin de incorporar esta información a la lista de plantas de bosque seco tropical de Colombia en proceso de construcción.</para>
+  </purpose>
+  <contact>
+    <individualName>
+        <givenName>Roy</givenName>
+      <surName>González</surName>
+    </individualName>
+    <organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>
+    <positionName>Investigador</positionName>
+    <address>
+        <deliveryPoint>Calle 28A No. 15-09</deliveryPoint>
+        <city>Bogotá, D.C.</city>
+        <administrativeArea>Bogotá, D.C.</administrativeArea>
+        <country>CO</country>
+    </address>
+    <phone>320 2767 Ext. 1237</phone>
+    <electronicMailAddress>rgonzalez@humboldt.org.co</electronicMailAddress>
+    <onlineUrl>http://www.humboldt.org.co/</onlineUrl>
+  </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>En cada punto visitado (asociado al polígono de verificación), se registró el estado sucesional de la cobertura, el estado de conservación tanto del área interna de la cobertura como del área asociada a la matriz circundante del polígono de verificación. Finalmente se realizaron colecciones botánicas de las especies más abundantes en estratos emergentes y de dosel.</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>Cada espécimen fue procesado en el Herbario Federico Medem del IAvH.</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>Durante los meses de septiembre, octubre y noviembre de 2013 se realizaron colectas botánicas libres en las coberturas de bosque seco tropical para los departamentos de Atlántico, Bolívar, César, La Guajira, Magdalena y Sucre; para el levantamiento y compilación de estas muestras se realizaron recorridos de verificación para dichas coberturas.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Con base en el documento metodológico elaborado por el IAvH (2013), el cual contiene las técnicas y métodos para realizar el proceso de verificación en campo de los polígonos de bosque seco en los diferentes regiones del país (Caribe, Nor-Andino, Valle del río Magdalena, Valle del Rio Cauca), se programaron diferentes recorridos de campo, en los cuales se llenaron formatos para verificación de coberturas de Bs-T, y se consignaron datos sobre estado sucesional y estado de conservación de cada uno de los polígonos verificados.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Cada colección botánica fue procesada y revisada por un experto botánico y finalmente consignada como colección en el Herbario Federico Medem del IAvH. Se siguió el sistema de clasificación de APG III (2009) para las Angiospermas.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project>
+      <title>Verificación de coberturas del mapa bosque seco tropical para Colombia, a escala 1:100.000</title>
+    <personnel>
+      <individualName>
+          <givenName>Hermes</givenName>
+        <surName>Cuadros Villalobos</surName>
+      </individualName>
+      <role>principalInvestigator</role>
+    </personnel>
+    <funding>
+      <para>Contrato No. 13-13-113-203PS, entre el Instituto de Investigación de Recursos Biológicos &quot;Alexander von Humboldt&quot; y Hermes Cuadros Villalobos. Este contrato dará cumplimiento a la meta M.2 de la Línea 3, Gestión territorial de la biodiversidad y los servicios ecosistémicos, Actividad 1 y 2 del POA del Convenio 13-113 del 2013 y Contrato No. 14-14/008-14/075-190PS entre el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt y Adriana Marcela Quintana Vargas con el objeto de estandarizar y documentar los datos.</para>
+    </funding>
+    <studyAreaDescription>
+      <descriptor name="generic"
+                  citableClassificationSystem="false">
+        <descriptorValue>El área de estudio comprende las coberturas de bosque seco tropical para los departamentos de Atlántico, Bolívar, César, La Guajira, Magdalena y Sucre. Región Caribe del mapa a escala 1:100.000</descriptorValue>
+      </descriptor>
+    </studyAreaDescription>
+    <designDescription>
+      <description>
+          <para>A partir de una compilación de los ejemplares de herbario en los departamentos Atlántico, Bolívar, César, La Guajira, Magdalena y Sucre y unos recorridos de verificación de coberturas de bosque seco tropical de Colombia a escala 1:100.000 en la región Caribe, se construye un listado de especies vegetales que son colectadas con frecuencia en este ecosistema y registradas como las más abundantes en las regiones de colecta. Lo anterior con el fin de identificar las especies características de este ecosistema y contrastar el componente florístico a partir de índices de diversidad y riqueza con otras regiones con coberturas de Bs-T del país.</para>
+      </description>
+    </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2015-02-16T11:57:25.548-05:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="http://i2d.humboldt.org.co/ceiba/resource.do?r=rrbb_regioncaribe_plantae_2015">Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (2015). Registros de plantas de Bosque Seco Tropical derivados de información primaria: Región Caribe. 1664 registros, aportados por: González, R. (Contacto del recurso), Cuadros-Villalobos, H. (Creador del recurso), Quintana, A. (Proveedor de metadatos). Versión 4.0. http://i2d.humboldt.org.co/ceiba/resource.do?r=rrbb_regioncaribe_plantae_2015</citation>
+          <bibliography>
+                <citation identifier="http://www.theplantlist.org/   ">The Plant List (2013). Version 1.1. Published on the Internet; http://www.theplantlist.org/</citation>
+                <citation identifier="http://www.mobot.org/MOBOT/research/APweb/   ">Stevens, P. F. (2001 onwards). Angiosperm Phylogeny Website. Version 12, July 2012</citation>
+                <citation identifier="http://tnrs.iplantcollaborative.org   ">The Taxonomic Name Resolution Service. iPlant Collaborative. Version 3.2.</citation>
+          </bibliography>
+          <collection>
+            <parentCollectionIdentifier>N/A</parentCollectionIdentifier>
+            <collectionIdentifier>FMB</collectionIdentifier>
+            <collectionName>Herbario Federico Medem IAvH</collectionName>
+          </collection>
+          <specimenPreservationMethod>dried</specimenPreservationMethod>
+          <dc:replaces>http://i2d.humboldt.org.co/ceiba/resource.do?id=rrbb_regioncaribe_plantae_2015/v4.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

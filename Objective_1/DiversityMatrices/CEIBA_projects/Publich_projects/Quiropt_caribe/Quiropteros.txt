@@ -1,0 +1,9 @@
+	Artibeus lituratus	Artibeus planirostris	Carollia castanea	Carollia perspicillata	Centronycteris centralis	Dermanura cinerea	Desmodus rotundus	Glossophaga longirostris rostrata	Glossophaga soricina soricina	Lonchophylla silvicolum	Lophostoma silvicolum	Micronycteris megalotis	Mimon crenulatum	Mormoops megalophylla	Natalus stramineus	Oligoryzomys	Peropteryx trinitatis	Phyllostomus discolor	Phyllostomus hastatus	Saccopteryx	Saccopteryx bilineata	Saccopteryx canescens	Sturnira luisi	Sturnira tildae	Tonatia saurophila bakeri	Trachops cirrhosus	Uroderma convexum
+Corregimiento Hibácharo, vereda La Cristalina, finca La Cristalina, Reserva Forestal Protectora El Palomar. Zona de conservación #1. Cañon de curso de agua seco en Bosque Seco Tropical.	0	0	1	1	0	0	7	4	2	0	0	4	2	0	0	0	0	1	0	0	3	0	0	0	0	1	0
+Corregimiento Hibácharo, vereda La Cristalina, finca La Cristalina. Zona de Uso # 1. Pastoreo al lado de paso de agua arroyo.	0	0	2	1	0	0	2	3	4	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Resguardo indigena Zaino, Rancheria Zaino. Zona de uso #3. Pastoreo (cabras).	0	0	0	0	0	0	5	4	2	0	0	1	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0
+Vereda El Paramo, finca Mis Deseos. Zona de uso #2. Ganadería y cultivos.	0	0	3	0	0	0	4	0	4	0	1	0	0	0	0	0	0	3	0	0	0	0	2	4	2	0	0
+Vereda El Paramo, Reserva Forestal Protectora Mira Flores. Zona de conservacion #2. Cañón de curso de agua seco en Bosque Seco Tropical.	2	3	6	0	0	1	3	0	1	0	0	0	0	0	0	0	0	0	9	0	4	0	1	3	0	3	4
+Zona de aislamiento #1. Cañon de curso de agua seco. Corregimiento Hibácharo, vereda La Cristalina, finca La Cristalina	0	0	2	1	0	0	3	4	2	1	0	2	0	0	1	1	0	0	0	0	0	1	0	0	0	1	0
+Zona de aislamiento #2. Vereda El Paramo, finca Grano de Oro	0	0	3	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	1
+Zona de aislamiento #3. Resguardo indígena Zaino, Rancheria Zaino	0	0	0	0	2	0	1	4	2	0	1	1	0	5	0	0	4	0	0	1	0	0	0	0	0	0	0
